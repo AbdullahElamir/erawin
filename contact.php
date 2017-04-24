@@ -65,13 +65,13 @@
   <script type="text/javascript" src="js/jquery.easypiechart.min.js"></script>
   <script type="text/javascript" src="js/jquery.nicescroll.min.js"></script>
   <script type="text/javascript" src="js/jquery.parallax.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUOjP4p07TUUPyf_27boPVlc3wPKtMonY&callback=initMap"
+  <script src="httpss://maps.googleapis.com/maps/api/js?key=AIzaSyBUOjP4p07TUUPyf_27boPVlc3wPKtMonY&callback=initMap"
     async defer></script>
   <script type="text/javascript" src="js/jquery.slicknav.js"></script>
 
 
-  <!--[if IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <!--[if IE 8]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
 </head>
 

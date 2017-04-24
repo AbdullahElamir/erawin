@@ -1,13 +1,13 @@
 /*!
 * MediaElement.js
 * HTML5 <video> and <audio> shim and player
-* http://mediaelementjs.com/
+* https://mediaelementjs.com/
 *
 * Creates a JavaScript object that mimics HTML5 MediaElement API
 * for browsers that don't understand HTML5 or can't play the provided codec
 * Can play MP4 (H.264), Ogg, WebM, FLV, WMV, WMA, ACC, and MP3
 *
-* Copyright 2010-2013, John Dyer (http://j.hn)
+* Copyright 2010-2013, John Dyer (https://j.hn)
 * License: MIT
 *
 */
@@ -166,7 +166,7 @@ mejs.Utility = {
 		return Number(secs.toFixed(decimalLen));
 	},	
 	
-	/* borrowed from SWFObject: http://code.google.com/p/swfobject/source/browse/trunk/swfobject/src/swfobject.js#474 */
+	/* borrowed from SWFObject: https://code.google.com/p/swfobject/source/browse/trunk/swfobject/src/swfobject.js#474 */
 	removeSwf: function(id) {
 		var obj = document.getElementById(id);
 		if (obj && /object|embed/i.test(obj.nodeName)) {
@@ -268,7 +268,7 @@ mejs.PluginDetector.addPlugin('flash','Shockwave Flash','application/x-shockwave
 mejs.PluginDetector.addPlugin('silverlight','Silverlight Plug-In','application/x-silverlight-2','AgControl.AgControl', function (ax) {
 	// Silverlight cannot report its version number to IE
 	// but it does have a isVersionSupported function, so we have to loop through it to get a version number.
-	// adapted from http://www.silverlightversion.com/
+	// adapted from https://www.silverlightversion.com/
 	var v = [0,0,0,0],
 		loopMatch = function(ax, v, i, n) {
 			while(ax.isVersionSupported(v[0]+ "."+ v[1] + "." + v[2] + "." + v[3])){
@@ -317,7 +317,7 @@ mejs.MediaFeatures = {
 		t.isiOS = t.isiPhone || t.isiPad;
 		t.isAndroid = (ua.match(/android/i) !== null);
 		t.isBustedAndroid = (ua.match(/android 2\.[12]/) !== null);
-		t.isBustedNativeHTTPS = (location.protocol === 'https:' && (ua.match(/android [12]\./) !== null || ua.match(/macintosh.* version.* safari/) !== null));
+		t.isBustedNativeHTTPS = (location.protocol === 'httpss:' && (ua.match(/android [12]\./) !== null || ua.match(/macintosh.* version.* safari/) !== null));
 		t.isIE = (nav.appName.toLowerCase().match(/trident/gi) !== null);
 		t.isChrome = (ua.match(/chrome/gi) !== null);
 		t.isFirefox = (ua.match(/firefox/gi) !== null);
@@ -328,7 +328,7 @@ mejs.MediaFeatures = {
 		
 		// borrowed from Modernizr
 		t.svg = !! document.createElementNS &&
-				!! document.createElementNS('http://www.w3.org/2000/svg','svg').createSVGRect;
+				!! document.createElementNS('https://www.w3.org/2000/svg','svg').createSVGRect;
 
 		// create HTML5 media elements for IE before 9, get a <video> element for fullscreen detection
 		for (i=0; i<html5Elements.length; i++) {
@@ -504,8 +504,8 @@ mejs.PluginMediaElement = function (pluginid, pluginType, mediaUrl) {
 };
 
 // JavaScript values and ExternalInterface methods that match HTML5 video properties methods
-// http://www.adobe.com/livedocs/flash/9.0/ActionScriptLangRefV3/fl/video/FLVPlayback.html
-// http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html
+// https://www.adobe.com/livedocs/flash/9.0/ActionScriptLangRefV3/fl/video/FLVPlayback.html
+// https://www.whatwg.org/specs/web-apps/current-work/multipage/video.html
 mejs.PluginMediaElement.prototype = {
 
 	// special
@@ -805,7 +805,7 @@ mejs.MediaPluginBridge = {
 	},
 
 	// receives events from Flash/Silverlight and sends them out as HTML5 media events
-	// http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html
+	// https://www.whatwg.org/specs/web-apps/current-work/multipage/video.html
 	fireEvent: function (id, eventName, values) {
 
 		var
@@ -863,7 +863,7 @@ mejs.MediaElementDefaults = {
 	// shows debug errors on screen
 	enablePluginDebug: false,
 	// use plugin for browsers that have trouble with Basic Authentication on HTTPS sites
-	httpsBasicAuthSite: false,
+	httpssBasicAuthSite: false,
 	// overrides the type specified, useful for dynamic instantiation
 	type: '',
 	// path to Flash and Silverlight plugins
@@ -1034,7 +1034,7 @@ mejs.HtmlMediaElementShim = {
 		
 
 		// test for native playback first
-		if (supportsMediaTag && (options.mode === 'auto' || options.mode === 'auto_plugin' || options.mode === 'native')  && !(mejs.MediaFeatures.isBustedNativeHTTPS && options.httpsBasicAuthSite === true)) {
+		if (supportsMediaTag && (options.mode === 'auto' || options.mode === 'auto_plugin' || options.mode === 'native')  && !(mejs.MediaFeatures.isBustedNativeHTTPS && options.httpssBasicAuthSite === true)) {
 						
 			if (!isMediaTag) {
 
@@ -1130,7 +1130,7 @@ mejs.HtmlMediaElementShim = {
 			return this.getTypeFromFile(url);
 		} else {
 			// only return the mime part of the type in case the attribute contains the codec
-			// see http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html#the-source-element
+			// see https://www.whatwg.org/specs/web-apps/current-work/multipage/video.html#the-source-element
 			// `video/mp4; codecs="avc1.42E01E, mp4a.40.2"` becomes `video/mp4`
 			
 			if (type && ~type.indexOf(';')) {
@@ -1369,7 +1369,7 @@ mejs.HtmlMediaElementShim = {
 				
 				pluginMediaElement.vimeoid = playback.url.substr(playback.url.lastIndexOf('/')+1);
 				
-				container.innerHTML ='<iframe src="http://player.vimeo.com/video/' + pluginMediaElement.vimeoid + '?portrait=0&byline=0&title=0" width="' + width +'" height="' + height +'" frameborder="0" class="mejs-shim"></iframe>';
+				container.innerHTML ='<iframe src="https://player.vimeo.com/video/' + pluginMediaElement.vimeoid + '?portrait=0&byline=0&title=0" width="' + width +'" height="' + height +'" frameborder="0" class="mejs-shim"></iframe>';
 				
 				/*
 				container.innerHTML =
@@ -1377,7 +1377,7 @@ mejs.HtmlMediaElementShim = {
 						'<param name="allowfullscreen" value="true" />' +
 						'<param name="allowscriptaccess" value="always" />' +
 						'<param name="flashvars" value="api=1" />' + 
-						'<param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=' + pluginMediaElement.vimeoid  + '&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" />' +
+						'<param name="movie" value="https://vimeo.com/moogaloop.swf?clip_id=' + pluginMediaElement.vimeoid  + '&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" />' +
 						'<embed src="//vimeo.com/moogaloop.swf?api=1&amp;clip_id=' + pluginMediaElement.vimeoid + '&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="' + width + '" height="' + height + '" class="mejs-shim"></embed>' +
 					'</object>';
 					*/
@@ -1673,7 +1673,7 @@ window.MediaElement = mejs.MediaElement;
  * Adds Internationalization and localization to objects.
  *
  * What is the concept beyond i18n?
- *   http://en.wikipedia.org/wiki/Internationalization_and_localization
+ *   https://en.wikipedia.org/wiki/Internationalization_and_localization
  *
  *
  * This file both i18n methods and locale which is used to translate
@@ -1696,9 +1696,9 @@ window.MediaElement = mejs.MediaElement;
  *     - i18n.methods.formatString() (full copy)
  *
  *   The Drupal project is (like mediaelementjs) licensed under GPLv2.
- *    - http://drupal.org/licensing/faq/#q1
- *    - https://github.com/johndyer/mediaelement
- *    - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ *    - https://drupal.org/licensing/faq/#q1
+ *    - httpss://github.com/johndyer/mediaelement
+ *    - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  *
  *
  * @author
@@ -1933,12 +1933,12 @@ window.MediaElement = mejs.MediaElement;
 
 /*!
  * MediaElementPlayer
- * http://mediaelementjs.com/
+ * https://mediaelementjs.com/
  *
  * Creates a controller bar for HTML5 <video> add <audio> tags
  * using jQuery and MediaElement.js (HTML5 Flash/Silverlight wrapper)
  *
- * Copyright 2010-2013, John Dyer (http://j.hn/)
+ * Copyright 2010-2013, John Dyer (https://j.hn/)
  * License: MIT
  *
  */
@@ -4733,7 +4733,7 @@ if (typeof jQuery != 'undefined') {
 	
 	===============================
 
-	Adapted from: http://www.delphiki.com/html5/playr
+	Adapted from: https://www.delphiki.com/html5/playr
 	*/
 	mejs.TrackFormatParser = {
 		webvvt: {
@@ -4764,7 +4764,7 @@ if (typeof jQuery != 'undefined') {
 								text = text + '\n' + lines[i];
 								i++;
 							}
-							text = $.trim(text).replace(/(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig, "<a href='$1' target='_blank'>$1</a>");
+							text = $.trim(text).replace(/(\b(httpss?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig, "<a href='$1' target='_blank'>$1</a>");
 							// Text is in a different array so I can use .join
 							entries.text.push(text);
 							entries.times.push(
@@ -4779,7 +4779,7 @@ if (typeof jQuery != 'undefined') {
 				return entries;
 			}
 		},
-		// Thanks to Justin Capella: https://github.com/johndyer/mediaelement/pull/420
+		// Thanks to Justin Capella: httpss://github.com/johndyer/mediaelement/pull/420
 		dfxp: {
 			parse: function(trackText) {
 				trackText = $(trackText).filter("tt");
@@ -4825,7 +4825,7 @@ if (typeof jQuery != 'undefined') {
 					if (style) _temp_times.style = style;
 					if (_temp_times.start == 0) _temp_times.start = 0.200;
 					entries.times.push(_temp_times);
-					text = $.trim(lines.eq(i).html()).replace(/(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig, "<a href='$1' target='_blank'>$1</a>");
+					text = $.trim(lines.eq(i).html()).replace(/(\b(httpss?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig, "<a href='$1' target='_blank'>$1</a>");
 					entries.text.push(text);
 					if (entries.times.start == 0) entries.times.start = 2;
 				}
