@@ -1,6 +1,6 @@
 /*
  * jQuery.appear
- * httpss://github.com/bas2k/jquery.appear/
+ * https://github.com/bas2k/jquery.appear/
  * https://code.google.com/p/jquery-appear/
  *
  * Copyright (c) 2009 Michael Hixson

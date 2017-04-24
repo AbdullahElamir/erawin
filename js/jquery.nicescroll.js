@@ -4,7 +4,7 @@
 -- licensed under the MIT
 --
 -- https://areaaperta.com/nicescroll
--- httpss://github.com/inuyaksa/jquery.nicescroll
+-- https://github.com/inuyaksa/jquery.nicescroll
 --
 */
 
@@ -1981,7 +1981,7 @@
       return self;
     };
    
-// modified by MDN httpss://developer.mozilla.org/en-US/docs/DOM/Mozilla_event_reference/wheel
+// modified by MDN https://developer.mozilla.org/en-US/docs/DOM/Mozilla_event_reference/wheel
     function _modernWheelEvent(dom,name,fn,bubble) {      
       self._bind(dom,name,function(e){
         var  e = (e) ? e : window.event;

@@ -6,7 +6,7 @@
 <head>
 
   <!-- Basic -->
-  <title>Margo | About Us</title>
+  <title>ERAWIN | About Us</title>
 
   <!-- Define Charset -->
   <meta charset="utf-8">
@@ -147,7 +147,7 @@
               <i class="fa fa-bars"></i>
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
-            <a class="navbar-brand" href="index.html"><img width="150" higth="50" alt="" src="images/erawin.jpg"></a>
+            <a class="navbar-brand" href="index.php"><img width="150" higth="50" alt="" src="images/erawin.jpg"></a>
           </div>
           <div class="navbar-collapse collapse">
             <!-- Stat Search -->
@@ -163,9 +163,9 @@
             <!-- Start Navigation List -->
             <ul class="nav navbar-nav navbar-right">
               <li>
-                <a href="index.html">Home</a>
+                <a href="index.php">Home</a>
                 <ul class="dropdown">
-                  <li><a href="index.html">Home Main Version</a></li>
+                  <li><a href="index.php">Home Main Version</a></li>
                   <li><a href="index-01.html">Home Version 1</a></li>
                   <li><a href="index-02.html">Home Version 2</a></li>
                   <li><a href="index-03.html">Home Version 3</a></li>
@@ -176,9 +176,12 @@
                 </ul>
               </li>
               <li>
-                <a class="active" href="about.html">Pages</a>
+                <a class="active" href="about.php">About us</a>
+              </li>
+              <li>
+                <a  href="about.php">Pages</a>
                 <ul class="dropdown">
-                  <li><a class="active" href="about.html">About</a></li>
+                  <li><a class="active" href="about.php">About</a></li>
                   <li><a href="services.html">Services</a></li>
                   <li><a href="right-sidebar.html">Right Sidebar</a></li>
                   <li><a href="left-sidebar.html">Left Sidebar</a></li>
@@ -215,7 +218,7 @@
                   <li><a href="single-post.html">Blog Single Post</a></li>
                 </ul>
               </li>
-              <li><a href="contact.html">Contact</a></li>
+              <li><a href="contact.php">Contact</a></li>
             </ul>
             <!-- End Navigation List -->
           </div>
@@ -224,9 +227,9 @@
         <!-- Mobile Menu Start -->
         <ul class="wpb-mobile-menu">
           <li>
-            <a href="index.html">Home</a>
+            <a href="index.php">Home</a>
             <ul class="dropdown">
-              <li><a href="index.html">Home Main Version</a>
+              <li><a href="index.php">Home Main Version</a>
               </li>
               <li><a href="index-01.html">Home Version 1</a>
               </li>
@@ -245,9 +248,9 @@
             </ul>
           </li>
           <li>
-            <a class="active" href="about.html">Pages</a>
+            <a class="active" href="about.php">Pages</a>
             <ul class="dropdown">
-              <li><a class="active" href="about.html">About</a>
+              <li><a class="active" href="about.php">About</a>
               </li>
               <li><a href="services.html">Services</a>
               </li>
@@ -305,7 +308,7 @@
             </ul>
           </li>
           <li>
-            <a href="contact.html">Contact</a>
+            <a href="contact.php">Contact</a>
           </li>
         </ul>
         <!-- Mobile Menu End -->
@@ -348,11 +351,18 @@
             <div class="col-md-7">
 
               <!-- Classic Heading -->
-              <h4 class="classic-title"><span>Welcome To Our Agency</span></h4>
+              <h4 class="classic-title"><span><font face="verdana" color="black" size="4"><strong>Welcome To Our Agency</strong></font></span></h4>
 
               <!-- Some Text -->
-              <p>Lorem Ipsum is simply dummy text of the <a title="Simple Tooltip" href="#" class="itl-tooltip" data-placement="top">printing</a> and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-              <p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Sed ut perspiciatis unde omnis iste natus error sit volup accusantium. Lorem ipsum dolor sit amet, consectetur.</p>
+              <p><font face="verdana" color="black" size="3">For more than 5 years, Erawin for Cleaning and Infection Control, has dedicated itself to providing professional facilities management services for business and industries, hospitals and health care facilities, schools, Airline companies in the country. Launched on March 25, 2013, Erawin company is a subsidiary of Robia Group of Companies, the country’s leading medical and scientific laboratory appliances and medicine provider in Libya, established since 1994.
+​
+              Erawin Company was recognized in it’s industry as the most admired service company in Tripoli, Libya. For 5 years, the company has continuously evolved through its core businesses: janitorial and cleaning service, infectious control services and pest control services. The company has pursued the same standard of excellence and has adhered to its parent company’s core values:
+               1) To honor God in all we do.
+               2) To excel with customers.
+               3) To help people develop.
+               4) To grow profitably.
+              ​
+              Erawin for Cleaning and Infection Control thanks its customers and partners for their loyalty and trust. After 5 fulfilling years, Erawin company remains committed to its mission to pursue excellence and delight its customers.</font></p>
 
             </div>
 
@@ -360,9 +370,14 @@
 
               <!-- Start Touch Slider -->
               <div class="touch-slider" data-slider-navigation="true" data-slider-pagination="true">
-                <div class="item"><img alt="" src="images/about-01.jpg"></div>
-                <div class="item"><img alt="" src="images/about-02.jpg"></div>
-                <div class="item"><img alt="" src="images/about-03.jpg"></div>
+                
+                <div class="item"><img alt="" src="images/school_images/20150421_092046.jpg"></div>
+                <div class="item"><img alt="" src="images/school_images/IMG_3228.JPG"></div>
+                <div class="item"><img alt="" src="images/school_images/IMG_4625.JPG"></div>
+                <div class="item"><img alt="" src="images/school_images/IMG_3275.JPG"></div>
+                <div class="item"><img alt="" src="images/school_images/20150422_115716.jpg"></div>
+                <div class="item"><img alt="" src="images/school_images/IMG_4636.JPG"></div>
+                <div class="item"><img alt="" src="images/school_images/20150423_130025.jpg" ></div>
               </div>
               <!-- End Touch Slider -->
 
@@ -376,40 +391,39 @@
           <div class="row">
 
             <div class="col-md-6">
-
               <!-- Classic Heading -->
               <h4 class="classic-title"><span>Our Skills</span></h4>
 
               <div class="skill-shortcode">
                 <div class="skill">
-                  <p>Web Design</p>
+                  <p>CLEAN</p>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" data-percentage="60">
-                      <span class="progress-bar-span">60%</span>
-                      <span class="sr-only">60% Complete</span>
+                    <div class="progress-bar" role="progressbar" data-percentage="100">
+                      <span class="progress-bar-span">100%</span>
+                      <span class="sr-only">100% Complete</span>
                     </div>
                   </div>
                 </div>
                 <div class="skill">
-                  <p>Wordpress</p>
+                  <p>SANITIZE</p>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" data-percentage="80">
-                      <span class="progress-bar-span">80%</span>
-                      <span class="sr-only">60% Complete</span>
+                    <div class="progress-bar" role="progressbar" data-percentage="100">
+                      <span class="progress-bar-span">100%</span>
+                      <span class="sr-only">100% Complete</span>
                     </div>
                   </div>
                 </div>
                 <div class="skill">
-                  <p>CSS 3</p>
+                  <p>DISINFECT</p>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" data-percentage="90">
-                      <span class="progress-bar-span">90%</span>
-                      <span class="sr-only">60% Complete</span>
+                    <div class="progress-bar" role="progressbar" data-percentage="100">
+                      <span class="progress-bar-span">100%</span>
+                      <span class="sr-only">100% Complete</span>
                     </div>
                   </div>
                 </div>
                 <div class="skill">
-                  <p>HTML 5</p>
+                  <p>FUMIGATE</p>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" data-percentage="100">
                       <span class="progress-bar-span">100%</span>
@@ -436,13 +450,13 @@
                     <h4 class="panel-title">
                       <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1">
                         <i class="fa fa-angle-up control-icon"></i>
-                        <i class="fa fa-desktop"></i> Fully Responsive Theme
+                        <i class="fa fa-desktop"></i> We are Erawin We are the best!
                       </a>
                     </h4>
                   </div>
                   <!-- Toggle Content -->
                   <div id="collapse-1" class="panel-collapse collapse in">
-                    <div class="panel-body"><img class="img-thumbnail image-text" style="float:left; width:150px;" alt="" src="images/bussniss-pic.jpg" /> <strong class="accent-color">Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown <strong>printer</strong> took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</div>
+                    <div class="panel-body"><img class="img-thumbnail image-text" style="float:left; width:150px;" alt="" src="images/bussniss-pic.jpg" /> <strong class="accent-color"></strong><font face="verdana" color="black" size="3"> We are Erawin Cleaning & Infection Control,  work to reduce the incidence of infection within the health care  and public facilities. Our basic objective is to protect the patients first, which result in the protection of workers as well as the protection of the environment health facilities and penetrate into the causes of the risk of the spread of infection.</font></div>
                   </div>
                 </div>
                 <!-- End Accordion 1 -->
@@ -454,13 +468,21 @@
                     <h4 class="panel-title">
                       <a data-toggle="collapse" data-parent="#accordion" href="#collapse-2" class="collapsed">
                         <i class="fa fa-angle-up control-icon"></i>
-                        <i class="fa fa-gift"></i> Touchable Slider
+                        <i class="fa fa-gift"></i> ADVANTAGES OF BIOGENIE FOR DECONTAMINATION
                       </a>
                     </h4>
                   </div>
                   <!-- Toggle Content -->
                   <div id="collapse-2" class="panel-collapse collapse">
-                    <div class="panel-body">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. The point of using Lorem Ipsum is that it has a <strong>more-or-less</strong> normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+                    <div class="panel-body"><pre><font face="verdana" color="black" size="3"> Period of Cleaning and Decontaminating is about 4 hours, room can be use immediately.
+                    Highly effective decontamination against wide range of bacteria, viruses and fungi such as: MRSA. C.DIFF CILE, E.COLI, VRE, & ACINETOBACTER species.
+                    Using 6% of Hydrogen Peroxide Vapor (VHP) with 0.006% silver anions to increase efficiency.
+                    Hydrogen Peroxide Vapor is able to penetrate even to the difficult narrow place and hard to access places inside the room.
+                    Environment friendly.
+
+                    We are fully prepared to provide management services for infection control at your health facility. We decontaminate to most very risk areas, these areas include,  Operations Room, Intensive Care Unit, Isolation Rooms, Neo-Natal Intensive Care Unit, Emergency Rooms and Laboratories. Our team clean and decontaminate in order to control infection.
+                   We would like to inform you that we offer annual contract and give you a program for decontamination and infection control in order to prevent the widespread of infection, epidemics and viruses  in your hospital using our modern way and techniques in infection control.
+                 </pre> </font></div>
                   </div>
                 </div>
                 <!-- End Accordion 2 -->
@@ -477,105 +499,193 @@
           <h4 class="classic-title"><span>Our Creative Team</span></h4>
 
           <!-- Start Team Members -->
-          <div class="row">
+           <div class="row">
 
-            <!-- Start Memebr 1 -->
-            <div class="col-md-3 col-sm-6 col-xs-12">
-              <div class="team-member">
-                <!-- Memebr Photo, Name & Position -->
-                <div class="member-photo">
-                  <img alt="" src="images/team/face_1.png" />
-                  <div class="member-name">John Doe <span>Developer</span></div>
-                </div>
-                <!-- Memebr Words -->
-                <div class="member-info">
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat.</p>
-                </div>
-                <!-- Memebr Social Links -->
-                <div class="member-socail">
-                  <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-                  <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                  <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-                  <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                  <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+          <!-- Start Memebr 1 -->
+          <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="03">
+            <div class="team-member modern">
+              <!-- Memebr Photo, Name & Position -->
+              <div class="member-photo">
+                <img alt="" src="images/team/face_1.png" />
+                <div class="member-name">Osama Rihan <span>G.Manager</span>
                 </div>
               </div>
-            </div>
-            <!-- End Memebr 1 -->
-
-            <!-- Start Memebr 2 -->
-            <div class="col-md-3 col-sm-6 col-xs-12">
-              <div class="team-member">
-                <!-- Memebr Photo, Name & Position -->
-                <div class="member-photo">
-                  <img alt="" src="images/team/face_2.png" />
-                  <div class="member-name">Silly Sally <span>Developer</span></div>
-                </div>
-                <!-- Memebr Words -->
-                <div class="member-info">
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat.</p>
-                </div>
-                <!-- Memebr Social Links -->
-                <div class="member-socail">
-                  <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-                  <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                  <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-                  <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                  <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+              <!-- Memebr Words -->
+              <div class="member-info">
+                <p>General Manager at Erawin for Cleaning and Infection Control .</p>
+              </div>
+              <!-- Start Progress Bar 1 -->
+              <div class="progress-label">Engineering</div>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-progress-animation="96%" data-appear-animation-delay="400">
+                  <span class="percentage">96%</span>
                 </div>
               </div>
-            </div>
-            <!-- End Memebr 2 -->
-
-            <!-- Start Memebr 3 -->
-            <div class="col-md-3 col-sm-6 col-xs-12">
-              <div class="team-member">
-                <!-- Memebr Photo, Name & Position -->
-                <div class="member-photo">
-                  <img alt="" src="images/team/face_3.png" />
-                  <div class="member-name">Chris John <span>Developer</span></div>
-                </div>
-                <!-- Memebr Words -->
-                <div class="member-info">
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat.</p>
-                </div>
-                <!-- Memebr Social Links -->
-                <div class="member-socail">
-                  <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-                  <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                  <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-                  <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                  <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+              <!-- Start Progress Bar 2 -->
+              <div class="progress-label">Writer</div>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-progress-animation="88%" data-appear-animation-delay="800">
+                  <span class="percentage">88%</span>
                 </div>
               </div>
-            </div>
-            <!-- End Memebr 3 -->
-
-            <!-- Start Memebr 4 -->
-            <div class="col-md-3 col-sm-6 col-xs-12">
-              <div class="team-member">
-                <!-- Memebr Photo, Name & Position -->
-                <div class="member-photo">
-                  <img alt="" src="images/team/face_4.png" />
-                  <div class="member-name">Sara John <span>Developer</span></div>
-                </div>
-                <!-- Memebr Words -->
-                <div class="member-info">
-                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat.</p>
-                </div>
-                <!-- Memebr Social Links -->
-                <div class="member-socail">
-                  <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-                  <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                  <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-                  <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                  <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+              <!-- Start Progress Bar 3 -->
+              <div class="progress-label">programming</div>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
+                  <span class="percentage">100%</span>
                 </div>
               </div>
+              <!-- Memebr Social Links -->
+              <div class="member-socail">
+                <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+                <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
+                <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
+                <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+              </div>
             </div>
-            <!-- End Memebr 4 -->
-
           </div>
+          <!-- End Memebr 1 -->
+
+          <!-- Start Memebr 2 -->
+          <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="04">
+            <div class="team-member modern">
+              <!-- Memebr Photo, Name & Position -->
+              <div class="member-photo">
+                <img alt="" src="images/team/face_2.png" />
+                <div class="member-name">Ashraf Rihan <span>Developer</span>
+                </div>
+              </div>
+              <!-- Memebr Words -->
+              <div class="member-info">
+                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat.</p>
+              </div>
+              <!-- Start Progress Bar 1 -->
+              <div class="progress-label">Photoshop</div>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-progress-animation="96%" data-appear-animation-delay="400">
+                  <span class="percentage">96%</span>
+                </div>
+              </div>
+              <!-- Start Progress Bar 2 -->
+              <div class="progress-label">Logo Design</div>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-progress-animation="88%" data-appear-animation-delay="800">
+                  <span class="percentage">88%</span>
+                </div>
+              </div>
+              <!-- Start Progress Bar 3 -->
+              <div class="progress-label">Vectors Design</div>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
+                  <span class="percentage">100%</span>
+                </div>
+              </div>
+              <!-- Memebr Social Links -->
+              <div class="member-socail">
+                <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+                <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
+                <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
+                <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+              </div>
+            </div>
+          </div>
+          <!-- End Memebr 2 -->
+
+          <!-- Start Memebr 3 -->
+          <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="05">
+            <div class="team-member modern">
+              <!-- Memebr Photo, Name & Position -->
+              <div class="member-photo">
+                <img alt="" src="images/team/face_3.png" />
+                <div class="member-name">Abdulmonum Rihan <span>Developer</span>
+                </div>
+              </div>
+              <!-- Memebr Words -->
+              <div class="member-info">
+                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat.</p>
+              </div>
+              <!-- Start Progress Bar 1 -->
+              <div class="progress-label">Photoshop</div>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-progress-animation="96%" data-appear-animation-delay="400">
+                  <span class="percentage">96%</span>
+                </div>
+              </div>
+              <!-- Start Progress Bar 2 -->
+              <div class="progress-label">Logo Design</div>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-progress-animation="94%" data-appear-animation-delay="800">
+                  <span class="percentage">94%</span>
+                </div>
+              </div>
+              <!-- Start Progress Bar 3 -->
+              <div class="progress-label">Vectors Design</div>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-progress-animation="90%" data-appear-animation-delay="1200">
+                  <span class="percentage">90%</span>
+                </div>
+              </div>
+              <!-- Memebr Social Links -->
+              <div class="member-socail">
+                <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+                <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
+                <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
+                <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+              </div>
+            </div>
+          </div>
+          <!-- End Memebr 3 -->
+
+          <!-- Start Memebr 4 -->
+          <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="06">
+            <div class="team-member modern">
+              <!-- Memebr Photo, Name & Position -->
+              <div class="member-photo">
+                <img alt="" src="images/team/face_4.png" />
+                <div class="member-name">Abdo Elamir <span>Developer</span>
+                </div>
+              </div>
+              <!-- Memebr Words -->
+              <div class="member-info">
+                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat.</p>
+              </div>
+              <!-- Start Progress Bar 1 -->
+              <div class="progress-label">Photoshop</div>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-progress-animation="96%" data-appear-animation-delay="400">
+                  <span class="percentage">96%</span>
+                </div>
+              </div>
+              <!-- Start Progress Bar 2 -->
+              <div class="progress-label">Logo Design</div>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-progress-animation="85%" data-appear-animation-delay="800">
+                  <span class="percentage">85%</span>
+                </div>
+              </div>
+              <!-- Start Progress Bar 3 -->
+              <div class="progress-label">Vectors Design</div>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
+                  <span class="percentage">100%</span>
+                </div>
+              </div>
+              <!-- Memebr Social Links -->
+              <div class="member-socail">
+                <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+                <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
+                <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
+                <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+              </div>
+            </div>
+          </div>
+          <!-- End Memebr 4 -->
+
+        </div>
           <!-- End Team Members -->
 
           <!-- Divider -->
@@ -641,12 +751,13 @@
 
 
     <!-- Start Footer -->
-    <footer>
+   <footer>
       <div class="container">
         <div class="row footer-widgets">
 
+
           <!-- Start Subscribe & Social Links Widget -->
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-12">
             <div class="footer-widget mail-subscribe-widget">
               <h4>Get in touch<span class="head-line"></span></h4>
               <p>Join our mailing list to stay up to date and get notices about our new releases!</p>
@@ -696,8 +807,8 @@
 
 
           <!-- Start Twitter Widget -->
-          <div class="col-md-3">
-            <div class="footer-widget twitter-widget">
+          <div class="col-md-3 col-xs-12">
+            <!-- <div class="footer-widget twitter-widget">
               <h4>Twitter Feed<span class="head-line"></span></h4>
               <ul>
                 <li>
@@ -713,14 +824,14 @@
                   <span>28 February 2014</span>
                 </li>
               </ul>
-            </div>
+            </div> -->
           </div>
           <!-- .col-md-3 -->
           <!-- End Twitter Widget -->
 
 
           <!-- Start Flickr Widget -->
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-12">
             <div class="footer-widget flickr-widget">
               <h4>Flicker Feed<span class="head-line"></span></h4>
               <ul class="flickr-list">
@@ -777,14 +888,14 @@
 
 
           <!-- Start Contact Widget -->
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-12">
             <div class="footer-widget contact-widget">
               <h4><img src="images/footer-margo.png" class="img-responsive" alt="Footer Logo" /></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <p>you may be able to find the answer you want on our support pages</p>
               <ul>
-                <li><span>Phone Number:</span> +01 234 567 890</li>
-                <li><span>Email:</span> company@company.com</li>
-                <li><span>Website:</span> www.yourdomain.com</li>
+                <li><span>Phone Number:</span> +021 483 1619</li>
+                <li><span>Email:</span>  o.rihan@erawin.com.ly</li>
+                <li><span>Website:</span> erawin.com.ly/</li>
               </ul>
             </div>
           </div>
@@ -799,16 +910,20 @@
         <div class="copyright-section">
           <div class="row">
             <div class="col-md-6">
-              <p>&copy; 2014 Margo - All Rights Reserved</p>
+              <p>&copy; 2017 ERAWIN - All Rights Reserved</p>
             </div>
+            <!-- .col-md-6 -->
             <div class="col-md-6">
               <ul class="footer-nav">
-                <li><a href="#">Sitemap</a></li>
-                <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="contact.php">Sitemap</a></li>
+                <li><a href="contact.php">Privacy Policy</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                </li>
               </ul>
             </div>
+            <!-- .col-md-6 -->
           </div>
+          <!-- .row -->
         </div>
         <!-- End Copyright -->
 

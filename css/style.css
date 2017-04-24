@@ -4452,7 +4452,7 @@ ul.footer-nav li a:hover {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-	/* httpss://bugzilla.mozilla.org/show_bug.cgi?id=308801 */
+	/* https://bugzilla.mozilla.org/show_bug.cgi?id=308801 */
 }
 .nivo-lightbox-error {
 	display: table;

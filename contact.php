@@ -65,7 +65,7 @@
   <script type="text/javascript" src="js/jquery.easypiechart.min.js"></script>
   <script type="text/javascript" src="js/jquery.nicescroll.min.js"></script>
   <script type="text/javascript" src="js/jquery.parallax.js"></script>
-  <script src="httpss://maps.googleapis.com/maps/api/js?key=AIzaSyBUOjP4p07TUUPyf_27boPVlc3wPKtMonY&callback=initMap"
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUOjP4p07TUUPyf_27boPVlc3wPKtMonY&callback=initMap"
     async defer></script>
   <script type="text/javascript" src="js/jquery.slicknav.js"></script>
 
@@ -150,7 +150,7 @@
               <i class="fa fa-bars"></i>
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
-            <a class="navbar-brand" href="index.html"><img width="150" higth="50" alt="" src="images/erawin.jpg"></a>
+            <a class="navbar-brand" href="index.php"><img width="150" higth="50" alt="" src="images/erawin.jpg"></a>
           </div>
           <div class="navbar-collapse collapse">
             <!-- Stat Search -->
@@ -166,9 +166,9 @@
             <!-- Start Navigation List -->
             <ul class="nav navbar-nav navbar-right">
               <li>
-                <a href="index.html">Home</a>
+                <a href="index.php">Home</a>
                 <ul class="dropdown">
-                  <li><a href="index.html">Home Main Version</a></li>
+                  <li><a href="index.php">Home Main Version</a></li>
                   <li><a href="index-01.html">Home Version 1</a></li>
                   <li><a href="index-02.html">Home Version 2</a></li>
                   <li><a href="index-03.html">Home Version 3</a></li>
@@ -179,9 +179,9 @@
                 </ul>
               </li>
               <li>
-                <a href="about.html">Pages</a>
+                <a href="about.php">Pages</a>
                 <ul class="dropdown">
-                  <li><a href="about.html">About</a></li>
+                  <li><a href="about.php">About</a></li>
                   <li><a href="services.html">Services</a></li>
                   <li><a href="right-sidebar.html">Right Sidebar</a></li>
                   <li><a href="left-sidebar.html">Left Sidebar</a></li>
@@ -227,9 +227,9 @@
         <!-- Mobile Menu Start -->
         <ul class="wpb-mobile-menu">
           <li>
-            <a href="index.html">Home</a>
+            <a href="index.php">Home</a>
             <ul class="dropdown">
-              <li><a href="index.html">Home Main Version</a>
+              <li><a href="index.php">Home Main Version</a>
               </li>
               <li><a href="index-01.html">Home Version 1</a>
               </li>
@@ -248,9 +248,9 @@
             </ul>
           </li>
           <li>
-            <a href="about.html">Pages</a>
+            <a href="about.php">Pages</a>
             <ul class="dropdown">
-              <li><a href="about.html">About</a>
+              <li><a href="about.php">About</a>
               </li>
               <li><a href="services.html">Services</a>
               </li>

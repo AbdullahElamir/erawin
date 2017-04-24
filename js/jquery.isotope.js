@@ -274,7 +274,7 @@
    * smartresize: debounced resize event for jQuery
    *
    * latest version and complete README available on Github:
-   * httpss://github.com/louisremi/jquery.smartresize.js
+   * https://github.com/louisremi/jquery.smartresize.js
    *
    * Copyright 2011 @louis_remi
    * Licensed under the MIT license.
@@ -1364,9 +1364,9 @@
   // =======================  Plugin bridge  ===============================
   // leverages data method to either create or return $.Isotope constructor
   // A bit from jQuery UI
-  //   httpss://github.com/jquery/jquery-ui/blob/master/ui/jquery.ui.widget.js
+  //   https://github.com/jquery/jquery-ui/blob/master/ui/jquery.ui.widget.js
   // A bit from jcarousel
-  //   httpss://github.com/jsor/jcarousel/blob/master/lib/jquery.jcarousel.js
+  //   https://github.com/jsor/jcarousel/blob/master/lib/jquery.jcarousel.js
 
   $.fn.isotope = function( options, callback ) {
     if ( typeof options === 'string' ) {

@@ -317,7 +317,7 @@ mejs.MediaFeatures = {
 		t.isiOS = t.isiPhone || t.isiPad;
 		t.isAndroid = (ua.match(/android/i) !== null);
 		t.isBustedAndroid = (ua.match(/android 2\.[12]/) !== null);
-		t.isBustedNativeHTTPS = (location.protocol === 'httpss:' && (ua.match(/android [12]\./) !== null || ua.match(/macintosh.* version.* safari/) !== null));
+		t.isBustedNativeHTTPS = (location.protocol === 'https:' && (ua.match(/android [12]\./) !== null || ua.match(/macintosh.* version.* safari/) !== null));
 		t.isIE = (nav.appName.toLowerCase().match(/trident/gi) !== null);
 		t.isChrome = (ua.match(/chrome/gi) !== null);
 		t.isFirefox = (ua.match(/firefox/gi) !== null);
@@ -863,7 +863,7 @@ mejs.MediaElementDefaults = {
 	// shows debug errors on screen
 	enablePluginDebug: false,
 	// use plugin for browsers that have trouble with Basic Authentication on HTTPS sites
-	httpssBasicAuthSite: false,
+	httpsBasicAuthSite: false,
 	// overrides the type specified, useful for dynamic instantiation
 	type: '',
 	// path to Flash and Silverlight plugins
@@ -1034,7 +1034,7 @@ mejs.HtmlMediaElementShim = {
 		
 
 		// test for native playback first
-		if (supportsMediaTag && (options.mode === 'auto' || options.mode === 'auto_plugin' || options.mode === 'native')  && !(mejs.MediaFeatures.isBustedNativeHTTPS && options.httpssBasicAuthSite === true)) {
+		if (supportsMediaTag && (options.mode === 'auto' || options.mode === 'auto_plugin' || options.mode === 'native')  && !(mejs.MediaFeatures.isBustedNativeHTTPS && options.httpsBasicAuthSite === true)) {
 						
 			if (!isMediaTag) {
 
@@ -1697,7 +1697,7 @@ window.MediaElement = mejs.MediaElement;
  *
  *   The Drupal project is (like mediaelementjs) licensed under GPLv2.
  *    - https://drupal.org/licensing/faq/#q1
- *    - httpss://github.com/johndyer/mediaelement
+ *    - https://github.com/johndyer/mediaelement
  *    - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  *
  *
@@ -4764,7 +4764,7 @@ if (typeof jQuery != 'undefined') {
 								text = text + '\n' + lines[i];
 								i++;
 							}
-							text = $.trim(text).replace(/(\b(httpss?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig, "<a href='$1' target='_blank'>$1</a>");
+							text = $.trim(text).replace(/(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig, "<a href='$1' target='_blank'>$1</a>");
 							// Text is in a different array so I can use .join
 							entries.text.push(text);
 							entries.times.push(
@@ -4779,7 +4779,7 @@ if (typeof jQuery != 'undefined') {
 				return entries;
 			}
 		},
-		// Thanks to Justin Capella: httpss://github.com/johndyer/mediaelement/pull/420
+		// Thanks to Justin Capella: https://github.com/johndyer/mediaelement/pull/420
 		dfxp: {
 			parse: function(trackText) {
 				trackText = $(trackText).filter("tt");
@@ -4825,7 +4825,7 @@ if (typeof jQuery != 'undefined') {
 					if (style) _temp_times.style = style;
 					if (_temp_times.start == 0) _temp_times.start = 0.200;
 					entries.times.push(_temp_times);
-					text = $.trim(lines.eq(i).html()).replace(/(\b(httpss?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig, "<a href='$1' target='_blank'>$1</a>");
+					text = $.trim(lines.eq(i).html()).replace(/(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig, "<a href='$1' target='_blank'>$1</a>");
 					entries.text.push(text);
 					if (entries.times.start == 0) entries.times.start = 2;
 				}

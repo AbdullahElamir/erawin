@@ -105,6 +105,9 @@ height: 120px;
                 <li><a href="#"><i class="fa fa-envelope-o"></i> info@erawin..com.ly</a>
                 </li>
                 <li><a href="#"><i class="fa fa-phone"></i> +021 483 1619</a>
+                <li><a href="#"><i class="fa fa-phone"></i> 0928171880</a>
+                <li><a href="#"><i class="fa fa-phone"></i> 0919337815</a>
+                    
                 </li>
               </ul>
               <!-- End Contact Info -->
@@ -165,7 +168,7 @@ height: 120px;
               <i class="fa fa-bars"></i>
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="httpshtml">
               <img width="150" higth="50" alt="" src="images/erawin.jpg" width="" hight="">
             </a>
           </div>
@@ -183,9 +186,9 @@ height: 120px;
             <!-- Start Navigation List -->
             <ul class="nav navbar-nav navbar-right">
               <li>
-                <a class="active" href="index.html">Home</a>
+                <a class="active" href="index.php">Home</a>
                 <ul class="dropdown">
-                  <li><a class="active" href="index.html">Home Main Version</a>
+                  <li><a class="active" href="index.php">Home Main Version</a>
                   </li>
                   <li><a href="index-01.html">Home Version 1</a>
                   </li>
@@ -204,9 +207,12 @@ height: 120px;
                 </ul>
               </li>
               <li>
-                <a href="about.html">Pages</a>
+                <a href="about.php">About us</a>
+              </li>
+              <li>
+                <a href="about.php">Pages</a>
                 <ul class="dropdown">
-                  <li><a href="about.html">About</a>
+                  <li><a href="about.php">About</a>
                   </li>
                   <li><a href="services.html">Services</a>
                   </li>
@@ -275,9 +281,9 @@ height: 120px;
         <!-- Mobile Menu Start -->
         <ul class="wpb-mobile-menu">
           <li>
-            <a class="active" href="index.html">Home</a>
+            <a class="active" href="index.php">Home</a>
             <ul class="dropdown">
-              <li><a class="active" href="index.html">Home Main Version</a>
+              <li><a class="active" href="index.php">Home Main Version</a>
               </li>
               <li><a href="index-01.html">Home Version 1</a>
               </li>
@@ -296,9 +302,9 @@ height: 120px;
             </ul>
           </li>
           <li>
-            <a href="about.html">Pages</a>
+            <a href="about.php">Pages</a>
             <ul class="dropdown">
-              <li><a href="about.html">About</a>
+              <li><a href="about.php">About</a>
               </li>
               <li><a href="services.html">Services</a>
               </li>
@@ -570,13 +576,12 @@ height: 120px;
           <!-- Start Animations Text -->
           <h1 class="fittext wite-text uppercase tlt">
                       <span class="texts">
-                        <span>Modern</span>
-                        <span>Clean</span>
-                        <span>Awesome</span>
-                        <span>Cool</span>
-                        <span>Great</span>
-                      </span>
-                        Margo Template is Ready for <br/>Business, Agency <strong>or</strong> Creative Portfolios
+                        <span>To honor God in all we do.</span>
+                        <span>To excel with customers.</span>
+                        <span>To help people develop.</span>
+                        <span>To grow profitably</span>
+                      </span><br>
+                        Erawin for Cleaning and Infection Control thanks its customers and partners for their loyalty and trust. After 5 fulfilling years <br/>
                     </h1>
           <!-- End Animations Text -->
 
