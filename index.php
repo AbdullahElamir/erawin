@@ -106,7 +106,7 @@ height: 120px;
                 </li>
                 <li><a href="#"><i class="fa fa-phone"></i> +021 483 1619</a>
                 <li><a href="#"><i class="fa fa-phone"></i> 0928171880</a>
-                <li><a href="#"><i class="fa fa-phone"></i> 0919337815</a>
+       
                     
                 </li>
               </ul>
@@ -182,6 +182,7 @@ height: 120px;
                 </form>
               </div>
             </div>
+            
             <!-- End Search -->
             <!-- Start Navigation List -->
             <ul class="nav navbar-nav navbar-right">
@@ -209,12 +210,14 @@ height: 120px;
               <li>
                 <a href="about.php">About us</a>
               </li>
+              <li><a href="services.php">Services</a>
+                 </li>
               <li>
                 <a href="about.php">Pages</a>
                 <ul class="dropdown">
                   <li><a href="about.php">About</a>
                   </li>
-                  <li><a href="services.html">Services</a>
+                  <li><a href="services.php">Services</a>
                   </li>
                   <li><a href="right-sidebar.html">Right Sidebar</a>
                   </li>
@@ -306,7 +309,7 @@ height: 120px;
             <ul class="dropdown">
               <li><a href="about.php">About</a>
               </li>
-              <li><a href="services.html">Services</a>
+              <li><a href="services.php">Services</a>
               </li>
               <li><a href="right-sidebar.html">Right Sidebar</a>
               </li>
@@ -373,6 +376,7 @@ height: 120px;
       <!-- End Header Logo & Naviagtion -->
 
     </header>
+ 
     <!-- End Header Section -->
 
 
@@ -608,8 +612,8 @@ height: 120px;
       </div>
       <!-- End Big Heading -->
 
-      <p class="text-center">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-        <br/>veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+      <p class="text-center">     We all facilities intensive campaigns targeted on the Elimination of all, pest and insect existing on-site use of 
+        <br/>pesticides with high efficiency, especially on health in general and safe </p>
 
 
       <!-- Start Recent Projects Carousel -->

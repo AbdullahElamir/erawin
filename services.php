@@ -79,25 +79,29 @@
 
     <!-- Start Header -->
     <div class="hidden-header"></div>
-    <header class="clearfix">
+     <header class="clearfix">
 
       <!-- Start Top Bar -->
       <div class="top-bar">
         <div class="container">
           <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-7">
               <!-- Start Contact Info -->
               <ul class="contact-details">
-                <li><a href="#"><i class="fa fa-map-marker"></i> House-54/A, London, UK</a>
+                 <li><a href="#"><i class="fa fa-map-marker"></i> Hay elundalos, Tripoli, Libya</a>
                 </li>
-                <li><a href="#"><i class="fa fa-envelope-o"></i> info@yourcompany.com</a>
+                <li><a href="#"><i class="fa fa-envelope-o"></i> info@erawin..com.ly</a>
                 </li>
-                <li><a href="#"><i class="fa fa-phone"></i> +12 345 678 000</a>
+                <li><a href="#"><i class="fa fa-phone"></i> +021 483 1619</a>
+                <li><a href="#"><i class="fa fa-phone"></i> 0928171880</a>
+       
+                    
                 </li>
               </ul>
               <!-- End Contact Info -->
             </div>
-            <div class="col-md-6">
+            <!-- .col-md-6 -->
+            <div class="col-md-5">
               <!-- Start Social Links -->
               <ul class="social-list">
                 <li>
@@ -133,12 +137,17 @@
               </ul>
               <!-- End Social Links -->
             </div>
+            <!-- .col-md-6 -->
           </div>
+          <!-- .row -->
         </div>
+        <!-- .container -->
       </div>
+      <!-- .top-bar -->
       <!-- End Top Bar -->
 
-      <!-- Start Header ( Logo & Naviagtion ) -->
+
+      <!-- Start  Logo & Naviagtion  -->
       <div class="navbar navbar-default navbar-top">
         <div class="container">
           <div class="navbar-header">
@@ -147,7 +156,9 @@
               <i class="fa fa-bars"></i>
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
-            <a class="navbar-brand" href="index.php"><img width="150" higth="50" alt="" src="images/erawin.jpg"></a>
+            <a class="navbar-brand" href="httpshtml">
+              <img width="150" higth="50" alt="" src="images/erawin.jpg" width="" hight="">
+            </a>
           </div>
           <div class="navbar-collapse collapse">
             <!-- Stat Search -->
@@ -159,63 +170,100 @@
                 </form>
               </div>
             </div>
+            
             <!-- End Search -->
             <!-- Start Navigation List -->
             <ul class="nav navbar-nav navbar-right">
               <li>
-                <a href="index.php">Home</a>
+                <a class="active" href="index.php">Home</a>
                 <ul class="dropdown">
-                  <li><a href="index.php">Home Main Version</a></li>
-                  <li><a href="index-01.html">Home Version 1</a></li>
-                  <li><a href="index-02.html">Home Version 2</a></li>
-                  <li><a href="index-03.html">Home Version 3</a></li>
-                  <li><a href="index-04.html">Home Version 4</a></li>
-                  <li><a href="index-05.html">Home Version 5</a></li>
-                  <li><a href="index-06.html">Home Version 6</a></li>
-                  <li><a href="index-07.html">Home Version 7</a></li>
+                  <li><a class="active" href="index.php">Home Main Version</a>
+                  </li>
+                  <li><a href="index-01.html">Home Version 1</a>
+                  </li>
+                  <li><a href="index-02.html">Home Version 2</a>
+                  </li>
+                  <li><a href="index-03.html">Home Version 3</a>
+                  </li>
+                  <li><a href="index-04.html">Home Version 4</a>
+                  </li>
+                  <li><a href="index-05.html">Home Version 5</a>
+                  </li>
+                  <li><a href="index-06.html">Home Version 6</a>
+                  </li>
+                  <li><a href="index-07.html">Home Version 7</a>
+                  </li>
                 </ul>
               </li>
               <li>
-                <a class="active" href="about.php">Pages</a>
+                <a href="about.php">About us</a>
+              </li>
+              <li><a href="services.php">Services</a>
+                 </li>
+              <li>
+                <a href="about.php">Pages</a>
                 <ul class="dropdown">
-                  <li><a href="about.php">About</a></li>
-                  <li><a class="active" href="services.html">Services</a></li>
-                  <li><a href="right-sidebar.html">Right Sidebar</a></li>
-                  <li><a href="left-sidebar.html">Left Sidebar</a></li>
-                  <li><a href="404.html">404 Page</a></li>
+                  <li><a href="about.php">About</a>
+                  </li>
+                  <li><a href="services.php">Services</a>
+                  </li>
+                  <li><a href="right-sidebar.html">Right Sidebar</a>
+                  </li>
+                  <li><a href="left-sidebar.html">Left Sidebar</a>
+                  </li>
+                  <li><a href="404.html">404 Page</a>
+                  </li>
                 </ul>
               </li>
               <li>
                 <a href="#">Shortcodes</a>
                 <ul class="dropdown">
-                  <li><a href="tabs.html">Tabs</a></li>
-                  <li><a href="buttons.html">Buttons</a></li>
-                  <li><a href="action-box.html">Action Box</a></li>
-                  <li><a href="testimonials.html">Testimonials</a></li>
-                  <li><a href="latest-posts.html">Latest Posts</a></li>
-                  <li><a href="latest-projects.html">Latest Projects</a></li>
-                  <li><a href="pricing.html">Pricing Tables</a></li>
-                  <li><a href="accordion-toggles.html">Accordion & Toggles</a></li>
+                  <li><a href="tabs.html">Tabs</a>
+                  </li>
+                  <li><a href="buttons.html">Buttons</a>
+                  </li>
+                  <li><a href="action-box.html">Action Box</a>
+                  </li>
+                  <li><a href="testimonials.html">Testimonials</a>
+                  </li>
+                  <li><a href="latest-posts.html">Latest Posts</a>
+                  </li>
+                  <li><a href="latest-projects.html">Latest Projects</a>
+                  </li>
+                  <li><a href="pricing.html">Pricing Tables</a>
+                  </li>
+                  <li><a href="animated-graphs.html">Animated Graphs</a>
+                  </li>
+                  <li><a href="accordion-toggles.html">Accordion & Toggles</a>
+                  </li>
                 </ul>
               </li>
               <li>
                 <a href="portfolio-3.html">Portfolio</a>
                 <ul class="dropdown">
-                  <li><a href="portfolio-2.html">2 Columns</a></li>
-                  <li><a href="portfolio-3.html">3 Columns</a></li>
-                  <li><a href="portfolio-4.html">4 Columns</a></li>
-                  <li><a href="single-project.html">Single Project</a></li>
+                  <li><a href="portfolio-2.html">2 Columns</a>
+                  </li>
+                  <li><a href="portfolio-3.html">3 Columns</a>
+                  </li>
+                  <li><a href="portfolio-4.html">4 Columns</a>
+                  </li>
+                  <li><a href="single-project.html">Single Project</a>
+                  </li>
                 </ul>
               </li>
               <li>
                 <a href="blog.html">Blog</a>
                 <ul class="dropdown">
-                  <li><a href="blog.html">Blog - right Sidebar</a></li>
-                  <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a></li>
-                  <li><a href="single-post.html">Blog Single Post</a></li>
+                  <li><a href="blog.html">Blog - right Sidebar</a>
+                  </li>
+                  <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a>
+                  </li>
+                  <li><a href="single-post.html">Blog Single Post</a>
+                  </li>
                 </ul>
               </li>
-              <li><a href="contact.php">Contact</a></li>
+              <li><a href="contact.php">Contact</a>
+              </li>
             </ul>
             <!-- End Navigation List -->
           </div>
@@ -224,9 +272,9 @@
         <!-- Mobile Menu Start -->
         <ul class="wpb-mobile-menu">
           <li>
-            <a href="index.php">Home</a>
+            <a class="active" href="index.php">Home</a>
             <ul class="dropdown">
-              <li><a href="index.php">Home Main Version</a>
+              <li><a class="active" href="index.php">Home Main Version</a>
               </li>
               <li><a href="index-01.html">Home Version 1</a>
               </li>
@@ -245,11 +293,11 @@
             </ul>
           </li>
           <li>
-            <a class="active" href="about.php">Pages</a>
+            <a href="about.php">Pages</a>
             <ul class="dropdown">
               <li><a href="about.php">About</a>
               </li>
-              <li><a class="active" href="services.html">Services</a>
+              <li><a href="services.php">Services</a>
               </li>
               <li><a href="right-sidebar.html">Right Sidebar</a>
               </li>
@@ -313,7 +361,7 @@
         <!-- Mobile Menu End -->
 
       </div>
-      <!-- End Header ( Logo & Naviagtion ) -->
+      <!-- End Header Logo & Naviagtion -->
 
     </header>
     <!-- End Header -->
@@ -350,37 +398,183 @@
             <!-- Start Image Service Box 1 -->
             <div class="col-md-4 image-service-box">
               <img class="img-thumbnail" src="images/service-01.jpg" alt="" />
-              <h4>Clean Modern Code</h4>
-              <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis quasi architect.</p>
+              <h4>CLEANING</h4>
+              <p>AS BEEN A WAY OF PROCESS IN  REMOVING DIRT FROM THE SURFACES AND MAKE THEM VISIBLY CLEAN.
+               </p>
+                <ul>
+                <li>
+                  WATER
+                </li>
+                <li>
+                  DETERGENTS
+                </li>
+                </ul>
+              
             </div>
             <!-- End Image Service Box 1 -->
 
             <!-- Start Image Service Box 2 -->
             <div class="col-md-4 image-service-box">
               <img class="img-thumbnail" src="images/service-02.jpg" alt="" />
-              <h4>Great Support</h4>
-              <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis quasi architect.</p>
+              <h4>SANITIZING</h4>
+              <p> A PROCESS WHICH AIMS AT DESTROYING THE PATHOGENIC GERMS AND OTHER MICRO-ORANISM.
+                WATER
+                DETERGENTS
+                CHLORINE-BASED COMPONENTS
+                QUARTERNARY AMMONIUM SALTS
+
+              </p>
+           
             </div>
             <!-- End Image Service Box 2 -->
 
             <!-- Start Image Service Box 3 -->
             <div class="col-md-4 image-service-box">
               <img class="img-thumbnail" src="images/service-03.jpg" alt="" />
-              <h4>High Quality Theme</h4>
-              <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis quasi architect.</p>
+              <h4>STEAM CLEANING TECHNOLOGY</h4>
+              <p>
+                SATURATED DRY STEAM
+                IS SIMPLY A STEAM BROUGHT TO A HIGH TEMPERATURES, GENERALLY HIGHER THAN 140 C. AT THESE TEMPERATURES, STEAM HAS AMAZING SANITIZING AND DEEP CLEANING PROPERTIES.
+                SATURATED DRY STEAM IS OBTAINED WITH THE AID OF BOILERS OPERATING AT HIGH PRESSURE AND THE TEMPERATURE BETWEEN 140 AND 185 C
+              </p>
             </div>
             <!-- End Image Service Box 3 -->
 
           </div>
 
-          <!-- Divider -->
-          <div class="hr1" style="margin-bottom:45px;"></div>
+          
+          <br><br>
+         <div class="row">
+          <div class="col-md-4">
 
-            <div class="error-page">
-            <h3>You are Using Free Lite Version</h3>
-            <p>Please, purchase full version of this template to get all pages, features and updated version</p>
-            <div class="text-center"><a rel="nofollow" href="https://graygrids.com/item/margo-free-multi-purpose-bootstrap-template/" class="btn-system btn-small">Purchase Now</a></div>
+
+              <!-- Classic Heading -->
+              <h4 class="classic-title"><span>Our Solutions</span></h4>
+
+              <!-- Accordion -->
+              <div class="panel-group" id="accordion">
+
+                <!-- Start Accordion 1 -->
+                <div class="panel panel-default">
+                  <!-- Toggle Heading -->
+                  <div class="panel-heading">
+                    <h4 class="panel-title">
+                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1">
+                        <i class="fa fa-angle-up control-icon"></i>
+                        <i class="fa fa-desktop"></i> We are Erawin We are the best!
+                      </a>
+                    </h4>
+                  </div>
+                  <!-- Toggle Content -->
+                  <div id="collapse-1" class="panel-collapse collapse in">
+                    <div class="panel-body"><img class="img-thumbnail image-text" style="float:left; width:150px;" alt="" src="images/bussniss-pic.jpg"> <strong class="accent-color"></strong><font face="verdana" color="black" size="3"> We are Erawin Cleaning &amp; Infection Control,  work to reduce the incidence of infection within the health care  and public facilities. Our basic objective is to protect the patients first, which result in the protection of workers as well as the protection of the environment health facilities and penetrate into the causes of the risk of the spread of infection.</font></div>
+                  </div>
+                </div>
+                <!-- End Accordion 1 -->
+
+                <!-- Start Accordion 2 -->
+                <div class="panel panel-default">
+                  <!-- Toggle Heading -->
+                  <div class="panel-heading">
+                    <h4 class="panel-title">
+                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse-2" class="collapsed">
+                        <i class="fa fa-angle-up control-icon"></i>
+                        <i class="fa fa-gift"></i> ADVANTAGES OF BIOGENIE FOR DECONTAMINATION
+                      </a>
+                    </h4>
+                  </div>
+                  <!-- Toggle Content -->
+                  <div id="collapse-2" class="panel-collapse collapse">
+                    <div class="panel-body"><pre><font face="verdana" color="black" size="3"> Period of Cleaning and Decontaminating is about 4 hours, room can be use immediately.
+                    Highly effective decontamination against wide range of bacteria, viruses and fungi such as: MRSA. C.DIFF CILE, E.COLI, VRE, &amp; ACINETOBACTER species.
+                    Using 6% of Hydrogen Peroxide Vapor (VHP) with 0.006% silver anions to increase efficiency.
+                    Hydrogen Peroxide Vapor is able to penetrate even to the difficult narrow place and hard to access places inside the room.
+                    Environment friendly.
+
+                    We are fully prepared to provide management services for infection control at your health facility. We decontaminate to most very risk areas, these areas include,  Operations Room, Intensive Care Unit, Isolation Rooms, Neo-Natal Intensive Care Unit, Emergency Rooms and Laboratories. Our team clean and decontaminate in order to control infection.
+                   We would like to inform you that we offer annual contract and give you a program for decontamination and infection control in order to prevent the widespread of infection, epidemics and viruses  in your hospital using our modern way and techniques in infection control.
+                 </font></pre><font face="verdana" color="black" size="3"> </font></div>
+                  </div>
+                </div>
+                <!-- End Accordion 2 -->
+
+              </div>
+            
           </div>
+          <div class="col-md-8">
+           
+          <h4 class="classic-title"><span>Our Features</span></h4>
+          <div class="row">
+           
+          <div class="col-md-6 service-box service-icon-left-more">
+          <div class="service-icon">
+          <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+          </div>
+          <div class="service-content">
+          <h4>CLEANING</h4>
+          <p>HAS BEEN A WAY OF PROCESS<strong class="accent-color">IN REMOVING DIRT</strong> FROM THE SURFACES AND MAKE THEM VISIBLY CLEAN..</p>
+          </div>
+          </div>
+           
+           
+          <div class="col-md-6 service-box service-icon-left-more">
+          <div class="service-icon">
+          <i class="fa fa-eraser icon-medium"></i>
+          </div>
+          <div class="service-content">
+          <h4>SANITIZING</h4>
+          <p>IS A PROCESS WHICH AIMS AT DESTROYING THE PATHOGENIC GERMS AND OTHER MICRO-ORANISM.</p>
+          </div>
+          </div>
+           
+           
+          <div class="col-md-6 service-box service-icon-left-more">
+          <div class="service-icon">
+          <i class="fa fa-globe icon-medium"></i>
+          </div>
+          <div class="service-content">
+          <h4>STEAM CLEANING TECHNOLOGY</h4>
+          <p>SATURATED DRY STEAM
+  IS SIMPLY A STEAM BROUGHT TO A HIGH TEMPERATURES, GENERALLY HIGHER THAN 140 C....</p>
+          </div>
+          </div>
+           
+           
+          <div class="col-md-6 service-box service-icon-left-more">
+          <div class="service-icon">
+          <i class="fa fa-fire icon-medium"></i>
+          </div>
+          <div class="service-content">
+          <h4>TEMPERATURE</h4>
+          <p>HIGH TEMPERATURE BREAKS THE LINKS BERWEEN THE DIRT AND THE TREATED SURFACE, KILLING BACTERIA AND MICRO-ORGANISMS BY MEANS OF A THERMAL SHOCK.
+MOREOVER, HIGH TEMPERATURE MAKES CHEMICAL REACTION EASIER BY DRASTICALLY REDUCING DETERGENTS QUANTITY AND ACTION TIME.</p>
+          </div>
+          </div>
+           
+           
+          <div class="col-md-6 service-box service-icon-left-more">
+          <div class="service-icon">
+          <i class="fa fa-leaf icon-medium"></i>
+          </div>
+          <div class="service-content">
+          <h4>HUMIDITY</h4>
+          <p>WATER IS CALLED THE UNIVERSAL SOLVENT. EVEN MOUNTAIN ARE MELTED BY WAYER. “DRY STEAM” CONTAINS MICRO DROP OF WATER, WHICH DETACH THE DIRT FROM THE TREATED SURFACES, KEEP IT IN SUSPENSION AND AVOID LETTING IT INTO THE AIR</p>
+</div>
+</div>
+ 
+ 
+<div class="col-md-6 service-box service-icon-left-more">
+<div class="service-icon">
+<i class="fa fa-umbrella icon-medium"></i>
+</div>
+<div class="service-content">
+<h4>PRESSURE</h4>
+<p>ALTHOUGH, IN THIS CASE, PRESSURE DOES NOT PLAY A PRIMARY ROLE IN THE CLEANING FUNCTION IT PLAY A SYNERGIC ROLE WITH THE OTHER TWO FACTORS</p>
+</div>
+</div>
+</div>
+</div>
+</div>
 
           <!-- Divider -->
           <div class="hr1" style="margin-bottom:25px;"></div>
@@ -443,28 +637,28 @@
 
             </div>
 
-            <div class="col-md-4">
+           <!--  <div class="col-md-4">
 
-              <!-- Classic Heading -->
+         
               <h4 class="classic-title"><span>Client Testimonials</span></h4>
 
-              <!-- Start Testimonials Carousel -->
+              
               <div class="custom-carousel show-one-slide touch-carousel" data-appeared-items="1">
-                <!-- Testimonial 1 -->
+             
                 <div class="classic-testimonials item">
                   <div class="testimonial-content">
                     <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum.</p>
                   </div>
                   <div class="testimonial-author"><span>John Doe</span> - Customer</div>
                 </div>
-                <!-- Testimonial 2 -->
+              
                 <div class="classic-testimonials item">
                   <div class="testimonial-content">
                     <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum.</p>
                   </div>
                   <div class="testimonial-author"><span>John Doe</span> - Customer</div>
                 </div>
-                <!-- Testimonial 3 -->
+             
                 <div class="classic-testimonials item">
                   <div class="testimonial-content">
                     <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum.</p>
@@ -472,9 +666,9 @@
                   <div class="testimonial-author"><span>John Doe</span> - Customer</div>
                 </div>
               </div>
-              <!-- End Testimonials Carousel -->
+            
 
-            </div>
+            </div> -->
 
           </div>
 
@@ -486,12 +680,14 @@
 
 
     <!-- Start Footer -->
-    <footer>
+
+     <footer>
       <div class="container">
         <div class="row footer-widgets">
 
+
           <!-- Start Subscribe & Social Links Widget -->
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-12">
             <div class="footer-widget mail-subscribe-widget">
               <h4>Get in touch<span class="head-line"></span></h4>
               <p>Join our mailing list to stay up to date and get notices about our new releases!</p>
@@ -541,8 +737,8 @@
 
 
           <!-- Start Twitter Widget -->
-          <div class="col-md-3">
-            <div class="footer-widget twitter-widget">
+          <div class="col-md-3 col-xs-12">
+            <!-- <div class="footer-widget twitter-widget">
               <h4>Twitter Feed<span class="head-line"></span></h4>
               <ul>
                 <li>
@@ -558,14 +754,14 @@
                   <span>28 February 2014</span>
                 </li>
               </ul>
-            </div>
+            </div> -->
           </div>
           <!-- .col-md-3 -->
           <!-- End Twitter Widget -->
 
 
           <!-- Start Flickr Widget -->
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-12">
             <div class="footer-widget flickr-widget">
               <h4>Flicker Feed<span class="head-line"></span></h4>
               <ul class="flickr-list">
@@ -622,14 +818,14 @@
 
 
           <!-- Start Contact Widget -->
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-12">
             <div class="footer-widget contact-widget">
               <h4><img src="images/footer-margo.png" class="img-responsive" alt="Footer Logo" /></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <p>you may be able to find the answer you want on our support pages</p>
               <ul>
-                <li><span>Phone Number:</span> +01 234 567 890</li>
-                <li><span>Email:</span> company@company.com</li>
-                <li><span>Website:</span> www.yourdomain.com</li>
+                <li><span>Phone Number:</span> +021 483 1619</li>
+                <li><span>Email:</span>  o.rihan@erawin.com.ly</li>
+                <li><span>Website:</span> erawin.com.ly/</li>
               </ul>
             </div>
           </div>
@@ -644,21 +840,26 @@
         <div class="copyright-section">
           <div class="row">
             <div class="col-md-6">
-              <p>Copyright 2013 Margo - All Rights Reserved</p>
+              <p>&copy; 2017 ERAWIN - All Rights Reserved</p>
             </div>
+            <!-- .col-md-6 -->
             <div class="col-md-6">
               <ul class="footer-nav">
-                <li><a href="#">Sitemap</a></li>
-                <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="contact.php">Sitemap</a></li>
+                <li><a href="contact.php">Privacy Policy</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                </li>
               </ul>
             </div>
+            <!-- .col-md-6 -->
           </div>
+          <!-- .row -->
         </div>
         <!-- End Copyright -->
 
       </div>
     </footer>
+   
     <!-- End Footer -->
 
   </div>
