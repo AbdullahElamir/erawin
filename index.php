@@ -188,7 +188,7 @@ height: 120px;
             <ul class="nav navbar-nav navbar-right">
               <li>
                 <a class="active" href="index.php">Home</a>
-                <ul class="dropdown">
+                <!-- <ul class="dropdown">
                   <li><a class="active" href="index.php">Home Main Version</a>
                   </li>
                   <li><a href="index-01.html">Home Version 1</a>
@@ -205,14 +205,14 @@ height: 120px;
                   </li>
                   <li><a href="index-07.html">Home Version 7</a>
                   </li>
-                </ul>
+                </ul> -->
               </li>
               <li>
                 <a href="about.php">About us</a>
               </li>
               <li><a href="services.php">Services</a>
                  </li>
-              <li>
+     <!--          <li>
                 <a href="about.php">Pages</a>
                 <ul class="dropdown">
                   <li><a href="about.php">About</a>
@@ -226,8 +226,8 @@ height: 120px;
                   <li><a href="404.html">404 Page</a>
                   </li>
                 </ul>
-              </li>
-              <li>
+              </li> -->
+            <!--   <li>
                 <a href="#">Shortcodes</a>
                 <ul class="dropdown">
                   <li><a href="tabs.html">Tabs</a>
@@ -249,21 +249,21 @@ height: 120px;
                   <li><a href="accordion-toggles.html">Accordion & Toggles</a>
                   </li>
                 </ul>
-              </li>
+              </li> -->
               <li>
-                <a href="portfolio-3.html">Portfolio</a>
+                <a href="single-project.html">Portfolio</a>
                 <ul class="dropdown">
-                  <li><a href="portfolio-2.html">2 Columns</a>
+                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
                   </li>
                   <li><a href="portfolio-3.html">3 Columns</a>
                   </li>
                   <li><a href="portfolio-4.html">4 Columns</a>
-                  </li>
-                  <li><a href="single-project.html">Single Project</a>
+                  </li> -->
+                  <li><a href="single-project.html">our business</a>
                   </li>
                 </ul>
               </li>
-              <li>
+             <!--  <li>
                 <a href="blog.html">Blog</a>
                 <ul class="dropdown">
                   <li><a href="blog.html">Blog - right Sidebar</a>
@@ -273,7 +273,7 @@ height: 120px;
                   <li><a href="single-post.html">Blog Single Post</a>
                   </li>
                 </ul>
-              </li>
+              </li> -->
               <li><a href="contact.php">Contact</a>
               </li>
             </ul>
@@ -285,7 +285,7 @@ height: 120px;
         <ul class="wpb-mobile-menu">
           <li>
             <a class="active" href="index.php">Home</a>
-            <ul class="dropdown">
+            <!-- <ul class="dropdown">
               <li><a class="active" href="index.php">Home Main Version</a>
               </li>
               <li><a href="index-01.html">Home Version 1</a>
@@ -302,9 +302,9 @@ height: 120px;
               </li>
               <li><a href="index-07.html">Home Version 7</a>
               </li>
-            </ul>
+            </ul> -->
           </li>
-          <li>
+         <!--  <li>
             <a href="about.php">Pages</a>
             <ul class="dropdown">
               <li><a href="about.php">About</a>
@@ -318,8 +318,8 @@ height: 120px;
               <li><a href="404.html">404 Page</a>
               </li>
             </ul>
-          </li>
-          <li>
+          </li> -->
+        <!--   <li>
             <a href="#">Shortcodes</a>
             <ul class="dropdown">
               <li><a href="tabs.html">Tabs</a>
@@ -341,8 +341,8 @@ height: 120px;
               <li><a href="accordion-toggles.html">Accordion & Toggles</a>
               </li>
             </ul>
-          </li>
-          <li>
+          </li> -->
+      <!--     <li>
             <a href="portfolio-3.html">Portfolio</a>
             <ul class="dropdown">
               <li><a href="portfolio-2.html">2 Columns</a>
@@ -354,8 +354,8 @@ height: 120px;
               <li><a href="single-project.html">Single Project</a>
               </li>
             </ul>
-          </li>
-          <li>
+          </li> -->
+       <!--    <li>
             <a href="blog.html">Blog</a>
             <ul class="dropdown">
               <li><a href="blog.html">Blog - right Sidebar</a>
@@ -365,7 +365,7 @@ height: 120px;
               <li><a href="single-post.html">Blog Single Post</a>
               </li>
             </ul>
-          </li>
+          </li> -->
           <li>
             <a href="contact.php">Contact</a>
           </li>
@@ -374,6 +374,8 @@ height: 120px;
 
       </div>
       <!-- End Header Logo & Naviagtion -->
+
+
 
     </header>
  
