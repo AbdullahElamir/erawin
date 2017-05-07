@@ -82,7 +82,7 @@
 
     <!-- Start Header -->
     <div class="hidden-header"></div>
-      <header class="clearfix">
+    <header class="clearfix">
 
       <!-- Start Top Bar -->
       <div class="top-bar">
@@ -165,7 +165,7 @@
           </div>
           <div class="navbar-collapse collapse">
             <!-- Stat Search -->
-            <div class="search-side">
+         <!--    <div class="search-side">
               <a class="show-search"><i class="fa fa-search"></i></a>
               <div class="search-form">
                 <form autocomplete="off" role="search" method="get" class="searchform" action="#">
@@ -173,12 +173,13 @@
                 </form>
               </div>
             </div>
-            
+             -->
             <!-- End Search -->
             <!-- Start Navigation List -->
             <ul class="nav navbar-nav navbar-right">
               <li>
                 <a  href="index.php">Home</a>
+
                 <!-- <ul class="dropdown">
                   <li><a class="active" href="index.php">Home Main Version</a>
                   </li>
@@ -199,9 +200,28 @@
                 </ul> -->
               </li>
               <li>
+                 <a  href="report.php">Annual Reports</a>
+              </li>
+              <li>
                 <a href="about.php">About us</a>
               </li>
               <li><a href="services.php">Services</a>
+                  <ul class="dropdown">
+                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
+                  </li>
+                  <li><a href="portfolio-3.html">3 Columns</a>
+                  </li>
+                  <li><a href="portfolio-4.html">4 Columns</a>
+                  </li> -->
+                  <li><a href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
+                  </li>
+                  <li><a href="EIDProgram.php">Educational Institution Disinfection Program</a>
+                  </li>
+                    
+
+                </ul>
+
+
                  </li>
      <!--          <li>
                 <a href="about.php">Pages</a>
@@ -242,7 +262,7 @@
                 </ul>
               </li> -->
               <li>
-                <a href="single-project.html">Portfolio</a>
+                <a href="single-project.php">Portfolio</a>
                 <ul class="dropdown">
                  <!--  <li><a href="portfolio-2.html">2 Columns</a>
                   </li>
@@ -250,7 +270,7 @@
                   </li>
                   <li><a href="portfolio-4.html">4 Columns</a>
                   </li> -->
-                  <li><a href="single-project.html">our business</a>
+                  <li><a href="single-project.php">our business</a>
                   </li>
                 </ul>
               </li>
@@ -275,7 +295,7 @@
         <!-- Mobile Menu Start -->
         <ul class="wpb-mobile-menu">
           <li>
-            <a class="active" href="index.php">Home</a>
+            <a  href="index.php">Home</a>
             <!-- <ul class="dropdown">
               <li><a class="active" href="index.php">Home Main Version</a>
               </li>
@@ -342,7 +362,7 @@
               </li>
               <li><a href="portfolio-4.html">4 Columns</a>
               </li>
-              <li><a href="single-project.html">Single Project</a>
+              <li><a href="single-project.php">Single Project</a>
               </li>
             </ul>
           </li> -->
@@ -357,9 +377,48 @@
               </li>
             </ul>
           </li> -->
+              <li>
+                 <a  href="report.php">Annual Reports</a>
+              </li>
+              <li>
+                <a href="about.php">About us</a>
+              </li>
+              <li><a href="services.php">Services</a>
+                  <ul class="dropdown">
+                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
+                  </li>
+                  <li><a href="portfolio-3.html">3 Columns</a>
+                  </li>
+                  <li><a href="portfolio-4.html">4 Columns</a>
+                  </li> -->
+                  <li><a href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
+                  </li>
+                  <li><a href="EIDProgram.php">Educational Institution Disinfection Program</a>
+                  </li>
+                    
+
+                </ul>
+
+
+                 </li>
           <li>
-            <a href="contact.php">Contact</a>
+            <a class="active" href="contact.php">Contact</a>
           </li>
+            <li>
+                <a href="single-project.php">Portfolio</a>
+                <ul class="dropdown">
+                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
+                  </li>
+                  <li><a href="portfolio-3.html">3 Columns</a>
+                  </li>
+                  <li><a href="portfolio-4.html">4 Columns</a>
+                  </li> -->
+                  <li><a href="single-project.php">our business</a>
+                  </li>
+                </ul>
+              </li>
+
+
         </ul>
         <!-- Mobile Menu End -->
 
@@ -369,6 +428,7 @@
 
 
     </header>
+ 
     <!-- End Header -->
 
     <!-- Start Map -->

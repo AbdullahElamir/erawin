@@ -3,28 +3,21 @@
 <!--[if (gte IE 9)|!(IE)]><html lang="en" class="no-js"> <![endif]-->
 <html lang="en">
 
-
-<style type="text/css">
-.logo {
-width: 200px;
-height: 120px;
-}
-
-</style>
 <head>
 
   <!-- Basic -->
-  <title>ERAWIN | Home</title>
+  <title>ERAWIN | About Us</title>
 
   <!-- Define Charset -->
   <meta charset="utf-8">
 
-  <!-- Responsive Metatag -->
+  <!-- Responsive etatag -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
   <!-- Page Description and Author -->
   <meta name="description" content="Margo - Responsive HTML5 Template">
   <meta name="author" content="iThemesLab">
+
 
   <!-- Bootstrap CSS  -->
   <link rel="stylesheet" href="asset/css/bootstrap.min.css" type="text/css" media="screen">
@@ -41,22 +34,20 @@ height: 120px;
   <!-- Responsive CSS Styles  -->
   <link rel="stylesheet" type="text/css" href="css/responsive.css" media="screen">
 
-  <!-- Css3 Transitions Styles  -->
-  <link rel="stylesheet" type="text/css" href="css/animate.css" media="screen">
-
   <!-- Color CSS Styles  -->
   <link rel="stylesheet" type="text/css" href="css/colors/red.css" title="red" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/colors/jade.css" title="jade" media="screen" />
-  <link rel="stylesheet" type="text/css" href="css/colors/green.css" title="green" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/colors/blue.css" title="blue" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/colors/beige.css" title="beige" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/colors/cyan.css" title="cyan" media="screen" />
+  <link rel="stylesheet" type="text/css" href="css/colors/green.css" title="green" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/colors/orange.css" title="orange" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/colors/peach.css" title="peach" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/colors/pink.css" title="pink" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/colors/purple.css" title="purple" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/colors/sky-blue.css" title="sky-blue" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/colors/yellow.css" title="yellow" media="screen" />
+
 
   <!-- Margo JS  -->
   <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
@@ -74,9 +65,7 @@ height: 120px;
   <script type="text/javascript" src="js/jquery.easypiechart.min.js"></script>
   <script type="text/javascript" src="js/jquery.nicescroll.min.js"></script>
   <script type="text/javascript" src="js/jquery.parallax.js"></script>
-  <script type="text/javascript" src="js/mediaelement-and-player.js"></script>
   <script type="text/javascript" src="js/jquery.slicknav.js"></script>
-  
 
   <!--[if IE 8]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   <!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -85,11 +74,10 @@ height: 120px;
 
 <body>
 
-  <!-- Full Body Container -->
+  <!-- Container -->
   <div id="container">
 
-
-    <!-- Start Header Section -->
+    <!-- Start Header -->
     <div class="hidden-header"></div>
     <header class="clearfix">
 
@@ -187,7 +175,7 @@ height: 120px;
             <!-- Start Navigation List -->
             <ul class="nav navbar-nav navbar-right">
               <li>
-                <a class="active" href="index.php">Home</a>
+                <a  href="index.php">Home</a>
 
                 <!-- <ul class="dropdown">
                   <li><a class="active" href="index.php">Home Main Version</a>
@@ -214,7 +202,7 @@ height: 120px;
               <li>
                 <a href="about.php">About us</a>
               </li>
-              <li><a href="services.php">Services</a>
+              <li><a class="active" href="services.php">Services</a>
                   <ul class="dropdown">
                  <!--  <li><a href="portfolio-2.html">2 Columns</a>
                   </li>
@@ -224,7 +212,7 @@ height: 120px;
                   </li> -->
                   <li><a href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
                   </li>
-                  <li><a href="EIDProgram.php">Educational Institution Disinfection Program</a>
+                  <li><a class="active" href="EIDProgram.php">Educational Institution Disinfection Program</a>
                   </li>
                     
 
@@ -392,7 +380,7 @@ height: 120px;
               <li>
                 <a href="about.php">About us</a>
               </li>
-              <li><a href="services.php">Services</a>
+              <li><a class="active" href="services.php">Services</a>
                   <ul class="dropdown">
                  <!--  <li><a href="portfolio-2.html">2 Columns</a>
                   </li>
@@ -402,7 +390,7 @@ height: 120px;
                   </li> -->
                   <li><a href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
                   </li>
-                  <li><a href="EIDProgram.php">Educational Institution Disinfection Program</a>
+                  <li><a class="active" href="EIDProgram.php">Educational Institution Disinfection Program</a>
                   </li>
                     
 
@@ -438,530 +426,261 @@ height: 120px;
 
     </header>
  
-    <!-- End Header Section -->
+    <!-- End Header -->
 
 
-    <!-- Start Home Page Slider -->
-    <section id="home">
-      <!-- Carousel -->
-      <div id="main-slide" class="carousel slide" data-ride="carousel">
-
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-          <li data-target="#main-slide" data-slide-to="0" class="active"></li>
-          <li data-target="#main-slide" data-slide-to="1"></li>
-          <li data-target="#main-slide" data-slide-to="2"></li>
-        </ol>
-        <!--/ Indicators end-->
-
-        <!-- Carousel inner -->
-        <div class="carousel-inner">
-          <div class="item active">
-            <img class="img-responsive"  src="images/slider/21-13-things-your-house-cleaner-wont-tell-you-cleaning-counter2.jpg" alt="slider">
-            <div class="slider-content">
-              <div class="col-md-12 text-center">
-                <h2 class="animated2">
-                              <span>Welcome to <strong>ERAWIN</strong></span>
-                              </h2>
-                <h3 class="animated3">
-                                <span>For CLEANING AND INFECTION CONTROL</span>
-                              </h3>
-                <p class="animated4"><a href="single-project.php" class="slider btn btn-system btn-large">Check Now</a>
-                </p>
-              </div>
-            </div>
+    <!-- Start Page Banner -->
+    <div class="page-banner" style="padding:40px 0; background: url(images/slide-02-bg.jpg) center #f9f9f9;">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h2>Educational Institution Disinfection Program</h2>
+            <p>We Are Professional</p>
           </div>
-          <!--/ Carousel item end -->
-          <div class="item">
-            <img class="img-responsive" src="images/slider/cleaning-the-aircraft3.jpg" alt="slider">
-            <div class="slider-content">
-              <div class="col-md-12 text-center">
-                <h2 class="animated4">
-                                <span><strong>ERAWIN</strong> THE NEW WAY OF CLEANING</span>
-                            </h2>
-                <h3 class="animated5">
-                              <span>CLEANING + SANITATION </span>
-                            </h3>
+          <div class="col-md-6">
+            <ul class="breadcrumbs">
+              <li><a href="#">Home</a></li>
+              <li>About Us</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Page Banner -->
 
-                 <form class="subscribe" method="GET" action="mailto:o.rihan@erawin.com.ly" enctype="text/plain">
-                <p class="animated6"><input type="submit"  value="Send us" class="slider btn btn-system btn-large"></a>
-             
-              </form>
+
+    <!-- Start Content -->
+    <div id="content">
+      <div class="container">
+        <div class="page-content">
+
+
+          <div class="row">
+
+            <div class="col-md-7">
+
+              <!-- Classic Heading -->
+              <h4 class="classic-title"><span><font face="verdana" color="black" size="4"><strong> Erawin Educational Institution Disinfection Program aims to Protect our students</strong></font></span></h4>
+
+              <!-- Some Text -->
+              <span style="color: #000000;"> <span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Erawin</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> Educational Institution Disinfection Program aims to Protect our students, teachers and Our Future</span></span></span>
+<p style="text-align: left;"><span style="color: #000000;"> <span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Erawin</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> specialize in creating and maintaining clean working environments for staffs, students, parents and school visitors. We ensure a worry-free way for the school to maintain a healthy environment.</span></span></span></p>
+<p style="text-align: left;"><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b> We</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> will assess your schools needs and customize a school disinfection program specifically geared for your building and will provide you with a professional team of disinfection staff capable of undertaking all of your regular disinfection requirements.</span></span></span></p>
+<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Locker room disinfection
+Carpet disinfection
+Sports equipment disinfection
+Hard and soft floor disinfection
+Washroom disinfection</b></span></span></span>
+
+<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Kitchen &amp; Cafeteria disinfection</b></span></span></span>
+
+<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>
+Flexible</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> in our work we customize our school disinfection services to your needs and work outside of normal school hours during weekday evenings and weekends to make sure your school disinfection requirements are met.</span></span></span>
+
+<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b> Erawin </b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">Promise is to offer the finest available service at the lowest possible cost.</span></span></span>
+
+&nbsp;
+
+<span style="font-size: large;"><u><b>SURFACES TREATMENT</b></u></span>
+
+<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">BY AIR PATH (AIRBORNE DISINFECTION)</span></span></span>
+
+<span style="color: #000000;">● <span style="font-family: Arial, serif;"><span style="font-size: medium;">Manual scheduling of preventive and/or curative treatment.</span></span></span>
+
+<span style="color: #000000;">● <span style="font-family: Arial, serif;"><span style="font-size: medium;">Proven Efficacy of the couple machine/product (Brumoxim, Emuldry 50,Odoxim).</span></span></span>
+
+<span style="color: #000000;">● <span style="font-family: Arial, serif;"><span style="font-size: medium;">Diffusion treatment of dry and homogeneous fog.</span></span></span>
+
+<span style="color: #000000;">● <span style="font-family: Arial, serif;"><span style="font-size: medium;">Action on all surfaces, even inaccessible.</span></span></span>
+
+<span style="color: #000000;">● <span style="font-family: Arial, serif;"><span style="font-size: medium;">Simplified and safe concept.</span></span></span>
+
+&nbsp;
+
+<span style="font-size: large;"><u><b>APPLICATIONS</b></u></span>
+
+&nbsp;
+<ul>
+  <li><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">KI-OSE has been especially developed for the disinfection, cleaning and</span></span></span> <span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">deodorizing of surfaces. It is used on all surfaces in kitchens, toilets, classrooms, etc.</span></span></span></li>
+</ul>
+&nbsp;
+
+<span style="font-size: large;"><u><b>TESTS &amp; APPROVALS</b></u></span>
+<ul>
+  <li><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Authorized</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> for food contact in accordance with the French decree dated 8th September 1999 concerning the cleaning products for equipment that may come into contact with foodstuffs.</span></span></span></li>
+</ul>
+&nbsp;
+<ul>
+  <li><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">In pursuance of article L. 522-19 of the French Environmental Code, KI-OSE formula has been registered with the MEEDDM. Inventory N° 6462 (as per EU Biocide Directive).</span></span></span></li>
+</ul>
+<a name="_GoBack"></a>
+<span style="font-size: large;"><u><b>EFFICACY:</b></u></span>
+
+&nbsp;
+
+<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">Bactericide as per EN 1276 : Pseudomonas aeruginosa, Escherichia coli, Staphylococcus aurous, enterococcus hirae</span></span></span>
+
+<span style="color: #000000;"> <span style="font-family: Arial, serif;"><span style="font-size: medium;">EN13623 : Legionnella pneumophila.</span></span></span>
+
+<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">Fungicide EN1275 : Candida albicans.</span></span></span>
+
+&nbsp;
+
+<span style="color: #000000;"> <span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>While</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> other companies may “dabble” in disinfection, we are experts specializing in bio-decontamination.</span></span></span>
+
+&nbsp;
+
+<span style="color: #000000;"> <span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Fighting</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> an outbreak or preventing your facility from becoming a breeding ground for infection takes training, experience, and the right equipment. With over five years’ experience in high-level disinfection, our services use the most effective tools available combined with multiple product lines to provide a healthier space. Our certified technicians understand the specifics and limitations to the technologies necessary in producing a 99.9999% kill (6-log kill).</span></span></span>
+
+&nbsp;
+
+<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Because</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> you are fighting an invisible enemy, we provide multiple methods of validation to prove the elimination of dangerous spores, bacteria, and viruses.</span></span></span>
+
+&nbsp;
+
+<span style="color: #000000;"> <span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Our</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> whole-space decontamination ensures you are winning the battle against germs in your environment.</span></span></span>
+
+&nbsp;
+
+&nbsp;
+
+
+            </div>
+
+            <div class="col-md-5">
+
+              <!-- Start Touch Slider -->
+              <div class="touch-slider" data-slider-navigation="true" data-slider-pagination="true">
                 
-                </p>
+                <div class="item"><img alt="" src="images/school_images/20150421_092046.jpg"></div>
+                <div class="item"><img alt="" src="images/school_images/IMG_3228.JPG"></div>
+                <div class="item"><img alt="" src="images/school_images/IMG_4625.JPG"></div>
+                <div class="item"><img alt="" src="images/school_images/IMG_3275.JPG"></div>
+                <div class="item"><img alt="" src="images/school_images/20150422_115716.jpg"></div>
+                <div class="item"><img alt="" src="images/school_images/IMG_4636.JPG"></div>
+                <div class="item"><img alt="" src="images/school_images/20150423_130025.jpg" ></div>
               </div>
+              <!-- End Touch Slider -->
+
             </div>
+
           </div>
-          <!--/ Carousel item end -->
-          <div class="item">
-            <img class="img-responsive" src="images/slider/background3.jpg" alt="slider">
-            <div class="slider-content">
-              <div class="col-md-12 text-center">
-                <h2 class="animated7 black">
-                                <span>THE NEW WAY OF <strong>CLEANING</strong></span>
-                            </h2>
-                <h3 class="animated8 black">
-                              <span>Why you are waiting</span>
-                            </h3>
-                <div class="">
-                  <a class="animated4 slider btn btn-system btn-large btn-min-block" href="contact.php">Contact us</a><a class="animated4 slider btn btn-default btn-min-block" href="about.php">About us</a>
+
+          <!-- Divider -->
+          <div class="hr1" style="margin-bottom:50px;"></div>
+
+          <div class="row">
+
+            <div class="col-md-6">
+              <!-- Classic Heading -->
+              <h4 class="classic-title"><span>Our Skills</span></h4>
+
+              <div class="skill-shortcode">
+                <div class="skill">
+                  <p>CLEAN</p>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" data-percentage="100">
+                      <span class="progress-bar-span">100%</span>
+                      <span class="sr-only">100% Complete</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="skill">
+                  <p>SANITIZE</p>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" data-percentage="100">
+                      <span class="progress-bar-span">100%</span>
+                      <span class="sr-only">100% Complete</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="skill">
+                  <p>DISINFECT</p>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" data-percentage="100">
+                      <span class="progress-bar-span">100%</span>
+                      <span class="sr-only">100% Complete</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="skill">
+                  <p>FUMIGATE</p>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" data-percentage="100">
+                      <span class="progress-bar-span">100%</span>
+                      <span class="sr-only">60% Complete</span>
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
-          </div>
-          <!--/ Carousel item end -->
-        </div>
-        <!-- Carousel inner end-->
-
-        <!-- Controls -->
-        <a class="left carousel-control" href="#main-slide" data-slide="prev">
-          <span><i class="fa fa-angle-left"></i></span>
-        </a>
-        <a class="right carousel-control" href="#main-slide" data-slide="next">
-          <span><i class="fa fa-angle-right"></i></span>
-        </a>
-      </div>
-      <!-- /carousel -->
-    </section>
-    <!-- End Home Page Slider -->
-
-
-    <!-- Start Services Section -->
-    <div class="section service">
-      <div class="container">
-        <div class="row">
-
-          <!-- Start Service Icon 1 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="01">
-            <div class="service-icon">
-              <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
-            </div>
-            <div class="service-content">
-              <h4>CLEANING</h4>
-              <p>HAS BEEN A WAY OF PROCESS IN  REMOVING DIRT FROM THE SURFACES AND MAKE THEM VISIBLY CLEAN.</p>
 
             </div>
-          </div>
-          <!-- End Service Icon 1 -->
 
-          <!-- Start Service Icon 2 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="02">
-            <div class="service-icon">
-              <i class="fa fa-eraser icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>SANITIZING</h4>
-              <p>IS A PROCESS WHICH AIMS AT DESTROYING THE PATHOGENIC GERMS AND OTHER MICRO-ORANISM.</p>
-            </div>
-          </div>
-          <!-- End Service Icon 2 -->
+            <div class="col-md-6">
 
-          <!-- Start Service Icon 3 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="03">
-            <div class="service-icon">
-              <i class="fa fa-eye icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>STEAM CLEANING TECHNOLOGY</h4>
-              <p>SATURATED DRY STEAM IS SIMPLY A STEAM BROUGHT TO A HIGH TEMPERATURES, GENERALLY HIGHER THAN 140 C....</p>
-            </div>
-          </div>
-          <!-- End Service Icon 3 -->
+              <!-- Classic Heading -->
+              <h4 class="classic-title"><span>Our Solutions</span></h4>
 
-          <!-- Start Service Icon 4 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="04">
-            <div class="service-icon">
-              <i class="fa fa-fire icon-medium"></i>
-            </div>
-            <div class="service-content">
-              <h4>TEMPERATURE</h4>
-              <p>HIGH TEMPERATURE BREAKS THE LINKS BERWEEN THE DIRT AND THE TREATED SURFACE, KILLING BACTERIA AND MICRO-ORGANISMS BY MEANS OF A THERMAL SHOCK. MOREOVER, HIGH TEMPERATURE MAKES CHEMICAL REACTION EASIER BY DRASTICALLY REDUCING DETERGENTS QUANTITY AND ACTION TIME.</p>
-            </div>
-          </div>
-          <!-- End Service Icon 4 -->
+              <!-- Accordion -->
+              <div class="panel-group" id="accordion">
 
-          <!-- Start Service Icon 5 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="05">
-            <div class="service-icon">
-              <i class="fa fa-tint  icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>HUMIDITY</h4>
-              <p>WATER IS CALLED THE UNIVERSAL SOLVENT. EVEN MOUNTAIN ARE MELTED BY WAYER. “DRY STEAM” CONTAINS MICRO DROP OF WATER, WHICH DETACH THE DIRT FROM THE TREATED SURFACES, KEEP IT IN SUSPENSION AND AVOID LETTING IT INTO THE AIR</p>
-            </div>
-          </div>
-          <!-- End Service Icon 5 -->
-
-          <!-- Start Service Icon 6 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="06">
-            <div class="service-icon">
-              <i class="fa fa-line-chart  icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>PRESSURE</h4>
-              <p>DALTHOUGH, IN THIS CASE, PRESSURE DOES NOT PLAY A PRIMARY ROLE IN THE CLEANING FUNCTION IT PLAY A SYNERGIC ROLE WITH THE OTHER TWO FACTORS</p>
-            </div>
-          </div>
-          <!-- End Service Icon 6 -->
-
-          <!-- Start Service Icon 7 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="07">
-            <div class="service-icon">
-              <i class="fa fa-ambulance icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>HEALTHCARE SECTOR</h4>
-              <p>
-SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY AREA WHERE THE HEALTHCARE PERSONNEL PASS IS A POTENTIAL AREA OF CONTAMINATION AND NEEDS TO BE THOROUGHLY CLEANED IN A WAY THAT ONLY DRY STEAM CLEANING CAN PROVIDE.</p>
-            </div>
-          </div>
-          <!-- End Service Icon 7 -->
-
-          <!-- Start Service Icon 8 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="08">
-            <div class="service-icon">
-              <i class="fa fa-users icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>what you should know</h4>
-              <p>OUR COMMITMENT IS NOT ONLY TO CONTROL THE SPREAD OF VARIOUS DISEASES CAUSE BY HARMFUL BACTERIAS AND OTHER PATHOGENS, BUT WE ALSO CONSIDER WHAT IS BEST FOR THE ENVIRONMENT</p>
-            </div>
-          </div>
-          <!-- End Service Icon 8 -->
-
-        </div>
-        <!-- .row -->
-      </div>
-      <!-- .container -->
-    </div>
-    <!-- End Services Section -->
-
-
-    <!-- Start Purchase Section -->
-    <div class="section purchase">
-      <div class="container">
-
-        <!-- Start Video Section Content -->
-        <div class="section-video-content text-center">
-
-          <!-- Start Animations Text -->
-          <h1 class="fittext wite-text uppercase tlt">
-                      <span class="texts">
-                        <span>To honor God in all we do.</span>
-                        <span>To excel with customers.</span>
-                        <span>To help people develop.</span>
-                        <span>To grow profitably</span>
-                      </span><br>
-                        Erawin for Cleaning and Infection Control thanks its customers and partners for their loyalty and trust. After 5 fulfilling years <br/>
-                    </h1>
-          <!-- End Animations Text -->
-
-
-          <!-- Start Buttons -->
-          <a href="single-project.php" class="btn-system btn-large"><i class="fa fa-tasks"></i> Check Out Features</a>
-          <a href="about.php" class="btn-system btn-large btn-wite"><i class="fa fa-download"></i> about us</a>
-
-        </div>
-        <!-- End Section Content -->
-
-      </div>
-      <!-- .container -->
-    </div>
-    <!-- End Purchase Section -->
-
-
-    <!-- Start Portfolio Section -->
-    <div class="section full-width-portfolio" style="border-top:0; border-bottom:0; background:#fff;">
-
-      <!-- Start Big Heading -->
-      <div class="big-title text-center" data-animation="fadeInDown" data-animation-delay="01">
-        <h1>This is Our Latest <strong>Work</strong></h1>
-      </div>
-      <!-- End Big Heading -->
-
-      <p class="text-center">     We all facilities intensive campaigns targeted on the Elimination of all, pest and insect existing on-site use of 
-        <br/>pesticides with high efficiency, especially on health in general and safe </p>
-
-
-      <!-- Start Recent Projects Carousel -->
-      <ul id="portfolio-list" data-animated="fadeIn">
-        <li>
-          <img src="images/portfolio-1/1.png" alt="" />
-          <div class="portfolio-item-content">
-            <span class="header">work to Libyan Wings Airlines
-            2016</span>
-            <p class="body">Erawin for Cleaning and Infection Control
-              Erawin Company</p>
-          </div>
-          <a href="#"><i class="more">+</i></a>
-
-        </li>
-        <li>
-          <img src="images/portfolio-1/2.png" alt="" />
-          <div class="portfolio-item-content">
-             <span class="header">Work to Pakistan Embassy, Tripoli, Libya 2015</span>
-            <p class="body">Erawin for Cleaning and Infection Control
-              Erawin Company</p>
-          </div>
-          <a href="#"><i class="more">+</i></a>
-
-        </li>
-        <li>
-          <img src="images/portfolio-1/3.png" alt="" />
-          <div class="portfolio-item-content">
-            <span class="header">Work to Pakistan Embassy, Tripoli, Libya 2015</span>
-            <p class="body">Erawin for Cleaning and Infection Control
-              Erawin Company</p>
-          </div>
-          <a href="#"><i class="more">+</i></a>
-
-        </li>
-        <li>
-          <img src="images/portfolio-1/4.png" alt="" />
-          <div class="portfolio-item-content">
-             <span class="header">Work to Pakistan Embassy, Tripoli, Libya 2015</span>
-            <p class="body">Erawin for Cleaning and Infection Control
-              Erawin Company</p>
-          </div>
-          <a href="#"><i class="more">+</i></a>
-
-        </li>
-        <li>
-          <img src="images/portfolio-1/5.png" alt="" />
-          <div class="portfolio-item-content">
-             <span class="header">work to Libyan Wings Airlines
-            2016</span>
-            <p class="body">Erawin for Cleaning and Infection Control
-              Erawin Company</p>
-          </div>
-          <a href="#"><i class="more">+</i></a>
-
-        </li>
-        <li>
-          <img src="images/portfolio-1/6.png" alt="" />
-          <div class="portfolio-item-content">
-            <span class="header">work to Libyan Wings Airlines
-            2016</span>
-            <p class="body">Erawin for Cleaning and Infection Control
-              Erawin Company</p>
-          </div>
-          <a href="#"><i class="more">+</i></a>
-
-        </li>
-        <li>
-          <img src="images/portfolio-1/7.png" alt="" />
-          <div class="portfolio-item-content">
-             <span class="header">work to Libyan Wings Airlines
-            2016</span>
-            <p class="body">Erawin for Cleaning and Infection Control
-              Erawin Company</p>
-          </div>
-          <a href="#"><i class="more">+</i></a>
-
-        </li>
-        <li>
-          <img src="images/portfolio-1/8.png" alt="" />
-          <div class="portfolio-item-content">
-             <span class="header">work to Libyan Wings Airlines
-            2016</span>
-            <p class="body">Erawin for Cleaning and Infection Control
-              Erawin Company</p>
-          </div>
-          <a href="#"><i class="more">+</i></a>
-
-        </li>
-        <li>
-          <img src="images/portfolio-1/9.png" alt="" />
-          <div class="portfolio-item-content">
-             <span class="header">work to Libyan Wings Airlines
-            2016</span>
-            <p class="body">Erawin for Cleaning and Infection Control
-              Erawin Company</p>
-          </div>
-          <a href="#"><i class="more">+</i></a>
-
-        </li>
-        <li>
-          <img src="images/portfolio-1/10.png" alt="" />
-          <div class="portfolio-item-content">
-             <span class="header">Work to Pakistan Embassy, Tripoli, Libya 2015</span>
-            <p class="body">Erawin for Cleaning and Infection Control
-              Erawin Company</p>
-          </div>
-          <a href="#"><i class="more">+</i></a>
-
-        </li>
-        <li>
-          <img src="images/portfolio-1/11.png" alt="" />
-          <div class="portfolio-item-content">
-            <span class="header">Work to Pakistan Embassy, Tripoli, Libya 2015</span>
-            <p class="body">Erawin for Cleaning and Infection Control
-              Erawin Company</p>
-          </div>
-          <a href="#"><i class="more">+</i></a>
-        </li>
-        <li>
-          <img src="images/portfolio-1/12.png" alt="" />
-          <div class="portfolio-item-content">
-             <span class="header">Work to Pakistan Embassy, Tripoli, Libya 2015</span>
-            <p class="body">Erawin for Cleaning and Infection Control
-              Erawin Company</p>
-          </div>
-          <a href="#"><i class="more">+</i></a>
-
-        </li>
-      </ul>
-
-      <!-- End Recent Projects Carousel -->
-
-
-    </div>
-    <!-- End Portfolio Section -->
-
-
-    <!-- Start Testimonials Section -->
-    <div>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8">
-
-            <!-- Start Recent Posts Carousel -->
-            <div class="latest-posts">
-              <h4 class="classic-title"><span>Latest News</span></h4>
-              <div class="latest-posts-classic custom-carousel touch-carousel" data-appeared-items="2">
-
-                <!-- Posts 1 -->
-                <div class="post-row item">
-                  <div class="left-meta-post">
-                    <div class="post-date"><span class="day">28</span><span class="month">Dec</span></div>
-                    <div class="post-type"><i class="fa fa-picture-o"></i></div>
+                <!-- Start Accordion 1 -->
+                <div class="panel panel-default">
+                  <!-- Toggle Heading -->
+                  <div class="panel-heading">
+                    <h4 class="panel-title">
+                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1">
+                        <i class="fa fa-angle-up control-icon"></i>
+                        <i class="fa fa-desktop"></i> We are Erawin We are the best!
+                      </a>
+                    </h4>
                   </div>
-                  <h3 class="post-title"><a href="#">Standard Post With Image</a></h3>
-                  <div class="post-content">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
+                  <!-- Toggle Content -->
+                  <div id="collapse-1" class="panel-collapse collapse in">
+                    <div class="panel-body"><img class="img-thumbnail image-text" style="float:left; width:150px;" alt="" src="images/bussniss-pic.jpg" /> <strong class="accent-color"></strong><font face="verdana" color="black" size="3"> We are Erawin Cleaning & Infection Control,  work to reduce the incidence of infection within the health care  and public facilities. Our basic objective is to protect the patients first, which result in the protection of workers as well as the protection of the environment health facilities and penetrate into the causes of the risk of the spread of infection.</font></div>
                   </div>
                 </div>
+                <!-- End Accordion 1 -->
 
-                <!-- Posts 2 -->
-                <div class="post-row item">
-                  <div class="left-meta-post">
-                    <div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-                    <div class="post-type"><i class="fa fa-picture-o"></i></div>
+                <!-- Start Accordion 2 -->
+                <div class="panel panel-default">
+                  <!-- Toggle Heading -->
+                  <div class="panel-heading">
+                    <h4 class="panel-title">
+                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse-2" class="collapsed">
+                        <i class="fa fa-angle-up control-icon"></i>
+                        <i class="fa fa-gift"></i> ADVANTAGES OF BIOGENIE FOR DECONTAMINATION
+                      </a>
+                    </h4>
                   </div>
-                  <h3 class="post-title"><a href="#">Link Post</a></h3>
-                  <div class="post-content">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
+                  <!-- Toggle Content -->
+                  <div id="collapse-2" class="panel-collapse collapse">
+                    <div class="panel-body"><pre><font face="verdana" color="black" size="3"> Period of Cleaning and Decontaminating is about 4 hours, room can be use immediately.
+                    Highly effective decontamination against wide range of bacteria, viruses and fungi such as: MRSA. C.DIFF CILE, E.COLI, VRE, & ACINETOBACTER species.
+                    Using 6% of Hydrogen Peroxide Vapor (VHP) with 0.006% silver anions to increase efficiency.
+                    Hydrogen Peroxide Vapor is able to penetrate even to the difficult narrow place and hard to access places inside the room.
+                    Environment friendly.
+
+                    We are fully prepared to provide management services for infection control at your health facility. We decontaminate to most very risk areas, these areas include,  Operations Room, Intensive Care Unit, Isolation Rooms, Neo-Natal Intensive Care Unit, Emergency Rooms and Laboratories. Our team clean and decontaminate in order to control infection.
+                   We would like to inform you that we offer annual contract and give you a program for decontamination and infection control in order to prevent the widespread of infection, epidemics and viruses  in your hospital using our modern way and techniques in infection control.
+                 </pre> </font></div>
                   </div>
                 </div>
-
-                <!-- Posts 3 -->
-                <div class="post-row item">
-                  <div class="left-meta-post">
-                    <div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-                    <div class="post-type"><i class="fa fa-picture-o"></i></div>
-                  </div>
-                  <h3 class="post-title"><a href="#">Iframe Video Post</a></h3>
-                  <div class="post-content">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-                  </div>
-                </div>
-
-                <!-- Posts 4 -->
-                <div class="post-row item">
-                  <div class="left-meta-post">
-                    <div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-                    <div class="post-type"><i class="fa fa-picture-o"></i></div>
-                  </div>
-                  <h3 class="post-title"><a href="#">Gallery Post</a></h3>
-                  <div class="post-content">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-                  </div>
-                </div>
-
-                <!-- Posts 5 -->
-                <div class="post-row item">
-                  <div class="left-meta-post">
-                    <div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-                    <div class="post-type"><i class="fa fa-picture-o"></i></div>
-                  </div>
-                  <h3 class="post-title"><a href="#">Standard Post without Image</a></h3>
-                  <div class="post-content">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-                  </div>
-                </div>
-
-                <!-- Posts 6 -->
-                <div class="post-row item">
-                  <div class="left-meta-post">
-                    <div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-                    <div class="post-type"><i class="fa fa-picture-o"></i></div>
-                  </div>
-                  <h3 class="post-title"><a href="#">Iframe Audio Post</a></h3>
-                  <div class="post-content">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-                  </div>
-                </div>
+                <!-- End Accordion 2 -->
 
               </div>
             </div>
-            <!-- End Recent Posts Carousel -->
 
           </div>
 
-          <!-- <div class="col-md-4">
+          <!-- Divider -->
+          <div class="hr1" style="margin-bottom:50px;"></div>
 
-         
-            <h4 class="classic-title"><span>Testimonials</span></h4>
+          <!-- Classic Heading -->
+          <h4 class="classic-title"><span>Our Creative Team</span></h4>
 
-          
-            <div class="custom-carousel show-one-slide touch-carousel" data-appeared-items="1">
-             
-              <div class="classic-testimonials item">
-                <div class="testimonial-content">
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                </div>
-                <div class="testimonial-author"><span>John Doe</span> - Customer</div>
-              </div>
-             
-              <div class="classic-testimonials item">
-                <div class="testimonial-content">
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                </div>
-                <div class="testimonial-author"><span>John Doe</span> - Customer</div>
-              </div>
-             
-              <div class="classic-testimonials item">
-                <div class="testimonial-content">
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                </div>
-                <div class="testimonial-author"><span>John Doe</span> - Customer</div>
-              </div>
-            </div>
-           
-
-          </div> -->
-        </div>
-      </div>
-    </div>
-    <!-- End Testimonials Section -->
-
-
-    <!-- Start Team Member Section -->
-    <div class="section" style="background:#fff;">
-      <div class="container">
-
-        <!-- Start Big Heading -->
-        <div class="big-title text-center" data-animation="fadeInDown" data-animation-delay="01">
-          <h1>Our Great <strong>Team</strong></h1>
-        </div>
-        <!-- End Big Heading -->
-
-        <!-- Some Text -->
-        <p class="text-center"><font face="verdana" color="black" size="4">We do everything with our core values of honesty,hard work, and trust.</font></p>
-
-
-        <!-- Start Team Members -->
-        <div class="row">
+          <!-- Start Team Members -->
+           <div class="row">
 
           <!-- Start Memebr 1 -->
           <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="03">
@@ -974,7 +693,7 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
               </div>
               <!-- Memebr Words -->
               <div class="member-info">
-                <p><font face="verdana" color="black" size="3">General Manager at Erawin for Cleaning and Infection Control .</font></p>
+                <p>General Manager at Erawin for Cleaning and Infection Control .</p>
               </div>
               <!-- Start Progress Bar 1 -->
               <div class="progress-label">Engineering</div>
@@ -1148,282 +867,18 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
           <!-- End Memebr 4 -->
 
         </div>
-        <!-- End Team Members -->
+          <!-- End Team Members -->
 
-      </div>
-      <!-- .container -->
-    </div>
-    <!-- End Team Member Section -->
+          <!-- Divider -->
+          <div class="hr1" style="margin-bottom:50px;"></div>
 
-
-    <div id="parallax-one" class="parallax" style="background-image:url(images/parallax/bg-02.jpg);">
-      <div class="parallax-text-container-1">
-        <div class="parallax-text-item">
-          <div class="container">
-            <div class="row">
-              <div class="col-xs-12 col-sm-3 col-md-3">
-                <div class="counter-item">
-                  <i class="fa fa-cloud-upload"></i>
-                  <div class="timer" id="item1" data-to="991" data-speed="5000"></div>
-                  <h5>Departments Number</h5>
-                </div>
-              </div>
-              <div class="col-xs-12 col-sm-3 col-md-3">
-                <div class="counter-item">
-                  <i class="fa fa-users"></i>
-                  <br><br><br>
-                  <div style="text-align:center;"><script type="text/javascript" src="http://services.webestools.com/cpt_visitors/47440-11-5.js"></script></div><a href="http://www.webestools.com/" style="display:block;text-align:center;" title="Tools services webmasters counters generators scripts tutorials free"></a>
-                 <br> 
-                 <h5>visitors counter</h5>
-                </div>
-              </div>
-              <div class="col-xs-12 col-sm-3 col-md-3">
-                <div class="counter-item">
-                  <i class="fa fa-code"></i>
-                  <div class="timer" id="item3" data-to="18745" data-speed="5000"></div>
-                  <h5>any statistics</h5>
-                </div>
-              </div>
-              <div class="col-xs-12 col-sm-3 col-md-3">
-                <div class="counter-item">
-                  <i class="fa fa-male"></i>
-                  <div class="timer" id="item4" data-to="8423" data-speed="5000"></div>
-                  <h5>Happy clients</h5>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-
-    <!-- Start Pricing Table Section -->
-   <!--  <div class=" section pricing-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-        
-            <div class="big-title text-center">
-              <h1>We Have Nice Pricing Plans For <strong>You!</strong></h1>
-            </div>
-         
-            <p class="text-center">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-          </div>
-        </div>
-
-        <div class="row pricing-tables">
-
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="pricing-table">
-              <div class="plan-name">
-                <h3>Basic</h3>
-              </div>
-              <div class="plan-price">
-                <div class="price-value">$49<span>.00</span></div>
-                <div class="interval">per month</div>
-              </div>
-              <div class="plan-list">
-                <ul>
-                  <li><strong>40 GB</strong> Storage</li>
-                  <li><strong>40GB</strong> Transfer</li>
-                  <li><strong>10</strong> Domains</li>
-                  <li><strong>20</strong> Projects</li>
-                  <li><strong>Free</strong> installation</li>
-                </ul>
-              </div>
-              <div class="plan-signup">
-                <a href="#" class="btn-system btn-small">Sign Up Now</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="pricing-table highlight-plan">
-              <div class="plan-name">
-                <h3>Advanced</h3>
-              </div>
-              <div class="plan-price">
-                <div class="price-value">$99<span>.00</span></div>
-                <div class="interval">per month</div>
-              </div>
-              <div class="plan-list">
-                <ul>
-                  <li><strong>40 GB</strong> Storage</li>
-                  <li><strong>40GB</strong> Transfer</li>
-                  <li><strong>10</strong> Domains</li>
-                  <li><strong>20</strong> Projects</li>
-                  <li><strong>Free</strong> installation</li>
-                </ul>
-              </div>
-              <div class="plan-signup">
-                <a href="#" class="btn-system btn-small border-btn">Sign Up Now</a>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="pricing-table">
-              <div class="plan-name">
-                <h3>Professional</h3>
-              </div>
-              <div class="plan-price">
-                <div class="price-value">$199<span>.00</span></div>
-                <div class="interval">per month</div>
-              </div>
-              <div class="plan-list">
-                <ul>
-                  <li><strong>40 GB</strong> Storage</li>
-                  <li><strong>40GB</strong> Transfer</li>
-                  <li><strong>10</strong> Domains</li>
-                  <li><strong>20</strong> Projects</li>
-                  <li><strong>Free</strong> installation</li>
-                </ul>
-              </div>
-              <div class="plan-signup">
-                <a href="#" class="btn-system btn-small">Sign Up Now</a>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="pricing-table">
-              <div class="plan-name">
-                <h3>Extreme</h3>
-              </div>
-              <div class="plan-price">
-                <div class="price-value">$299<span>.00</span></div>
-                <div class="interval">per month</div>
-              </div>
-              <div class="plan-list">
-                <ul>
-                  <li><strong>40 GB</strong> Storage</li>
-                  <li><strong>40GB</strong> Transfer</li>
-                  <li><strong>10</strong> Domains</li>
-                  <li><strong>20</strong> Projects</li>
-                  <li><strong>Free</strong> installation</li>
-                </ul>
-              </div>
-              <div class="plan-signup">
-                <a href="#" class="btn-system btn-small">Sign Up Now</a>
-              </div>
-            </div>
-          </div>
-
-
-        </div>
-      </div>
-    </div> -->
-    <!-- End Pricing Table Section -->
-    <div class=" section pricing-section">
-      <div class="container">
-      <div class="row">
-      <div class="col-md-4">
-      <h4 class="classic-title"><span>More About Us</span></h4>  
-      <ul class="nav nav-tabs">
-      <li class="active"><a href="#tab1" data-toggle="tab"><i class="icon-award-1"></i>The infection</a></li>
-      <li><a href="#tab2" data-toggle="tab"><i class="icon-beaker"></i>Cleaning</a></li>
-      <li><a href="#tab3" data-toggle="tab"><i class="icon-droplet"></i>Office Cleaning</a></li>
-      </ul>
-      <div class="tab-content">
-      <div class="tab-pane fade in active" id="tab1">
-      <p align="justify"><span style="color: #000000;"><span style="font-family: 'Open Sans', serif;"><span style="font-size: medium;">Erawin for cleaning and infection control services, we’ve been cleaning offices, businesses, schools, hospitals, homes and passenger aircrafts for years. We’re cleaning experts and we take pride in that fact. We are committed to providing you with the same spotless office space you had at the start of your business. We know the importance of having a reliable, efficient commercial cleaning service and we work tirelessly to ensure that your workplace is maintained to the highest standards. Erawin has a large staff of well trained professionals with experience in house cleaning, apartment cleaning, and commercial cleaning jobs. It’s our mission to ensure you have the safest, most sanitary home or office possible. </span></span></span></p>
-      </div>
-      <div class="tab-pane fade" id="tab2">
-      <p>
-        <p align="justify"><span style="color: #000000;"><span style="font-family: 'Open Sans', serif;"><span style="font-size: medium;"><b>W</b></span></span></span><span style="color: #000000;"><span style="font-family: 'Open Sans', serif;"><span style="font-size: medium;">e believe that time is money, and so is health. Without the good health of your employees, productivity can slow or stop for a period of time. For that reason, we have made it our mission to make sure your business is nothing less than pristine. We know that there are more important things you and your employees could be doing than taking care of your own cleaning services, so leave that to us.</span></span></span></p>
-      </p>
-      </div>
-       
-      <div class="tab-pane fade" id="tab3">
-      <p align="justify"><span style="color: #000000;"><span style="font-family: 'Open Sans', serif;"><span style="font-size: medium;"><b>E</b></span></span></span><span style="color: #000000;"><span style="font-family: 'Open Sans', serif;"><span style="font-size: medium;">ach day we make sure to empty trash bins and replace the bags. We vacuum all carpets thoroughly and we also sweep and mop wood and tile floors. We even sanitize door handles. Depending on the number of employees in a business, handles can be touched hundreds of times each day. At the end of each session, we turn off all the lights and lock the doors. We also dust room fixtures once every week.</span></span></span></p>
-      </div>
-      </div>
-      </div>
-      <div class="col-md-4">
-      <!-- <h4 class="classic-title"><span>Why Choose Us (suggestion by Osama)</span></h4>
-      <div class="panel-group" id="accordion">
-      <div class="panel panel-default"> 
-      <div class="panel-heading">
-      <h4 class="panel-title">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapse-one">
-      <i class="icon-down-open-1 control-icon"></i>
-      <i class="icon-laptop-1"></i> Our skills 
-      </a>
-      </h4>
-      </div>
-      <div id="collapse-one" class="panel-collapse collapse in">
-      <div class="panel-body">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
-      </div>
-      </div>
-      <div class="panel panel-default">
-       
-      <div class="panel-heading">
-      <h4 class="panel-title">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapse-tow" class="collapsed">
-      <i class="icon-down-open-1 control-icon"></i>
-      <i class="icon-gift-1"></i> Touchable Slider
-      </a>
-      </h4>
-      </div>
- 
-      <div id="collapse-tow" class="panel-collapse collapse">
-      <div class="panel-body">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. The point of using Lorem Ipsum is that it has a <strong>more-or-less</strong> normal distribution of letters.</div>
-      </div>
-      </div>
- 
- 
-<div class="panel panel-default">
- 
-<div class="panel-heading">
-<h4 class="panel-title">
-<a data-toggle="collapse" data-parent="#accordion" href="#collapse-three" class="collapsed">
-<i class="icon-down-open-1 control-icon"></i>
-<i class="icon-tint"></i> Retina Ready
-</a>
-</h4>
-</div>
- 
-<div id="collapse-three" class="panel-collapse collapse">
-<div class="panel-body">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
-</div>
-</div>
- 
-</div> -->
-</div>
-<div class="col-md-4">
- 
-<h4 class="classic-title"><span>Cleaning and Sanitizing</span></h4>
- 
-<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RAFMIXPq9BE" frameborder="0" allowfullscreen></iframe></div>
-</div>
-</div>
-    </div>
- </div>
-
-
-
-    <br>
-    <br>
-    <br>
-
-    <!-- Start Client/Partner Section -->
-    <div class="partner">
-      <div class="container">
-        <div class="row">
-
-          <!-- Start Big Heading -->
-          <div class="big-title text-center">
-            <h1>Our Happy <strong>Clients</strong></h1>
-            <p class="title-desc">Partners We Work With</p>
-          </div>
-          <!-- End Big Heading -->
-
-          <!--Start Clients Carousel-->
+          <!-- Start Clients Carousel -->
           <div class="our-clients">
-            <div class="clients-carousel custom-carousel touch-carousel navigation-3" data-appeared-items="5" data-navigation="true">
+
+            <!-- Classic Heading -->
+            <h4 class="classic-title"><span>Our Happy Clients</span></h4>
+
+            <div class="clients-carousel custom-carousel touch-carousel" data-appeared-items="5">
 
               <!-- Client 1 -->
               <div class="client-item item">
@@ -1468,16 +923,16 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
             </div>
           </div>
           <!-- End Clients Carousel -->
+
+
         </div>
-        <!-- .row -->
       </div>
-      <!-- .container -->
     </div>
-    <!-- End Client/Partner Section -->
+    <!-- End content -->
 
 
-    <!-- Start Footer Section -->
-    <footer>
+    <!-- Start Footer -->
+   <footer>
       <div class="container">
         <div class="row footer-widgets">
 
@@ -1655,21 +1110,13 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
 
       </div>
     </footer>
-    <!-- End Footer Section -->
-
+    <!-- End Footer -->
 
   </div>
-  <!-- End Full Body Container -->
+  <!-- End Container -->
 
   <!-- Go To Top Link -->
   <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
-
-  <div id="loader">
-    <div class="spinner">
-      <div class="dot1"></div>
-      <div class="dot2"></div>
-    </div>
-  </div>
 
   <!-- Style Switcher -->
   <div class="switcher-box">
