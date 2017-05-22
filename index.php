@@ -544,8 +544,13 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
     <!-- Start Portfolio Section -->
     <div class="section full-width-portfolio" style="border-top:0; border-bottom:0; background:#fff;">
 
+     
+
       <!-- Start Big Heading -->
+     
+
       <div class="big-title text-center" data-animation="fadeInDown" data-animation-delay="01">
+        <img align="middle" src="images/weServe/a.jpg">
         <h1>This is Our Latest <strong>Work</strong></h1>
       </div>
       <!-- End Big Heading -->
