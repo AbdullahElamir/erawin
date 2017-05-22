@@ -157,7 +157,7 @@
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
             <a class="navbar-brand" href="httpshtml">
-              <img width="150" higth="50" alt="" src="images/erawin.jpg" width="" hight="">
+              <img width="130" higth="50" alt="" src="images/erawin.jpg" width="" hight="">
             </a>
           </div>
           <div class="navbar-collapse collapse">
@@ -177,111 +177,47 @@
               <li>
                 <a  href="index.php">Home</a>
 
-                <!-- <ul class="dropdown">
-                  <li><a class="active" href="index.php">Home Main Version</a>
-                  </li>
-                  <li><a href="index-01.html">Home Version 1</a>
-                  </li>
-                  <li><a href="index-02.html">Home Version 2</a>
-                  </li>
-                  <li><a href="index-03.html">Home Version 3</a>
-                  </li>
-                  <li><a href="index-04.html">Home Version 4</a>
-                  </li>
-                  <li><a href="index-05.html">Home Version 5</a>
-                  </li>
-                  <li><a href="index-06.html">Home Version 6</a>
-                  </li>
-                  <li><a href="index-07.html">Home Version 7</a>
-                  </li>
-                </ul> -->
               </li>
               <li>
                  <a  href="report.php">Annual Reports</a>
               </li>
               <li>
-                <a  class="active" href="about.php">About us</a>
+                <a class="active" href="about.php">About us</a>
               </li>
               <li><a href="services.php">Services</a>
                   <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
+                  </li> 
                   <li><a href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
                   </li>
                   <li><a href="EIDProgram.php">Educational Institution Disinfection Program</a>
                   </li>
+                  <li><a href="AVIATION_SERVICE.php">Aviation service</a>
+                  </li>
+
+
+                   <li><a href="">STEAM CLEANING TECHNOLOGY</a>
+                    <ul  class="nav navbar-nav navbar-right">
                     
-
-                </ul>
-
-
-                 </li>
-     <!--          <li>
-                <a href="about.php">Pages</a>
-                <ul class="dropdown">
-                  <li><a href="about.php">About</a>
+                      <li><a href="https://docs.google.com/presentation/d/17wTRQMX91vePJMnqS0_uYNpgnxM-v2FtgLFEiYtk28Y/edit?usp=sharing">STEAM CLEANING Presention</a>
+                      </li>
+                      <li><a href="https://docs.google.com/presentation/d/1djHMqlzHX3kb2DwpwwybOyeiwsUp5tnBuf0QIm3C6WA/edit?usp=sharing">STEAM CLEANING Docs</a>
+                      </li>
+                    
+                    </ul>
                   </li>
-                  <li><a href="services.php">Services</a>
-                  </li>
-                  <li><a href="right-sidebar.html">Right Sidebar</a>
-                  </li>
-                  <li><a href="left-sidebar.html">Left Sidebar</a>
-                  </li>
-                  <li><a href="404.html">404 Page</a>
+                  <li>
+                    <a href="PEST_CONTROL_SERVICES.php">PEST CONTROL SERVICES</a>
                   </li>
                 </ul>
-              </li> -->
-            <!--   <li>
-                <a href="#">Shortcodes</a>
-                <ul class="dropdown">
-                  <li><a href="tabs.html">Tabs</a>
-                  </li>
-                  <li><a href="buttons.html">Buttons</a>
-                  </li>
-                  <li><a href="action-box.html">Action Box</a>
-                  </li>
-                  <li><a href="testimonials.html">Testimonials</a>
-                  </li>
-                  <li><a href="latest-posts.html">Latest Posts</a>
-                  </li>
-                  <li><a href="latest-projects.html">Latest Projects</a>
-                  </li>
-                  <li><a href="pricing.html">Pricing Tables</a>
-                  </li>
-                  <li><a href="animated-graphs.html">Animated Graphs</a>
-                  </li>
-                  <li><a href="accordion-toggles.html">Accordion & Toggles</a>
-                  </li>
-                </ul>
-              </li> -->
+              </li>
+     
               <li>
                 <a href="single-project.php">Portfolio</a>
                 <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
                   <li><a href="single-project.php">our business</a>
                   </li>
                 </ul>
               </li>
-             <!--  <li>
-                <a href="blog.html">Blog</a>
-                <ul class="dropdown">
-                  <li><a href="blog.html">Blog - right Sidebar</a>
-                  </li>
-                  <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a>
-                  </li>
-                  <li><a href="single-post.html">Blog Single Post</a>
-                  </li>
-                </ul>
-              </li> -->
               <li><a href="contact.php">Contact</a>
               </li>
             </ul>
@@ -291,89 +227,10 @@
 
         <!-- Mobile Menu Start -->
         <ul class="wpb-mobile-menu">
-          <li>
-            <a  href="index.php">Home</a>
-            <!-- <ul class="dropdown">
-              <li><a class="active" href="index.php">Home Main Version</a>
+                  <li>
+                <a  href="index.php">Home</a>
+
               </li>
-              <li><a href="index-01.html">Home Version 1</a>
-              </li>
-              <li><a href="index-02.html">Home Version 2</a>
-              </li>
-              <li><a href="index-03.html">Home Version 3</a>
-              </li>
-              <li><a href="index-04.html">Home Version 4</a>
-              </li>
-              <li><a href="index-05.html">Home Version 5</a>
-              </li>
-              <li><a href="index-06.html">Home Version 6</a>
-              </li>
-              <li><a href="index-07.html">Home Version 7</a>
-              </li>
-            </ul> -->
-          </li>
-         <!--  <li>
-            <a href="about.php">Pages</a>
-            <ul class="dropdown">
-              <li><a href="about.php">About</a>
-              </li>
-              <li><a href="services.php">Services</a>
-              </li>
-              <li><a href="right-sidebar.html">Right Sidebar</a>
-              </li>
-              <li><a href="left-sidebar.html">Left Sidebar</a>
-              </li>
-              <li><a href="404.html">404 Page</a>
-              </li>
-            </ul>
-          </li> -->
-        <!--   <li>
-            <a href="#">Shortcodes</a>
-            <ul class="dropdown">
-              <li><a href="tabs.html">Tabs</a>
-              </li>
-              <li><a href="buttons.html">Buttons</a>
-              </li>
-              <li><a href="action-box.html">Action Box</a>
-              </li>
-              <li><a href="testimonials.html">Testimonials</a>
-              </li>
-              <li><a href="latest-posts.html">Latest Posts</a>
-              </li>
-              <li><a href="latest-projects.html">Latest Projects</a>
-              </li>
-              <li><a href="pricing.html">Pricing Tables</a>
-              </li>
-              <li><a href="animated-graphs.html">Animated Graphs</a>
-              </li>
-              <li><a href="accordion-toggles.html">Accordion & Toggles</a>
-              </li>
-            </ul>
-          </li> -->
-      <!--     <li>
-            <a href="portfolio-3.html">Portfolio</a>
-            <ul class="dropdown">
-              <li><a href="portfolio-2.html">2 Columns</a>
-              </li>
-              <li><a href="portfolio-3.html">3 Columns</a>
-              </li>
-              <li><a href="portfolio-4.html">4 Columns</a>
-              </li>
-              <li><a href="single-project.php">Single Project</a>
-              </li>
-            </ul>
-          </li> -->
-       <!--    <li>
-            <a href="blog.html">Blog</a>
-            <ul class="dropdown">
-              <li><a href="blog.html">Blog - right Sidebar</a>
-              </li>
-              <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a>
-              </li>
-              <li><a href="single-post.html">Blog Single Post</a>
-              </li>
-            </ul>
-          </li> -->
               <li>
                  <a  href="report.php">Annual Reports</a>
               </li>
@@ -382,40 +239,41 @@
               </li>
               <li><a href="services.php">Services</a>
                   <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
+                  </li> 
                   <li><a href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
                   </li>
                   <li><a href="EIDProgram.php">Educational Institution Disinfection Program</a>
                   </li>
+                  <li><a href="AVIATION_SERVICE.php">Aviation service</a>
+                  </li>
+
+
+                   <li><a href="">STEAM CLEANING TECHNOLOGY</a>
+                    <ul  class="nav navbar-nav navbar-right">
                     
-
+                      <li><a href="https://docs.google.com/presentation/d/17wTRQMX91vePJMnqS0_uYNpgnxM-v2FtgLFEiYtk28Y/edit?usp=sharing">STEAM CLEANING Presention</a>
+                      </li>
+                      <li><a href="https://docs.google.com/presentation/d/1djHMqlzHX3kb2DwpwwybOyeiwsUp5tnBuf0QIm3C6WA/edit?usp=sharing">STEAM CLEANING Docs</a>
+                      </li>
+                    
+                    </ul>
+                  </li>
+                  <li>
+                    <a href="PEST_CONTROL_SERVICES.php">PEST CONTROL SERVICES</a>
+                  </li>
                 </ul>
-
-
-                 </li>
-          <li>
-            <a href="contact.php">Contact</a>
-          </li>
-            <li>
+              </li>
+     
+              <li>
                 <a href="single-project.php">Portfolio</a>
                 <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
                   <li><a href="single-project.php">our business</a>
                   </li>
                 </ul>
               </li>
-
-
+              <li><a href="contact.php">Contact</a>
+              </li>
+         
         </ul>
         <!-- Mobile Menu End -->
 
@@ -462,15 +320,45 @@
               <h4 class="classic-title"><span><font face="verdana" color="black" size="4"><strong>Welcome To Our Agency</strong></font></span></h4>
 
               <!-- Some Text -->
-              <p><font face="verdana" color="black" size="3">For more than 5 years, Erawin for Cleaning and Infection Control, has dedicated itself to providing professional facilities management services for business and industries, hospitals and health care facilities, schools, Airline companies in the country. Launched on March 25, 2013, Erawin company is a subsidiary of Robia Group of Companies, the country’s leading medical and scientific laboratory appliances and medicine provider in Libya, established since 1994.
-​
-              Erawin Company was recognized in it’s industry as the most admired service company in Tripoli, Libya. For 5 years, the company has continuously evolved through its core businesses: janitorial and cleaning service, infectious control services and pest control services. The company has pursued the same standard of excellence and has adhered to its parent company’s core values:
-               1) To honor God in all we do.
-               2) To excel with customers.
-               3) To help people develop.
-               4) To grow profitably.
-              ​
-              Erawin for Cleaning and Infection Control thanks its customers and partners for their loyalty and trust. After 5 fulfilling years, Erawin company remains committed to its mission to pursue excellence and delight its customers.</font></p>
+              <p><font face="verdana" color="black" size="3">
+
+                <p>
+    For more than 5 years, Erawin for Cleaning and Infection Control, has
+    dedicated itself to providing professional facilities management services
+    for business and industries, hospitals and health care facilities, schools,
+    Airline companies in the country. Launched on March 25, 2013, Erawin
+    company is a subsidiary of Robia Group of Companies, the country’s leading
+    medical and scientific laboratory appliances and medicine provider in
+    Libya, established since 1994.
+</p>
+<p ><font face="verdana" color="black" size="3">
+    Erawin Company was recognized in it’s industry as the most admired service
+    company in Tripoli, Libya. For 5 years, the company has continuously
+    evolved through its core businesses: janitorial and cleaning service,
+    infectious control services and pest control services. The company has
+    pursued the same standard of excellence and has adhered to its parent
+    company’s core values:
+</p>
+<p><font face="verdana" color="black" size="3">
+    1) To honor God in all we do.
+</p>
+<p><font face="verdana" color="black" size="3">
+    2) To excel with customers.
+</p>
+<p><font face="verdana" color="black" size="3">
+    3) To help people develop.
+</p>
+<p><font face="verdana" color="black" size="3">
+    4) To grow profitably.
+</p>
+<p><font face="verdana" color="black" size="3">
+    Erawin for Cleaning and Infection Control thanks its customers and partners
+    for their loyalty and trust. After 5 fulfilling years, Erawin company
+    remains committed to its mission to pursue excellence and delight its
+    customers.
+</p>
+
+              </font></p>
 
             </div>
 

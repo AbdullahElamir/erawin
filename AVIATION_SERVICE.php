@@ -6,7 +6,7 @@
 <head>
 
   <!-- Basic -->
-  <title>ERAWIN | Erawan's Documentation</title>
+  <title>ERAWIN | for Aviation service</title>
 
   <!-- Define Charset -->
   <meta charset="utf-8">
@@ -79,7 +79,7 @@
 
     <!-- Start Header -->
     <div class="hidden-header"></div>
-   <header class="clearfix">
+     <header class="clearfix">
 
       <!-- Start Top Bar -->
       <div class="top-bar">
@@ -179,19 +179,19 @@
 
               </li>
               <li>
-                 <a  class="active" href="report.php">Annual Reports</a>
+                 <a  href="report.php">Annual Reports</a>
               </li>
               <li>
                 <a href="about.php">About us</a>
               </li>
-              <li><a href="services.php">Services</a>
+              <li><a class="active" href="services.php">Services</a>
                   <ul class="dropdown">
                   </li> 
                   <li><a href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
                   </li>
                   <li><a href="EIDProgram.php">Educational Institution Disinfection Program</a>
                   </li>
-                  <li><a href="AVIATION_SERVICE.php">Aviation service</a>
+                  <li><a class="active" href="AVIATION_SERVICE.php">Aviation service</a>
                   </li>
 
 
@@ -232,19 +232,19 @@
 
               </li>
               <li>
-                 <a  class="active" href="report.php">Annual Reports</a>
+                 <a  href="report.php">Annual Reports</a>
               </li>
               <li>
                 <a href="about.php">About us</a>
               </li>
-              <li><a href="services.php">Services</a>
+              <li><a class="active" href="services.php">Services</a>
                   <ul class="dropdown">
                   </li> 
                   <li><a href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
                   </li>
                   <li><a href="EIDProgram.php">Educational Institution Disinfection Program</a>
                   </li>
-                  <li><a href="AVIATION_SERVICE.php">Aviation service</a>
+                  <li><a class="active" href="AVIATION_SERVICE.php">Aviation service</a>
                   </li>
 
 
@@ -283,7 +283,6 @@
 
 
     </header>
- 
     <!-- End Header -->
 
 
@@ -292,7 +291,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <h2>Annual Reports</h2>
+            <h2>for Aviation service programe</h2>
             <p>We Are Professional</p>
           </div>
           <div class="col-md-6">
@@ -311,85 +310,145 @@
     <div id="content">
       <div class="container">
         <div class="page-content">
-
-
           <div class="row">
+            <div class="col-md-7">
 
-            <div class="col-md-12">
+              <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+  <META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+  <TITLE></TITLE>
+  <META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
+  <META NAME="AUTHOR" CONTENT="HP">
+  <META NAME="CREATED" CONTENT="20170423;103900000000000">
+  <META NAME="CHANGEDBY" CONTENT="HP">
+  <META NAME="CHANGED" CONTENT="20170423;105300000000000">
+  <META NAME="AppVersion" CONTENT="14.0000">
+  <META NAME="DocSecurity" CONTENT="0">
+  <META NAME="HyperlinksChanged" CONTENT="false">
+  <META NAME="LinksUpToDate" CONTENT="false">
+  <META NAME="ScaleCrop" CONTENT="false">
+  <META NAME="ShareDoc" CONTENT="false">
+  <STYLE TYPE="text/css">
+  <!--
+    @page { size: 8.5in 11in; margin-left: 1.25in; margin-right: 1.25in; margin-top: 1in; margin-bottom: 1in }
+    P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
+  -->
+  </STYLE>
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#5a5a5a"><FONT FACE="Arial, serif"><FONT SIZE=2><SPAN STYLE="background: #ffffff">We
+all know that A/Cs need at transit stop, or during quick turn-rounds
+at terminal airports to the cleaning and rearranging. The time
+constraints as well as the remaining of the passengers on  board the
+A/C does not allow for the full cleaning process. Priority must be
+given to the removal of litter and dry waste and the cleaning of
+toilet compartments and galleys.</SPAN></FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#5a5a5a"><FONT FACE="Arial, serif"><FONT SIZE=2><SPAN STYLE="background: #ffffff">We
+all know that A/Cs need at transit stop, or during quick turn-rounds
+at terminal airports to the cleaning and rearranging. The time
+constraints as well as the remaining of the passengers on  board the
+A/C does not allow for the full cleaning process. Priority must be
+given to the removal of litter and dry waste and the cleaning of
+toilet compartments and galleys.</SPAN></FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#5a5a5a"><FONT FACE="Arial, serif"><FONT SIZE=2>We
+at Erawin provide aircraft cleaning and disinfect services at all
+Levels A, B, and C. we also offer some of the additional services
+which are as follows:</FONT></FONT></FONT></P>
+<UL>
+  <LI><P STYLE="margin-bottom: 0.14in">A = Cleaning time under 60
+  minutes. 
+  </P>
+  <LI><P STYLE="margin-bottom: 0.14in">B = Cleaning time over 60
+  minutes</P>
+  <LI><P STYLE="margin-bottom: 0in">C = Overnight  deep cleaning (four
+  hours or more), and need to be four times the labor           
+  </P>
+</UL>
+<P STYLE="margin-bottom: 0in">                     and time compared
+to the work level of the A or B during transit stops of the     
+</P>
+<P STYLE="margin-bottom: 0in">                      aircraft. 
+</P>
+<UL>
+  <LI><P STYLE="margin-bottom: 0.14in">D = Disinfection of aircraft by
+  dry vapor. 
+  </P>
+  <LI><P STYLE="margin-bottom: 0.14in">I  = Insecticide of aircraft by
+  dry vapor and others. 
+  </P>
+  <UL>
+    <LI><P STYLE="margin-bottom: 0.14in">O = Odor eliminator of
+    aircraft by dry vapor and spray.</P>
+  </UL>
+</UL>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#5a5a5a"><FONT FACE="Arial, serif"><FONT SIZE=2>Erawin
+working team strive to have your aircraft  in the decent and clean
+appearance, and safer to reduce the opportunities for the spread of
+diseases and infections through hygiene agenda proposed by cleansing
+(WHO) World Health Organization Guide to Hygiene and sanitation in
+Aviation Third Edition, and by using detergents and disinfectants for
+aviation use and approved by airline companies.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#5a5a5a"><FONT FACE="Arial, serif"><FONT SIZE=2>We
+at Erawin company work to ensure the reduction of the incidences of
+infections in the most vulnerable and high risky areas, including
+aircraft. The basic aim is to protect the passengers, cabin crew and
+the aircraft environment from the risk infection spread. </FONT></FONT></FONT>
+</P>
+<P STYLE="margin-bottom: 0.14in"><B>Cleaning, Disinfecting and Pest
+Control Tasks include: </B>
+</P>
+<P STYLE="margin-bottom: 0.14in">1. Cleaning and disinfecting the
+cockpit.</P>
+<P STYLE="margin-bottom: 0.14in"> 2. Cleaning and disinfecting the
+passenger cabin.</P>
+<P STYLE="margin-bottom: 0.14in"> 3. Cleaning and disinfecting the
+aircraft galleys.</P>
+<P STYLE="margin-bottom: 0.14in">4. Cleaning and disinfecting
+lavatories.</P>
+<P STYLE="margin-bottom: 0.14in"> 5. Cleaning Cargo unit.</P>
+</BODY>
+</HTML>
 
-              <div class="container">
-<div class="page-content">
- 
-<div class="call-action call-action-boxed call-action-style1 no-descripton clearfix">
- 
-<div class="button-side"><a href="https://docs.google.com/presentation/d/10RM0F_T3CHLvg2T9BwtEcgdGGTk9DSdiaAdkueLgGkY/edit?usp=sharing" class="btn-system border-btn btn-medium">Preview it Now</a></div>
- 
-<h2 class="primary"><strong>ERAWIN</strong> 
-CLEANING AND INFECTION CONROL</h2>
-</div>
- 
- 
-<div class="hr1" style="margin-bottom:40px;"></div>
- 
-<div class="call-action call-action-boxed call-action-style1 clearfix">
- 
-<div class="button-side" style="margin-top:8px;"><a href="https://docs.google.com/document/d/1I-rEj3vAW33oLd7vzvB3HCPNTCDEX5W-8NFdPOtXgco/edit?usp=sharing" class="btn-system btn-large">Preview It Now</a></div>
-<h2 class="primary"><strong>ERWIN's Document</strong>   Hospital Acquired Infections (HAI’s)</p>
-</div>
-
-
-<div class="hr1" style="margin-bottom:40px;"></div>
- 
-<div class="call-action call-action-boxed call-action-style1 clearfix">
- 
-<div class="button-side" style="margin-top:8px;"><a href="https://docs.google.com/presentation/d/1djHMqlzHX3kb2DwpwwybOyeiwsUp5tnBuf0QIm3C6WA/edit?usp=sharing" class="btn-system btn-large">Preview It Now</a></div>
-<h2 class="primary"><strong>ERWIN's pptx</strong>   
-STEAM CLEANING TECHNOLOGY</p>
-</div>
-
-
- 
-<!--  
-<div class="hr1" style="margin-bottom:40px;"></div>
- 
-<div class="call-action call-action-boxed call-action-style1 clearfix">
- 
-<div class="button-side" style="margin-top:8px;"><a href="#" class="btn-system border-btn btn-large"><i class="icon-gift-1"></i> See Features</a> <a href="#" class="btn-system border-btn btn-large btn-gray">Purchase It Now</a></div>
- 
-<h2 class="primary"><strong>Margo</strong> is the best theme to create an awesome website!</h2>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-</div>
- 
- 
-<div class="hr1" style="margin-bottom:40px;"></div>
- 
-<div class="call-action call-action-boxed call-action-style2 clearfix">
- 
-<div class="button-side" style="margin-top:8px;"><a href="#" class="btn-system btn-large"><i class="icon-gift-1"></i> See Features</a> <a href="#" class="btn-system btn-large btn-gray"><i class="icon-basket-2"></i> Purchase It Now</a></div>
- 
-<h2 class="primary"><strong>Margo</strong> is the best theme to create an awesome website!</h2>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-</div>
- 
- 
-<div class="hr1" style="margin-bottom:40px;"></div>
- 
-<div class="call-action call-action-boxed call-action-style3 clearfix">
- 
-<div class="button-side" style="margin-top:10px;"><a href="#" class="btn-system border-btn btn-medium btn-wite"><i class="icon-gift-1"></i> See Features</a> <a href="#" class="btn-system border-btn btn-medium"><i class="icon-basket"></i> Purchase It Now</a></div>
- 
-<h2 class="primary"><strong>Margo</strong> is the best theme to create an awesome website!</h2>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-</div>
- 
-</div>
-</div>
- -->
-            
+           
+          
 
             </div>
 
+
+            <div class="col-md-5">
+
+              <!-- Start Touch Slider -->
+              <div class="touch-slider" data-slider-navigation="true" data-slider-pagination="true">
+                 <div class="item"><img alt="" src="images/portfolio/20160602_161436.jpg"></div>
+
+                 <div class="item"><img alt="" src="images/portfolio/IMG_2796.JPG"></div>
+                 <div class="item"><img alt="" src="images/portfolio/IMG_2786.JPG"></div>
+                 <div class="item"><img alt="" src="images/portfolio/IMG_2791.JPG"></div>
+                 <div class="item"><img alt="" src="images/portfolio/IMG_3228.JPG"></div>
+                 <div class="item"><img alt="" src="images/portfolio/IMG_3275.JPG"></div>
+                 <div class="item"><img alt="" src="images/portfolio/IMG_3293.JPG"></div>
+                 
+                 
+                 
+                 
+                 
+                 
+               <!--  <div class="item"><img alt="" src="images/portfolio/20131117_133102.jpg"></div>
       
+                <div class="item"><img alt="" src="images/portfolio/20131117_134321.jpg"></div>
+                <div class="item"><img alt="" src="images/portfolio/20131117_165435.jpg"></div>
+                <div class="item"><img alt="" src="images/portfolio/20131117_165729.jpg"></div>
+                <div class="item"><img alt="" src="images/portfolio/20140323_113426.jpg"></div>
+                <div class="item"><img alt="" src="images/portfolio/20140704_081003.jpg" ></div>
+
+                 <div class="item"><img alt="" src="images/portfolio/20140704_081101.jpg" ></div>
+                  <div class="item"><img alt="" src="images/portfolio/20141026_142553.jpg" ></div> -->
+                 
+              </div>
+              <!-- End Touch Slider -->
+
+            </div>
 
           </div>
 
@@ -755,7 +814,6 @@ STEAM CLEANING TECHNOLOGY</p>
         </div>
       </div>
     </div>
-  </div>
     <!-- End content -->
 
 

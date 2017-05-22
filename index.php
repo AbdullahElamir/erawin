@@ -10,6 +10,9 @@ width: 200px;
 height: 120px;
 }
 
+
+
+
 </style>
 <head>
 
@@ -169,7 +172,7 @@ height: 120px;
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
             <a class="navbar-brand" href="httpshtml">
-              <img width="150" higth="50" alt="" src="images/erawin.jpg" width="" hight="">
+              <img width="130" higth="50" alt="" src="images/erawin.jpg" width="" hight="">
             </a>
           </div>
           <div class="navbar-collapse collapse">
@@ -189,24 +192,6 @@ height: 120px;
               <li>
                 <a class="active" href="index.php">Home</a>
 
-                <!-- <ul class="dropdown">
-                  <li><a class="active" href="index.php">Home Main Version</a>
-                  </li>
-                  <li><a href="index-01.html">Home Version 1</a>
-                  </li>
-                  <li><a href="index-02.html">Home Version 2</a>
-                  </li>
-                  <li><a href="index-03.html">Home Version 3</a>
-                  </li>
-                  <li><a href="index-04.html">Home Version 4</a>
-                  </li>
-                  <li><a href="index-05.html">Home Version 5</a>
-                  </li>
-                  <li><a href="index-06.html">Home Version 6</a>
-                  </li>
-                  <li><a href="index-07.html">Home Version 7</a>
-                  </li>
-                </ul> -->
               </li>
               <li>
                  <a  href="report.php">Annual Reports</a>
@@ -216,84 +201,38 @@ height: 120px;
               </li>
               <li><a href="services.php">Services</a>
                   <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
+                  </li> 
                   <li><a href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
                   </li>
                   <li><a href="EIDProgram.php">Educational Institution Disinfection Program</a>
                   </li>
+                  <li><a href="AVIATION_SERVICE.php">Aviation service</a>
+                  </li>
+
+
+                   <li><a href="">STEAM CLEANING TECHNOLOGY</a>
+                    <ul  class="nav navbar-nav navbar-right">
                     
-
-                </ul>
-
-
-                 </li>
-     <!--          <li>
-                <a href="about.php">Pages</a>
-                <ul class="dropdown">
-                  <li><a href="about.php">About</a>
+                      <li><a href="https://docs.google.com/presentation/d/17wTRQMX91vePJMnqS0_uYNpgnxM-v2FtgLFEiYtk28Y/edit?usp=sharing">STEAM CLEANING Presention</a>
+                      </li>
+                      <li><a href="https://docs.google.com/presentation/d/1djHMqlzHX3kb2DwpwwybOyeiwsUp5tnBuf0QIm3C6WA/edit?usp=sharing">STEAM CLEANING Docs</a>
+                      </li>
+                    
+                    </ul>
                   </li>
-                  <li><a href="services.php">Services</a>
-                  </li>
-                  <li><a href="right-sidebar.html">Right Sidebar</a>
-                  </li>
-                  <li><a href="left-sidebar.html">Left Sidebar</a>
-                  </li>
-                  <li><a href="404.html">404 Page</a>
+                  <li>
+                    <a href="PEST_CONTROL_SERVICES.php">PEST CONTROL SERVICES</a>
                   </li>
                 </ul>
-              </li> -->
-            <!--   <li>
-                <a href="#">Shortcodes</a>
-                <ul class="dropdown">
-                  <li><a href="tabs.html">Tabs</a>
-                  </li>
-                  <li><a href="buttons.html">Buttons</a>
-                  </li>
-                  <li><a href="action-box.html">Action Box</a>
-                  </li>
-                  <li><a href="testimonials.html">Testimonials</a>
-                  </li>
-                  <li><a href="latest-posts.html">Latest Posts</a>
-                  </li>
-                  <li><a href="latest-projects.html">Latest Projects</a>
-                  </li>
-                  <li><a href="pricing.html">Pricing Tables</a>
-                  </li>
-                  <li><a href="animated-graphs.html">Animated Graphs</a>
-                  </li>
-                  <li><a href="accordion-toggles.html">Accordion & Toggles</a>
-                  </li>
-                </ul>
-              </li> -->
+              </li>
+     
               <li>
                 <a href="single-project.php">Portfolio</a>
                 <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
                   <li><a href="single-project.php">our business</a>
                   </li>
                 </ul>
               </li>
-             <!--  <li>
-                <a href="blog.html">Blog</a>
-                <ul class="dropdown">
-                  <li><a href="blog.html">Blog - right Sidebar</a>
-                  </li>
-                  <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a>
-                  </li>
-                  <li><a href="single-post.html">Blog Single Post</a>
-                  </li>
-                </ul>
-              </li> -->
               <li><a href="contact.php">Contact</a>
               </li>
             </ul>
@@ -303,89 +242,10 @@ height: 120px;
 
         <!-- Mobile Menu Start -->
         <ul class="wpb-mobile-menu">
-          <li>
-            <a class="active" href="index.php">Home</a>
-            <!-- <ul class="dropdown">
-              <li><a class="active" href="index.php">Home Main Version</a>
+                  <li>
+                <a class="active" href="index.php">Home</a>
+
               </li>
-              <li><a href="index-01.html">Home Version 1</a>
-              </li>
-              <li><a href="index-02.html">Home Version 2</a>
-              </li>
-              <li><a href="index-03.html">Home Version 3</a>
-              </li>
-              <li><a href="index-04.html">Home Version 4</a>
-              </li>
-              <li><a href="index-05.html">Home Version 5</a>
-              </li>
-              <li><a href="index-06.html">Home Version 6</a>
-              </li>
-              <li><a href="index-07.html">Home Version 7</a>
-              </li>
-            </ul> -->
-          </li>
-         <!--  <li>
-            <a href="about.php">Pages</a>
-            <ul class="dropdown">
-              <li><a href="about.php">About</a>
-              </li>
-              <li><a href="services.php">Services</a>
-              </li>
-              <li><a href="right-sidebar.html">Right Sidebar</a>
-              </li>
-              <li><a href="left-sidebar.html">Left Sidebar</a>
-              </li>
-              <li><a href="404.html">404 Page</a>
-              </li>
-            </ul>
-          </li> -->
-        <!--   <li>
-            <a href="#">Shortcodes</a>
-            <ul class="dropdown">
-              <li><a href="tabs.html">Tabs</a>
-              </li>
-              <li><a href="buttons.html">Buttons</a>
-              </li>
-              <li><a href="action-box.html">Action Box</a>
-              </li>
-              <li><a href="testimonials.html">Testimonials</a>
-              </li>
-              <li><a href="latest-posts.html">Latest Posts</a>
-              </li>
-              <li><a href="latest-projects.html">Latest Projects</a>
-              </li>
-              <li><a href="pricing.html">Pricing Tables</a>
-              </li>
-              <li><a href="animated-graphs.html">Animated Graphs</a>
-              </li>
-              <li><a href="accordion-toggles.html">Accordion & Toggles</a>
-              </li>
-            </ul>
-          </li> -->
-      <!--     <li>
-            <a href="portfolio-3.html">Portfolio</a>
-            <ul class="dropdown">
-              <li><a href="portfolio-2.html">2 Columns</a>
-              </li>
-              <li><a href="portfolio-3.html">3 Columns</a>
-              </li>
-              <li><a href="portfolio-4.html">4 Columns</a>
-              </li>
-              <li><a href="single-project.php">Single Project</a>
-              </li>
-            </ul>
-          </li> -->
-       <!--    <li>
-            <a href="blog.html">Blog</a>
-            <ul class="dropdown">
-              <li><a href="blog.html">Blog - right Sidebar</a>
-              </li>
-              <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a>
-              </li>
-              <li><a href="single-post.html">Blog Single Post</a>
-              </li>
-            </ul>
-          </li> -->
               <li>
                  <a  href="report.php">Annual Reports</a>
               </li>
@@ -394,40 +254,41 @@ height: 120px;
               </li>
               <li><a href="services.php">Services</a>
                   <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
+                  </li> 
                   <li><a href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
                   </li>
                   <li><a href="EIDProgram.php">Educational Institution Disinfection Program</a>
                   </li>
+                  <li><a href="AVIATION_SERVICE.php">Aviation service</a>
+                  </li>
+
+
+                   <li><a href="">STEAM CLEANING TECHNOLOGY</a>
+                    <ul  class="nav navbar-nav navbar-right">
                     
-
+                      <li><a href="https://docs.google.com/presentation/d/17wTRQMX91vePJMnqS0_uYNpgnxM-v2FtgLFEiYtk28Y/edit?usp=sharing">STEAM CLEANING Presention</a>
+                      </li>
+                      <li><a href="https://docs.google.com/presentation/d/1djHMqlzHX3kb2DwpwwybOyeiwsUp5tnBuf0QIm3C6WA/edit?usp=sharing">STEAM CLEANING Docs</a>
+                      </li>
+                    
+                    </ul>
+                  </li>
+                  <li>
+                    <a href="PEST_CONTROL_SERVICES.php">PEST CONTROL SERVICES</a>
+                  </li>
                 </ul>
-
-
-                 </li>
-          <li>
-            <a href="contact.php">Contact</a>
-          </li>
-            <li>
+              </li>
+     
+              <li>
                 <a href="single-project.php">Portfolio</a>
                 <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
                   <li><a href="single-project.php">our business</a>
                   </li>
                 </ul>
               </li>
-
-
+              <li><a href="contact.php">Contact</a>
+              </li>
+         
         </ul>
         <!-- Mobile Menu End -->
 
@@ -498,7 +359,7 @@ height: 120px;
             <div class="slider-content">
               <div class="col-md-12 text-center">
                 <h2 class="animated7 black">
-                                <span>THE NEW WAY OF <strong>CLEANING</strong></span>
+                                <span style="color:white">THE NEW WAY OF <strong>CLEANING</strong></span>
                             </h2>
                 <h3 class="animated8 black">
                               <span>Why you are waiting</span>
@@ -537,9 +398,11 @@ height: 120px;
               <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
             </div>
             <div class="service-content">
-              <h4>CLEANING</h4>
-              <p>HAS BEEN A WAY OF PROCESS IN  REMOVING DIRT FROM THE SURFACES AND MAKE THEM VISIBLY CLEAN.</p>
-
+             <!--  <h4>CLEANING</h4> -->
+              <!-- <p>HAS BEEN A WAY OF PROCESS IN  REMOVING DIRT FROM THE SURFACES AND MAKE THEM VISIBLY CLEAN.</p> -->
+              <h4>AVIATION SERVICES</h4>
+              <p>Erawin working team strive to have your aircraft in the decent and clean appearance,and safer to reduce the opportunities for the spread of diseases and infections through hygiene agenda proposed by cleansing World Health Organization Guide to Hygiene .....</p>
+            
             </div>
           </div>
           <!-- End Service Icon 1 -->
@@ -550,8 +413,11 @@ height: 120px;
               <i class="fa fa-eraser icon-large"></i>
             </div>
             <div class="service-content">
-              <h4>SANITIZING</h4>
-              <p>IS A PROCESS WHICH AIMS AT DESTROYING THE PATHOGENIC GERMS AND OTHER MICRO-ORANISM.</p>
+             <!--  <h4>SANITIZING</h4>
+              <p>IS A PROCESS WHICH AIMS AT DESTROYING THE PATHOGENIC GERMS AND OTHER MICRO-ORANISM.</p> -->
+            <h4>FACILITY MANAGEMENT</h4>
+            <p>We believe that time is money, and so is health. Without the good health of your employees, productivity can slow or stop for a period of time. For that reason, we have made it our mission to make sure your business is nothing less than pristine</p>
+
             </div>
           </div>
           <!-- End Service Icon 2 -->
@@ -563,7 +429,7 @@ height: 120px;
             </div>
             <div class="service-content">
               <h4>STEAM CLEANING TECHNOLOGY</h4>
-              <p>SATURATED DRY STEAM IS SIMPLY A STEAM BROUGHT TO A HIGH TEMPERATURES, GENERALLY HIGHER THAN 140 C....</p>
+              <p>Erawin for Cleaning and Infection Control brings you an ecological method of deep cleaning and sanitizing as it removes chemicals, toxins, and dirt without using solvents. Saturated Dry Steam Technology is a system of Cleaning and Sanitizing using Dry Steam which ..</p>
             </div>
           </div>
           <!-- End Service Icon 3 -->
@@ -574,8 +440,10 @@ height: 120px;
               <i class="fa fa-fire icon-medium"></i>
             </div>
             <div class="service-content">
-              <h4>TEMPERATURE</h4>
-              <p>HIGH TEMPERATURE BREAKS THE LINKS BERWEEN THE DIRT AND THE TREATED SURFACE, KILLING BACTERIA AND MICRO-ORGANISMS BY MEANS OF A THERMAL SHOCK. MOREOVER, HIGH TEMPERATURE MAKES CHEMICAL REACTION EASIER BY DRASTICALLY REDUCING DETERGENTS QUANTITY AND ACTION TIME.</p>
+              <!-- <h4>TEMPERATURE</h4> -->
+             <!--  <p>HIGH TEMPERATURE BREAKS THE LINKS BERWEEN THE DIRT AND THE TREATED SURFACE, KILLING BACTERIA AND MICRO-ORGANISMS BY MEANS OF A THERMAL SHOCK. MOREOVER, HIGH TEMPERATURE MAKES CHEMICAL REACTION EASIER BY DRASTICALLY REDUCING DETERGENTS QUANTITY AND ACTION TIME.</p> -->
+                   <h4>PEST CONTROL SERVICES</h4>
+                   <p>Erawin Company for cleaning and infection control is honored to offer its pest and rodents control services to you. Our company is specialized in this field since the year 2013. We have the ability to design and execute integrated control programs for any type of scourge in open and closed places. We use the latest scientific methods,</p>
             </div>
           </div>
           <!-- End Service Icon 4 -->
@@ -586,8 +454,11 @@ height: 120px;
               <i class="fa fa-tint  icon-large"></i>
             </div>
             <div class="service-content">
-              <h4>HUMIDITY</h4>
-              <p>WATER IS CALLED THE UNIVERSAL SOLVENT. EVEN MOUNTAIN ARE MELTED BY WAYER. “DRY STEAM” CONTAINS MICRO DROP OF WATER, WHICH DETACH THE DIRT FROM THE TREATED SURFACES, KEEP IT IN SUSPENSION AND AVOID LETTING IT INTO THE AIR</p>
+             <!--  <h4>HUMIDITY</h4>
+              <p>WATER IS CALLED THE UNIVERSAL SOLVENT. EVEN MOUNTAIN ARE MELTED BY WAYER. “DRY STEAM” CONTAINS MICRO DROP OF WATER, WHICH DETACH THE DIRT FROM THE TREATED SURFACES, KEEP IT IN SUSPENSION AND AVOID LETTING IT INTO THE AIR</p> -->
+              <h4>SCHOOL SERVICES</h4>
+              <p>Erawin specialize in creating and maintaining clean working environments for staffs, students, parents and school visitors. We ensure a worry-free way for the school to maintain a healthy environment.
+     We will assess your schools needs and customize a school disinfection program specifically geared for your building and will provide you with a professional team of disinfection staff capable of undertaking all of your regular disinfection requirements.</p>
             </div>
           </div>
           <!-- End Service Icon 5 -->
@@ -1397,7 +1268,7 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
  
 <h4 class="classic-title"><span>Cleaning and Sanitizing</span></h4>
  
-<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RAFMIXPq9BE" frameborder="0" allowfullscreen></iframe></div>
+<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/5i0hBG8UGA0" frameborder="0" allowfullscreen></iframe></div>
 </div>
 </div>
     </div>
