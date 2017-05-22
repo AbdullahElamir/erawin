@@ -79,7 +79,7 @@
 
     <!-- Start Header -->
     <div class="hidden-header"></div>
-    <header class="clearfix">
+ <header class="clearfix">
 
       <!-- Start Top Bar -->
       <div class="top-bar">
@@ -157,7 +157,7 @@
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
             <a class="navbar-brand" href="httpshtml">
-              <img width="150" higth="50" alt="" src="images/erawin.jpg" width="" hight="">
+              <img width="130" higth="50" alt="" src="images/erawin.jpg" width="" hight="">
             </a>
           </div>
           <div class="navbar-collapse collapse">
@@ -177,24 +177,6 @@
               <li>
                 <a  href="index.php">Home</a>
 
-                <!-- <ul class="dropdown">
-                  <li><a class="active" href="index.php">Home Main Version</a>
-                  </li>
-                  <li><a href="index-01.html">Home Version 1</a>
-                  </li>
-                  <li><a href="index-02.html">Home Version 2</a>
-                  </li>
-                  <li><a href="index-03.html">Home Version 3</a>
-                  </li>
-                  <li><a href="index-04.html">Home Version 4</a>
-                  </li>
-                  <li><a href="index-05.html">Home Version 5</a>
-                  </li>
-                  <li><a href="index-06.html">Home Version 6</a>
-                  </li>
-                  <li><a href="index-07.html">Home Version 7</a>
-                  </li>
-                </ul> -->
               </li>
               <li>
                  <a  href="report.php">Annual Reports</a>
@@ -204,84 +186,38 @@
               </li>
               <li><a class="active" href="services.php">Services</a>
                   <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
+                  </li> 
                   <li><a class="active" href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
                   </li>
                   <li><a href="EIDProgram.php">Educational Institution Disinfection Program</a>
                   </li>
+                  <li><a href="AVIATION_SERVICE.php">Aviation service</a>
+                  </li>
+
+
+                   <li><a href="">STEAM CLEANING TECHNOLOGY</a>
+                    <ul  class="nav navbar-nav navbar-right">
                     
-
-                </ul>
-
-
-                 </li>
-     <!--          <li>
-                <a href="about.php">Pages</a>
-                <ul class="dropdown">
-                  <li><a href="about.php">About</a>
+                      <li><a href="https://docs.google.com/presentation/d/17wTRQMX91vePJMnqS0_uYNpgnxM-v2FtgLFEiYtk28Y/edit?usp=sharing">STEAM CLEANING Presention</a>
+                      </li>
+                      <li><a href="https://docs.google.com/presentation/d/1djHMqlzHX3kb2DwpwwybOyeiwsUp5tnBuf0QIm3C6WA/edit?usp=sharing">STEAM CLEANING Docs</a>
+                      </li>
+                    
+                    </ul>
                   </li>
-                  <li><a href="services.php">Services</a>
-                  </li>
-                  <li><a href="right-sidebar.html">Right Sidebar</a>
-                  </li>
-                  <li><a href="left-sidebar.html">Left Sidebar</a>
-                  </li>
-                  <li><a href="404.html">404 Page</a>
+                  <li>
+                    <a href="PEST_CONTROL_SERVICES.php">PEST CONTROL SERVICES</a>
                   </li>
                 </ul>
-              </li> -->
-            <!--   <li>
-                <a href="#">Shortcodes</a>
-                <ul class="dropdown">
-                  <li><a href="tabs.html">Tabs</a>
-                  </li>
-                  <li><a href="buttons.html">Buttons</a>
-                  </li>
-                  <li><a href="action-box.html">Action Box</a>
-                  </li>
-                  <li><a href="testimonials.html">Testimonials</a>
-                  </li>
-                  <li><a href="latest-posts.html">Latest Posts</a>
-                  </li>
-                  <li><a href="latest-projects.html">Latest Projects</a>
-                  </li>
-                  <li><a href="pricing.html">Pricing Tables</a>
-                  </li>
-                  <li><a href="animated-graphs.html">Animated Graphs</a>
-                  </li>
-                  <li><a href="accordion-toggles.html">Accordion & Toggles</a>
-                  </li>
-                </ul>
-              </li> -->
+              </li>
+     
               <li>
                 <a href="single-project.php">Portfolio</a>
                 <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
                   <li><a href="single-project.php">our business</a>
                   </li>
                 </ul>
               </li>
-             <!--  <li>
-                <a href="blog.html">Blog</a>
-                <ul class="dropdown">
-                  <li><a href="blog.html">Blog - right Sidebar</a>
-                  </li>
-                  <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a>
-                  </li>
-                  <li><a href="single-post.html">Blog Single Post</a>
-                  </li>
-                </ul>
-              </li> -->
               <li><a href="contact.php">Contact</a>
               </li>
             </ul>
@@ -291,89 +227,10 @@
 
         <!-- Mobile Menu Start -->
         <ul class="wpb-mobile-menu">
-          <li>
-            <a  href="index.php">Home</a>
-            <!-- <ul class="dropdown">
-              <li><a class="active" href="index.php">Home Main Version</a>
+                  <li>
+                <a  href="index.php">Home</a>
+
               </li>
-              <li><a href="index-01.html">Home Version 1</a>
-              </li>
-              <li><a href="index-02.html">Home Version 2</a>
-              </li>
-              <li><a href="index-03.html">Home Version 3</a>
-              </li>
-              <li><a href="index-04.html">Home Version 4</a>
-              </li>
-              <li><a href="index-05.html">Home Version 5</a>
-              </li>
-              <li><a href="index-06.html">Home Version 6</a>
-              </li>
-              <li><a href="index-07.html">Home Version 7</a>
-              </li>
-            </ul> -->
-          </li>
-         <!--  <li>
-            <a href="about.php">Pages</a>
-            <ul class="dropdown">
-              <li><a href="about.php">About</a>
-              </li>
-              <li><a href="services.php">Services</a>
-              </li>
-              <li><a href="right-sidebar.html">Right Sidebar</a>
-              </li>
-              <li><a href="left-sidebar.html">Left Sidebar</a>
-              </li>
-              <li><a href="404.html">404 Page</a>
-              </li>
-            </ul>
-          </li> -->
-        <!--   <li>
-            <a href="#">Shortcodes</a>
-            <ul class="dropdown">
-              <li><a href="tabs.html">Tabs</a>
-              </li>
-              <li><a href="buttons.html">Buttons</a>
-              </li>
-              <li><a href="action-box.html">Action Box</a>
-              </li>
-              <li><a href="testimonials.html">Testimonials</a>
-              </li>
-              <li><a href="latest-posts.html">Latest Posts</a>
-              </li>
-              <li><a href="latest-projects.html">Latest Projects</a>
-              </li>
-              <li><a href="pricing.html">Pricing Tables</a>
-              </li>
-              <li><a href="animated-graphs.html">Animated Graphs</a>
-              </li>
-              <li><a href="accordion-toggles.html">Accordion & Toggles</a>
-              </li>
-            </ul>
-          </li> -->
-      <!--     <li>
-            <a href="portfolio-3.html">Portfolio</a>
-            <ul class="dropdown">
-              <li><a href="portfolio-2.html">2 Columns</a>
-              </li>
-              <li><a href="portfolio-3.html">3 Columns</a>
-              </li>
-              <li><a href="portfolio-4.html">4 Columns</a>
-              </li>
-              <li><a href="single-project.php">Single Project</a>
-              </li>
-            </ul>
-          </li> -->
-       <!--    <li>
-            <a href="blog.html">Blog</a>
-            <ul class="dropdown">
-              <li><a href="blog.html">Blog - right Sidebar</a>
-              </li>
-              <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a>
-              </li>
-              <li><a href="single-post.html">Blog Single Post</a>
-              </li>
-            </ul>
-          </li> -->
               <li>
                  <a  href="report.php">Annual Reports</a>
               </li>
@@ -382,40 +239,41 @@
               </li>
               <li><a class="active" href="services.php">Services</a>
                   <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
+                  </li> 
                   <li><a class="active" href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
                   </li>
                   <li><a href="EIDProgram.php">Educational Institution Disinfection Program</a>
                   </li>
+                  <li><a href="AVIATION_SERVICE.php">Aviation service</a>
+                  </li>
+
+
+                   <li><a href="">STEAM CLEANING TECHNOLOGY</a>
+                    <ul  class="nav navbar-nav navbar-right">
                     
-
+                      <li><a href="https://docs.google.com/presentation/d/17wTRQMX91vePJMnqS0_uYNpgnxM-v2FtgLFEiYtk28Y/edit?usp=sharing">STEAM CLEANING Presention</a>
+                      </li>
+                      <li><a href="https://docs.google.com/presentation/d/1djHMqlzHX3kb2DwpwwybOyeiwsUp5tnBuf0QIm3C6WA/edit?usp=sharing">STEAM CLEANING Docs</a>
+                      </li>
+                    
+                    </ul>
+                  </li>
+                  <li>
+                    <a href="PEST_CONTROL_SERVICES.php">PEST CONTROL SERVICES</a>
+                  </li>
                 </ul>
-
-
-                 </li>
-          <li>
-            <a href="contact.php">Contact</a>
-          </li>
-            <li>
+              </li>
+     
+              <li>
                 <a href="single-project.php">Portfolio</a>
                 <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
                   <li><a href="single-project.php">our business</a>
                   </li>
                 </ul>
               </li>
-
-
+              <li><a href="contact.php">Contact</a>
+              </li>
+         
         </ul>
         <!-- Mobile Menu End -->
 
@@ -458,60 +316,121 @@
           <div class="row">
 
             <div class="col-md-7">
+              <html><head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=utf-8">
+  <title></title>
+  <meta name="GENERATOR" content="LibreOffice 4.1.6.2 (Linux)">
+  <meta name="AUTHOR" content="VETCH">
+  <meta name="CREATED" content="20131208;125800000000000">
+  <meta name="CHANGEDBY" content="HP">
+  <meta name="CHANGED" content="20170419;102200000000000">
+  <style type="text/css">
+  <!--
+    @page { size: 8.5in 11in; margin-right: 1in; margin-top: 0.5in; margin-bottom: 0.5in }
+    P { margin-bottom: 0.08in; direction: ltr; color: #000000; line-height: 115%; widows: 2; orphans: 2 }
+    P.western { font-family: "Calibri", sans-serif; font-size: 11pt; so-language: en-US }
+    P.cjk { font-family: "Calibri", sans-serif; font-size: 11pt }
+    P.ctl { font-family: "Times New Roman", serif; font-size: 11pt; so-language: ar-SA }
+    A:link { color: #0000ff }
+  -->
+  </style>
+</head>
+<body lang="en-US" text="#000000" link="#0000ff" dir="LTR">
+<p class="western" align="JUSTIFY" style="margin-bottom: 0.14in; line-height: 100%">
+<br><br>
+</p>
+<p class="western" align="JUSTIFY" style="margin-bottom: 0.14in"><font face="Arial, sans-serif"><font size="2"><b>Greetings
+from ERAWIN!</b></font></font></p>
+<p class="western" align="JUSTIFY" style="margin-bottom: 0.19in; line-height: 100%">
 
-              <!-- Classic Heading -->
-              <h4 class="classic-title"><span><font face="verdana" color="black" size="4"><strong>Erawin Cleaning & Infection Control for Hospital Acquired Infections (HAI’s) </strong></font></span></h4>
-
-              <p class="western"><span style="font-size: medium;">Hospital Acquired Infections (HAI’s)defined as Patients being infected within 48 hours of admission. Infection control programs aim to reduce infections and hospital acquired diseases, it prevent hospital workers (doctors, nurses, medical staff and cleaner), patients from acquiring these infections. </span></p>
-<p class="western"><span style="font-size: medium;">We are Erawin Cleaning &amp; Infection Control, work to reduce the incidence of infection within the health care and public facilities. Our basic objective is to protect the patients first, which result in the protection of workers as well as the protection of the environment health facilities and penetrate into the causes of the risk of the spread of infection.</span></p>
-<p class="western"><span style="font-size: medium;">Since we follow methods and techniques of STERIS a U.S. company which is considered one of the biggest international company that specialized in decontamination and infection control, which provide innovative system using Hydrogen Peroxide Biogienie which has been specifically designed to clean rooms and facilities and secure hospitals efficiently high in a short period of time. This is the way modern technical solution to the problem of widespread convenient germ colonies and the worsening of hospital infection.</span></p>
-<p class="western"><span style="font-size: large;"><b>ADVANTAGES OF BIOGIENIE FOR DECONTAMINATION:</b></span></p>
-
+</p>
+<p class="western" style="margin-bottom: 0.14in">           <font size="2">Hospital
+Acquired Infections (HAI’s)defined as Patients being infected
+within 48 hours of admission.  Infection control programs aim to
+reduce infections  and hospital acquired diseases, it prevent
+hospital workers (doctors, nurses, medical staff and cleaner),
+patients  from acquiring these infections.  </font>
+</p>
+<p class="western" style="margin-bottom: 0.14in">           <font size="2">We
+are Erawin Cleaning &amp; Infection Control,  work to reduce the
+incidence of infection within the health care  and public facilities.
+Our basic objective is to protect the patients first, which result in
+the protection of workers as well as the protection of the
+environment health facilities and penetrate into the causes of the
+risk of the spread of infection.</font></p>
+<p class="western" style="margin-bottom: 0.14in">          <font size="2">Since
+we follow methods and techniques of STERIS a U.S. company which is
+considered one of the  biggest  international company that
+specialized in decontamination and infection control, which provide
+innovative system using Hydrogen Peroxide  Biogienie which has been
+specifically designed to clean rooms and facilities and secure
+hospitals efficiently high in a short period of time. This is the way
+modern technical solution to the problem of widespread convenient
+germ colonies and the worsening of hospital infection.</font></p>
+<p class="western" style="margin-bottom: 0.14in"><font size="2"><b>ADVANTAGES
+OF BIOGIENIE FOR DECONTAMINATION:</b></font></p>
 <ul>
-  <li><span style="font-size: medium;">Period of Cleaning and Decontaminating is about 4 hours, room can be use immediately.</span></li>
-  <li><span style="font-size: medium;">Highly effective decontamination against wide range of bacteria, viruses and fungi such as: MRSA. C.DIFF CILE, E.COLI, VRE, &amp; ACINETOBACTER species.</span></li>
-  <li><span style="font-size: medium;">Using 6% of Hydrogen Peroxide Vapor (VHP) with 0.006% silver anions to increase efficiency.</span></li>
-  <li><span style="font-size: medium;">Hydrogen Peroxide Vapor is able to penetrate even to the difficult narrow place and hard to access places inside the room.</span></li>
-  <li><span style="font-size: medium;">Environment friendly.</span></li>
-</ul>
-&nbsp;
-<p class="western"><span style="font-size: medium;">We are fully prepared to provide management services for infection control at your health facility. We decontaminate to most very risk areas, these areas include, Operations Room, Intensive Care Unit, Isolation Rooms, Neo-Natal Intensive Care Unit, Emergency Rooms and Laboratories. Our team clean and decontaminate in order to control infection.</span></p>
-<p class="western"><span style="font-size: medium;">We would like to inform you that we offer annual contract and give you a program for decontamination and infection control in order to prevent the widespread of infection, epidemics and viruses in your hospital using our modern way and techniques in infection control.</span></p>
-<p class="western" align="justify">
+  <li><p style="margin-bottom: 0.14in">●<font size="2">&nbsp;&nbsp;Period of Cleaning
+  and Decontaminating is about 4 hours, room can be use immediately.</font></p>
+  </li><li><p style="margin-bottom: 0.14in">●<font size="2">&nbsp;&nbsp;Highly effective
+  decontamination against wide range of bacteria, viruses and fungi
+  such as: MRSA. C.DIFF CILE, E.COLI, VRE, &amp; ACINETOBACTER
+  species.</font></p>
+  </li><li><p style="margin-bottom: 0.14in">●<font size="2">&nbsp;&nbsp;Using 6% of
+  Hydrogen Peroxide Vapor (VHP) with 0.006% silver anions to increase
+  efficiency.</font></p>
+  </li><li><p style="margin-bottom: 0.14in">●<font size="2">&nbsp;&nbsp;Hydrogen Peroxide
+  Vapor is able to penetrate even to the difficult narrow place and
+  hard to access places inside the room.</font></p>
+  </li><li><p style="margin-bottom: 0.14in">●<font size="2">&nbsp;&nbsp;Environment
+  friendly.</font></p>
+</li></ul>
+<p style="margin-bottom: 0.14in"><br><br>
 </p>
-<p class="western" align="justify">
+<p class="western" style="margin-bottom: 0.14in">           <font size="2">We
+are fully prepared to provide management services for infection
+control at your health facility. We decontaminate to most very risk
+areas, these areas include,  Operations Room, Intensive Care Unit,
+Isolation Rooms, Neo-Natal Intensive Care Unit, Emergency Rooms and
+Laboratories. Our team clean and decontaminate in order to control
+infection.</font></p>
+<p class="western" style="margin-bottom: 0.14in">         <font size="2">We
+would like to inform you that we offer annual contract and give you a
+program for decontamination and infection control in order to prevent
+the widespread of infection, epidemics and viruses  in your hospital
+using our modern way and techniques in infection control.</font></p>
+<p class="western" align="JUSTIFY" style="margin-bottom: 0.19in; line-height: 100%">
+<br><br>
+</p>
+<p class="western" align="JUSTIFY" style="margin-bottom: 0.19in; line-height: 100%">
+<br><br>
 </p>
 
-              <!-- Some Text -->
-          <!--     <p><font face="verdana" color="black" size="3">    Hospital Acquired Infections (HAI’s)defined as Patients being infected within 48 hours of admission.  Infection control programs aim to reduce infections  and hospital acquired diseases, it prevent hospital workers (doctors, nurses, medical staff and cleaner), patients  from acquiring these infections.  
-​
-               We are Erawin Cleaning & Infection Control,  work to reduce the incidence of infection within the health care  and public facilities. Our basic objective is to protect the patients first, which result in the protection of workers as well as the protection of the environment health facilities and penetrate into the causes of the risk of the spread of infection.
-              Since we follow methods and techniques of STERIS a U.S. company which is considered one of the  biggest  international company that specialized in decontamination and infection control, which provide innovative system using Hydrogen Peroxide  Biogienie which has been specifically designed to clean rooms and facilities and secure hospitals efficiently high in a short period of time. This is the way modern technical solution to the problem of widespread convenient germ colonies and the worsening of hospital infection.</br>
-           <b> ADVANTAGES OF BIOGIENIE FOR DECONTAMINATION:</b>
-          </br>
-            Period of Cleaning and Decontaminating is about 4 hours, room can be use immediately.
-            Highly effective decontamination against wide range of bacteria, viruses and fungi such as: MRSA. C.DIFF CILE, E.COLI, VRE, & ACINETOBACTER species.
-            Using 6% of Hydrogen Peroxide Vapor (VHP) with 0.006% silver anions to increase efficiency.
-            Hydrogen Peroxide Vapor is able to penetrate even to the difficult narrow place and hard to access places inside the room.
-            Environment friendly.
+</body></html>
 
-           We are fully prepared to provide management services for infection control at your health facility. We decontaminate to most very risk areas, these areas include,  Operations Room, Intensive Care Unit, Isolation Rooms, Neo-Natal Intensive Care Unit, Emergency Rooms and Laboratories. Our team clean and decontaminate in order to control infection.
-         We would like to inform you that we offer annual contract and give you a program for decontamination and infection control in order to prevent the widespread of infection, epidemics and viruses  in your hospital using our modern way and techniques in infection control..</font></p> -->
+
+
+          
 
             </div>
+
 
             <div class="col-md-5">
 
               <!-- Start Touch Slider -->
               <div class="touch-slider" data-slider-navigation="true" data-slider-pagination="true">
                 
-                <div class="item"><img alt="" src="images/school_images/20150421_092046.jpg"></div>
-                <div class="item"><img alt="" src="images/school_images/IMG_3228.JPG"></div>
-                <div class="item"><img alt="" src="images/school_images/IMG_4625.JPG"></div>
-                <div class="item"><img alt="" src="images/school_images/IMG_3275.JPG"></div>
-                <div class="item"><img alt="" src="images/school_images/20150422_115716.jpg"></div>
-                <div class="item"><img alt="" src="images/school_images/IMG_4636.JPG"></div>
-                <div class="item"><img alt="" src="images/school_images/20150423_130025.jpg" ></div>
+                <div class="item"><img alt="" src="images/portfolio/20131117_133102.jpg"></div>
+      
+                <div class="item"><img alt="" src="images/portfolio/20131117_134321.jpg"></div>
+                <div class="item"><img alt="" src="images/portfolio/20131117_165435.jpg"></div>
+                <div class="item"><img alt="" src="images/portfolio/20131117_165729.jpg"></div>
+                <div class="item"><img alt="" src="images/portfolio/20140323_113426.jpg"></div>
+                <div class="item"><img alt="" src="images/portfolio/20140704_081003.jpg" ></div>
+
+                 <div class="item"><img alt="" src="images/portfolio/20140704_081101.jpg" ></div>
+                  <div class="item"><img alt="" src="images/portfolio/20141026_142553.jpg" ></div>
+                 
               </div>
               <!-- End Touch Slider -->
 

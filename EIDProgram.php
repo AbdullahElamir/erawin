@@ -79,7 +79,7 @@
 
     <!-- Start Header -->
     <div class="hidden-header"></div>
-    <header class="clearfix">
+   <header class="clearfix">
 
       <!-- Start Top Bar -->
       <div class="top-bar">
@@ -157,7 +157,7 @@
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
             <a class="navbar-brand" href="httpshtml">
-              <img width="150" higth="50" alt="" src="images/erawin.jpg" width="" hight="">
+              <img width="130" higth="50" alt="" src="images/erawin.jpg" width="" hight="">
             </a>
           </div>
           <div class="navbar-collapse collapse">
@@ -177,24 +177,6 @@
               <li>
                 <a  href="index.php">Home</a>
 
-                <!-- <ul class="dropdown">
-                  <li><a class="active" href="index.php">Home Main Version</a>
-                  </li>
-                  <li><a href="index-01.html">Home Version 1</a>
-                  </li>
-                  <li><a href="index-02.html">Home Version 2</a>
-                  </li>
-                  <li><a href="index-03.html">Home Version 3</a>
-                  </li>
-                  <li><a href="index-04.html">Home Version 4</a>
-                  </li>
-                  <li><a href="index-05.html">Home Version 5</a>
-                  </li>
-                  <li><a href="index-06.html">Home Version 6</a>
-                  </li>
-                  <li><a href="index-07.html">Home Version 7</a>
-                  </li>
-                </ul> -->
               </li>
               <li>
                  <a  href="report.php">Annual Reports</a>
@@ -204,84 +186,38 @@
               </li>
               <li><a class="active" href="services.php">Services</a>
                   <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
+                  </li> 
                   <li><a href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
                   </li>
                   <li><a class="active" href="EIDProgram.php">Educational Institution Disinfection Program</a>
                   </li>
+                  <li><a href="AVIATION_SERVICE.php">Aviation service</a>
+                  </li>
+
+
+                   <li><a href="">STEAM CLEANING TECHNOLOGY</a>
+                    <ul  class="nav navbar-nav navbar-right">
                     
-
-                </ul>
-
-
-                 </li>
-     <!--          <li>
-                <a href="about.php">Pages</a>
-                <ul class="dropdown">
-                  <li><a href="about.php">About</a>
+                      <li><a href="https://docs.google.com/presentation/d/17wTRQMX91vePJMnqS0_uYNpgnxM-v2FtgLFEiYtk28Y/edit?usp=sharing">STEAM CLEANING Presention</a>
+                      </li>
+                      <li><a href="https://docs.google.com/presentation/d/1djHMqlzHX3kb2DwpwwybOyeiwsUp5tnBuf0QIm3C6WA/edit?usp=sharing">STEAM CLEANING Docs</a>
+                      </li>
+                    
+                    </ul>
                   </li>
-                  <li><a href="services.php">Services</a>
-                  </li>
-                  <li><a href="right-sidebar.html">Right Sidebar</a>
-                  </li>
-                  <li><a href="left-sidebar.html">Left Sidebar</a>
-                  </li>
-                  <li><a href="404.html">404 Page</a>
+                  <li>
+                    <a href="PEST_CONTROL_SERVICES.php">PEST CONTROL SERVICES</a>
                   </li>
                 </ul>
-              </li> -->
-            <!--   <li>
-                <a href="#">Shortcodes</a>
-                <ul class="dropdown">
-                  <li><a href="tabs.html">Tabs</a>
-                  </li>
-                  <li><a href="buttons.html">Buttons</a>
-                  </li>
-                  <li><a href="action-box.html">Action Box</a>
-                  </li>
-                  <li><a href="testimonials.html">Testimonials</a>
-                  </li>
-                  <li><a href="latest-posts.html">Latest Posts</a>
-                  </li>
-                  <li><a href="latest-projects.html">Latest Projects</a>
-                  </li>
-                  <li><a href="pricing.html">Pricing Tables</a>
-                  </li>
-                  <li><a href="animated-graphs.html">Animated Graphs</a>
-                  </li>
-                  <li><a href="accordion-toggles.html">Accordion & Toggles</a>
-                  </li>
-                </ul>
-              </li> -->
+              </li>
+     
               <li>
                 <a href="single-project.php">Portfolio</a>
                 <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
                   <li><a href="single-project.php">our business</a>
                   </li>
                 </ul>
               </li>
-             <!--  <li>
-                <a href="blog.html">Blog</a>
-                <ul class="dropdown">
-                  <li><a href="blog.html">Blog - right Sidebar</a>
-                  </li>
-                  <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a>
-                  </li>
-                  <li><a href="single-post.html">Blog Single Post</a>
-                  </li>
-                </ul>
-              </li> -->
               <li><a href="contact.php">Contact</a>
               </li>
             </ul>
@@ -291,89 +227,10 @@
 
         <!-- Mobile Menu Start -->
         <ul class="wpb-mobile-menu">
-          <li>
-            <a class="active" href="index.php">Home</a>
-            <!-- <ul class="dropdown">
-              <li><a class="active" href="index.php">Home Main Version</a>
+                  <li>
+                <a  href="index.php">Home</a>
+
               </li>
-              <li><a href="index-01.html">Home Version 1</a>
-              </li>
-              <li><a href="index-02.html">Home Version 2</a>
-              </li>
-              <li><a href="index-03.html">Home Version 3</a>
-              </li>
-              <li><a href="index-04.html">Home Version 4</a>
-              </li>
-              <li><a href="index-05.html">Home Version 5</a>
-              </li>
-              <li><a href="index-06.html">Home Version 6</a>
-              </li>
-              <li><a href="index-07.html">Home Version 7</a>
-              </li>
-            </ul> -->
-          </li>
-         <!--  <li>
-            <a href="about.php">Pages</a>
-            <ul class="dropdown">
-              <li><a href="about.php">About</a>
-              </li>
-              <li><a href="services.php">Services</a>
-              </li>
-              <li><a href="right-sidebar.html">Right Sidebar</a>
-              </li>
-              <li><a href="left-sidebar.html">Left Sidebar</a>
-              </li>
-              <li><a href="404.html">404 Page</a>
-              </li>
-            </ul>
-          </li> -->
-        <!--   <li>
-            <a href="#">Shortcodes</a>
-            <ul class="dropdown">
-              <li><a href="tabs.html">Tabs</a>
-              </li>
-              <li><a href="buttons.html">Buttons</a>
-              </li>
-              <li><a href="action-box.html">Action Box</a>
-              </li>
-              <li><a href="testimonials.html">Testimonials</a>
-              </li>
-              <li><a href="latest-posts.html">Latest Posts</a>
-              </li>
-              <li><a href="latest-projects.html">Latest Projects</a>
-              </li>
-              <li><a href="pricing.html">Pricing Tables</a>
-              </li>
-              <li><a href="animated-graphs.html">Animated Graphs</a>
-              </li>
-              <li><a href="accordion-toggles.html">Accordion & Toggles</a>
-              </li>
-            </ul>
-          </li> -->
-      <!--     <li>
-            <a href="portfolio-3.html">Portfolio</a>
-            <ul class="dropdown">
-              <li><a href="portfolio-2.html">2 Columns</a>
-              </li>
-              <li><a href="portfolio-3.html">3 Columns</a>
-              </li>
-              <li><a href="portfolio-4.html">4 Columns</a>
-              </li>
-              <li><a href="single-project.php">Single Project</a>
-              </li>
-            </ul>
-          </li> -->
-       <!--    <li>
-            <a href="blog.html">Blog</a>
-            <ul class="dropdown">
-              <li><a href="blog.html">Blog - right Sidebar</a>
-              </li>
-              <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a>
-              </li>
-              <li><a href="single-post.html">Blog Single Post</a>
-              </li>
-            </ul>
-          </li> -->
               <li>
                  <a  href="report.php">Annual Reports</a>
               </li>
@@ -382,40 +239,41 @@
               </li>
               <li><a class="active" href="services.php">Services</a>
                   <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
+                  </li> 
                   <li><a href="hai.php">for Hospital Acquired Infections (HAI’s)</a>
                   </li>
                   <li><a class="active" href="EIDProgram.php">Educational Institution Disinfection Program</a>
                   </li>
+                  <li><a href="AVIATION_SERVICE.php">Aviation service</a>
+                  </li>
+
+
+                   <li><a href="">STEAM CLEANING TECHNOLOGY</a>
+                    <ul  class="nav navbar-nav navbar-right">
                     
-
+                      <li><a href="https://docs.google.com/presentation/d/17wTRQMX91vePJMnqS0_uYNpgnxM-v2FtgLFEiYtk28Y/edit?usp=sharing">STEAM CLEANING Presention</a>
+                      </li>
+                      <li><a href="https://docs.google.com/presentation/d/1djHMqlzHX3kb2DwpwwybOyeiwsUp5tnBuf0QIm3C6WA/edit?usp=sharing">STEAM CLEANING Docs</a>
+                      </li>
+                    
+                    </ul>
+                  </li>
+                  <li>
+                    <a href="PEST_CONTROL_SERVICES.php">PEST CONTROL SERVICES</a>
+                  </li>
                 </ul>
-
-
-                 </li>
-          <li>
-            <a href="contact.php">Contact</a>
-          </li>
-            <li>
+              </li>
+     
+              <li>
                 <a href="single-project.php">Portfolio</a>
                 <ul class="dropdown">
-                 <!--  <li><a href="portfolio-2.html">2 Columns</a>
-                  </li>
-                  <li><a href="portfolio-3.html">3 Columns</a>
-                  </li>
-                  <li><a href="portfolio-4.html">4 Columns</a>
-                  </li> -->
                   <li><a href="single-project.php">our business</a>
                   </li>
                 </ul>
               </li>
-
-
+              <li><a href="contact.php">Contact</a>
+              </li>
+         
         </ul>
         <!-- Mobile Menu End -->
 
@@ -459,90 +317,160 @@
 
             <div class="col-md-7">
 
-              <!-- Classic Heading -->
-              <h4 class="classic-title"><span><font face="verdana" color="black" size="4"><strong> Erawin Educational Institution Disinfection Program aims to Protect our students</strong></font></span></h4>
-
-              <!-- Some Text -->
-              <span style="color: #000000;"> <span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Erawin</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> Educational Institution Disinfection Program aims to Protect our students, teachers and Our Future</span></span></span>
-<p style="text-align: left;"><span style="color: #000000;"> <span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Erawin</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> specialize in creating and maintaining clean working environments for staffs, students, parents and school visitors. We ensure a worry-free way for the school to maintain a healthy environment.</span></span></span></p>
-<p style="text-align: left;"><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b> We</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> will assess your schools needs and customize a school disinfection program specifically geared for your building and will provide you with a professional team of disinfection staff capable of undertaking all of your regular disinfection requirements.</span></span></span></p>
-<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Locker room disinfection
-Carpet disinfection
-Sports equipment disinfection
-Hard and soft floor disinfection
-Washroom disinfection</b></span></span></span>
-
-<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Kitchen &amp; Cafeteria disinfection</b></span></span></span>
-
-<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>
-Flexible</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> in our work we customize our school disinfection services to your needs and work outside of normal school hours during weekday evenings and weekends to make sure your school disinfection requirements are met.</span></span></span>
-
-<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b> Erawin </b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">Promise is to offer the finest available service at the lowest possible cost.</span></span></span>
-
-&nbsp;
-
-<span style="font-size: large;"><u><b>SURFACES TREATMENT</b></u></span>
-
-<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">BY AIR PATH (AIRBORNE DISINFECTION)</span></span></span>
-
-<span style="color: #000000;">● <span style="font-family: Arial, serif;"><span style="font-size: medium;">Manual scheduling of preventive and/or curative treatment.</span></span></span>
-
-<span style="color: #000000;">● <span style="font-family: Arial, serif;"><span style="font-size: medium;">Proven Efficacy of the couple machine/product (Brumoxim, Emuldry 50,Odoxim).</span></span></span>
-
-<span style="color: #000000;">● <span style="font-family: Arial, serif;"><span style="font-size: medium;">Diffusion treatment of dry and homogeneous fog.</span></span></span>
-
-<span style="color: #000000;">● <span style="font-family: Arial, serif;"><span style="font-size: medium;">Action on all surfaces, even inaccessible.</span></span></span>
-
-<span style="color: #000000;">● <span style="font-family: Arial, serif;"><span style="font-size: medium;">Simplified and safe concept.</span></span></span>
-
-&nbsp;
-
-<span style="font-size: large;"><u><b>APPLICATIONS</b></u></span>
-
-&nbsp;
-<ul>
-  <li><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">KI-OSE has been especially developed for the disinfection, cleaning and</span></span></span> <span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">deodorizing of surfaces. It is used on all surfaces in kitchens, toilets, classrooms, etc.</span></span></span></li>
-</ul>
-&nbsp;
-
-<span style="font-size: large;"><u><b>TESTS &amp; APPROVALS</b></u></span>
-<ul>
-  <li><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Authorized</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> for food contact in accordance with the French decree dated 8th September 1999 concerning the cleaning products for equipment that may come into contact with foodstuffs.</span></span></span></li>
-</ul>
-&nbsp;
-<ul>
-  <li><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">In pursuance of article L. 522-19 of the French Environmental Code, KI-OSE formula has been registered with the MEEDDM. Inventory N° 6462 (as per EU Biocide Directive).</span></span></span></li>
-</ul>
-<a name="_GoBack"></a>
-<span style="font-size: large;"><u><b>EFFICACY:</b></u></span>
-
-&nbsp;
-
-<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">Bactericide as per EN 1276 : Pseudomonas aeruginosa, Escherichia coli, Staphylococcus aurous, enterococcus hirae</span></span></span>
-
-<span style="color: #000000;"> <span style="font-family: Arial, serif;"><span style="font-size: medium;">EN13623 : Legionnella pneumophila.</span></span></span>
-
-<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;">Fungicide EN1275 : Candida albicans.</span></span></span>
-
-&nbsp;
-
-<span style="color: #000000;"> <span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>While</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> other companies may “dabble” in disinfection, we are experts specializing in bio-decontamination.</span></span></span>
-
-&nbsp;
-
-<span style="color: #000000;"> <span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Fighting</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> an outbreak or preventing your facility from becoming a breeding ground for infection takes training, experience, and the right equipment. With over five years’ experience in high-level disinfection, our services use the most effective tools available combined with multiple product lines to provide a healthier space. Our certified technicians understand the specifics and limitations to the technologies necessary in producing a 99.9999% kill (6-log kill).</span></span></span>
-
-&nbsp;
-
-<span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Because</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> you are fighting an invisible enemy, we provide multiple methods of validation to prove the elimination of dangerous spores, bacteria, and viruses.</span></span></span>
-
-&nbsp;
-
-<span style="color: #000000;"> <span style="font-family: Arial, serif;"><span style="font-size: medium;"><b>Our</b></span></span></span><span style="color: #000000;"><span style="font-family: Arial, serif;"><span style="font-size: medium;"> whole-space decontamination ensures you are winning the battle against germs in your environment.</span></span></span>
-
-&nbsp;
-
-&nbsp;
+              <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+  <META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+  <TITLE></TITLE>
+  <META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
+  <META NAME="AUTHOR" CONTENT="HP">
+  <META NAME="CREATED" CONTENT="20170416;120700000000000">
+  <META NAME="CHANGEDBY" CONTENT="HP">
+  <META NAME="CHANGED" CONTENT="20170419;84000000000000">
+  <META NAME="AppVersion" CONTENT="14.0000">
+  <META NAME="DocSecurity" CONTENT="0">
+  <META NAME="HyperlinksChanged" CONTENT="false">
+  <META NAME="LinksUpToDate" CONTENT="false">
+  <META NAME="ScaleCrop" CONTENT="false">
+  <META NAME="ShareDoc" CONTENT="false">
+  <STYLE TYPE="text/css">
+  <!--
+    @page { size: 8.5in 11in; margin-left: 1.25in; margin-right: 1.25in; margin-top: 1in; margin-bottom: 0.3in }
+    P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
+  -->
+  </STYLE>
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+<P STYLE="margin-bottom: 0.1in; background: #ffffff; line-height: 100%">
+<BR><BR>
+</P>
+<P STYLE="margin-bottom: 0.1in; background: #ffffff; line-height: 100%">
+<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 16pt">Greetings
+from ERAWIN</FONT></FONT></P>
+<P STYLE="margin-bottom: 0.1in; background: #ffffff; line-height: 100%">
+<BR><BR>
+</P>
+<P STYLE="margin-bottom: 0.1in; background: #ffffff; line-height: 100%">
+<FONT COLOR="#000000">         <FONT FACE="Arial, serif"><FONT SIZE=2><B>Erawin</B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>
+Educational Institution Disinfection Program aims to Protect our
+students, teachers and Our Future</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.26in">
+<FONT COLOR="#000000">         <FONT FACE="Arial, serif"><FONT SIZE=2><B>Erawin</B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>
+specialize in creating and maintaining clean working environments for
+staffs, students, parents and school visitors. We ensure a worry-free
+way for the school to maintain a healthy environment.<BR><BR></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>
+    We</B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>
+will assess your schools needs and customize a school disinfection
+program specifically geared for your building and will provide you
+with a professional team of disinfection staff capable of undertaking
+all of your regular disinfection requirements.<BR><BR></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>Locker
+room disinfection<BR>Carpet disinfection<BR>Sports equipment
+disinfection<BR>Hard and soft floor disinfection<BR>Washroom
+disinfection</B></FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in; background: #ffffff; line-height: 0.26in">
+<FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>Kitchen
+&amp; Cafeteria disinfection</B></FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.1in; background: #ffffff; line-height: 0.26in">
+<FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B><BR> 
+   Flexible</B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>
+in our work we customize our school disinfection services to your
+needs and work outside of normal school hours during weekday evenings
+and weekends to make sure your school disinfection requirements are
+met.<BR><BR></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>
+    Erawin </B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>Promise
+is to offer the finest available service at the lowest possible cost.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.1in; background: #ffffff; line-height: 0.26in">
+<BR><BR>
+</P>
+<P STYLE="margin-bottom: 0.14in"><FONT SIZE=2><U><B>SURFACES
+TREATMENT</B></U></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>BY
+AIR PATH (AIRBORNE DISINFECTION)</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000">● <FONT FACE="Arial, serif"><FONT SIZE=2>Manual
+scheduling of preventive and/or curative treatment.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000">● <FONT FACE="Arial, serif"><FONT SIZE=2>Proven
+Efficacy of the couple machine/product (Brumoxim, Emuldry 50,Odoxim).</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000">● <FONT FACE="Arial, serif"><FONT SIZE=2>Diffusion
+treatment of dry and homogeneous fog.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000">● <FONT FACE="Arial, serif"><FONT SIZE=2>Action
+on all surfaces, even inaccessible.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000">● <FONT FACE="Arial, serif"><FONT SIZE=2>Simplified
+and safe concept.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><BR><BR>
+</P>
+<P STYLE="margin-bottom: 0.14in"><FONT SIZE=2><U><B>APPLICATIONS</B></U></FONT></P>
+<P STYLE="margin-bottom: 0.14in">
+</P>
+<UL>
+  <LI><P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>KI-OSE
+  has been especially developed for the disinfection, cleaning and</FONT></FONT></FONT><FONT SIZE=2>
+  </FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>deodorizing
+  of surfaces. It is used on all surfaces in kitchens, toilets,
+  classrooms, etc.</FONT></FONT></FONT></P>
+</UL>
+<P STYLE="margin-bottom: 0.14in"><BR><BR>
+</P>
+<P STYLE="margin-bottom: 0.14in"><FONT SIZE=2><U><B>TESTS &amp;
+APPROVALS</B></U></FONT></P>
+<UL>
+  <LI><P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>Authorized</B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>
+  for food contact in accordance with the French decree dated 8th
+  September 1999 concerning the cleaning products for equipment that
+  may come into contact with foodstuffs.</FONT></FONT></FONT></P>
+</UL>
+<P STYLE="margin-bottom: 0.14in">
+</P>
+<UL>
+  <LI><P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>In
+  pursuance of article L. 522-19 of the French Environmental Code,
+  KI-OSE formula has been registered with the MEEDDM. Inventory N°
+  6462 (as per EU Biocide Directive).</FONT></FONT></FONT></P>
+</UL>
+<P STYLE="margin-bottom: 0.14in"><A NAME="_GoBack"></A><BR><BR>
+</P>
+<P STYLE="margin-bottom: 0.14in"><FONT SIZE=2><U><B>EFFICACY:</B></U></FONT></P>
+<P STYLE="margin-bottom: 0.14in">
+</P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>Bactericide
+as per EN 1276 : Pseudomonas aeruginosa, Escherichia coli,
+Staphylococcus aurous, enterococcus hirae</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000">              
+<FONT FACE="Arial, serif"><FONT SIZE=2>EN13623 : Legionnella
+pneumophila.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>Fungicide
+EN1275 : Candida albicans.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in"><BR><BR>
+</P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000">    <FONT FACE="Arial, serif"><FONT SIZE=2><B>While</B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>
+other companies may “dabble” in disinfection, we are experts
+specializing in bio-decontamination.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in">
+</P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000">    <FONT FACE="Arial, serif"><FONT SIZE=2><B>Fighting</B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>
+an outbreak or preventing your facility from becoming a breeding
+ground for infection takes training, experience, and the right
+equipment.  With over five years’ experience in high-level
+disinfection, our services use the most effective tools available
+combined with multiple product lines to provide a healthier space. 
+Our certified technicians understand the specifics and limitations to
+the technologies necessary in producing a 99.9999% kill (6-log kill).</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in">
+</P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000">     </FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>Because</B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>
+you are fighting an invisible enemy, we provide multiple methods of
+validation to prove the elimination of dangerous spores, bacteria,
+and viruses.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in">
+</P>
+<P STYLE="margin-bottom: 0.14in"><FONT COLOR="#000000">    <FONT FACE="Arial, serif"><FONT SIZE=2><B>Our</B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>
+whole-space decontamination ensures you are winning the battle
+against germs in your environment.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.14in">
+</P>
+<P STYLE="margin-bottom: 0.14in"><BR><BR>
+</P>
+</BODY>
+</HTML>
 
 
             </div>
@@ -553,11 +481,14 @@ Flexible</b></span></span></span><span style="color: #000000;"><span style="font
               <div class="touch-slider" data-slider-navigation="true" data-slider-pagination="true">
                 
                 <div class="item"><img alt="" src="images/school_images/20150421_092046.jpg"></div>
-                <div class="item"><img alt="" src="images/school_images/IMG_3228.JPG"></div>
-                <div class="item"><img alt="" src="images/school_images/IMG_4625.JPG"></div>
-                <div class="item"><img alt="" src="images/school_images/IMG_3275.JPG"></div>
+                <div class="item"><img alt="" src="images/school_images/20150421_123254.jpg"></div>
+                <div class="item"><img alt="" src="images/school_images/20150421_152619.jpg"></div>
+               
+
+                <div class="item"><img alt="" src="images/school_images/20150421_094519.jpg"></div>
                 <div class="item"><img alt="" src="images/school_images/20150422_115716.jpg"></div>
-                <div class="item"><img alt="" src="images/school_images/IMG_4636.JPG"></div>
+                
+                <div class="item"><img alt="" src="images/school_images/20150421_100757.jpg"></div>
                 <div class="item"><img alt="" src="images/school_images/20150423_130025.jpg" ></div>
               </div>
               <!-- End Touch Slider -->
