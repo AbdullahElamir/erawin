@@ -5,6 +5,22 @@
 
 <head>
 
+  <style>
+    .google-maps {
+        position: relative;
+        padding-bottom: 75%; // This is the aspect ratio
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
+</style>
+
   <!-- Basic -->
   <title>ERAWIN | Contact</title>
 
@@ -290,8 +306,9 @@
     <!-- End Header -->
 
     <!-- Start Map -->
+    <div class="google-maps">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3350.890617420466!2d13.140245428945759!3d32.87461338287923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDUyJzI4LjMiTiAxM8KwMDgnMzAuNiJF!5e0!3m2!1sen!2sly!4v1495448815590" width="1300" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+  </div>
 
     <!-- End Map -->
 

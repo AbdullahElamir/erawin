@@ -1196,7 +1196,7 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
     <div class=" section pricing-section">
       <div class="container">
       <div class="row">
-      <div class="col-md-8">
+      <div class="col-md-4">
       <h4 class="classic-title"><span>More About Us</span></h4>  
       <ul class="nav nav-tabs">
       <li class="active"><a href="#tab1" data-toggle="tab"><i class="icon-award-1"></i>The infection</a></li>
@@ -1218,7 +1218,8 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
       </div>
       </div>
       </div>
-     <!-- <div class="col-md-4">-->
+      <div class="col-md-4">
+
       <!-- <h4 class="classic-title"><span>Why Choose Us (suggestion by Osama)</span></h4>
       <div class="panel-group" id="accordion">
       <div class="panel panel-default"> 
@@ -1268,12 +1269,17 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
 </div>
  
 </div> -->
-<!--</div>-->
+</div>
 <div class="col-md-4">
  
 <h4 class="classic-title"><span>Cleaning and Sanitizing</span></h4>
  
-<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/5i0hBG8UGA0" frameborder="0" allowfullscreen></iframe></div>
+<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/5i0hBG8UGA0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
+
+<!-- <object width="425" height="350">
+<param name="movie" value="http://www.youtube.com/v/5i0hBG8UGA0?autoplay=0"></param>
+<embed src="http://www.youtube.com/v/5i0hBG8UGA0?autoplay=0" type="application/x-shockwave-flash" width="425" height="350"></embed>
+</object> -->
 </div>
 </div>
     </div>
