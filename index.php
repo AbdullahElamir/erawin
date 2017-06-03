@@ -338,7 +338,7 @@ height: 120px;
             <div class="slider-content">
               <div class="col-md-12 text-center">
                 <h2 class="animated4">
-                                <span><strong>ERAWIN</strong> THE NEW WAY OF CLEANING</span>
+                                <span><strong>ERAWIN</strong> THE NEW WAY  of Aircraft</span>
                             </h2>
                 <h3 class="animated5">
                               <span>CLEANING + SANITATION </span>
@@ -359,7 +359,7 @@ height: 120px;
             <div class="slider-content">
               <div class="col-md-12 text-center">
                 <h2 class="animated7 black">
-                                <span style="color:white">THE NEW WAY OF <strong>CLEANING</strong></span>
+                                <span style="color:white">THE NEW WAY OF Room<strong>Disinfection</strong></span>
                             </h2>
                 <h3 class="animated8 black">
                               <span>Why you are waiting</span>
@@ -1273,15 +1273,28 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
 </div> -->
 </div>
 <div class="col-md-4">
- 
+ <div class="row">
 <h4 class="classic-title"><span>Cleaning and Sanitizing</span></h4>
  
 <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/5i0hBG8UGA0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
 
+</div>
+<br><br>
+<div class="row">
+
+
+  <h4 class="classic-title"><span>Film corporate PSA Group</span></h4>
+ 
+<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/k7LnHvJYArM?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+</div>
 <!-- <object width="425" height="350">
 <param name="movie" value="http://www.youtube.com/v/5i0hBG8UGA0?autoplay=0"></param>
 <embed src="http://www.youtube.com/v/5i0hBG8UGA0?autoplay=0" type="application/x-shockwave-flash" width="425" height="350"></embed>
 </object> -->
+
+
+
 </div>
 </div>
     </div>
@@ -1311,13 +1324,81 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
 
               <!-- Client 1 -->
               <div class="client-item item">
-                <a href="#"><img src="images/c1.png" alt="" /></a>
+                <a href="#"><img src="images/Clinets/pr-4-756.jpg" alt="" /></a>
               </div>
 
               <!-- Client 2 -->
               <div class="client-item item">
-                <a href="#"><img src="images/c2.png" alt="" /></a>
+                <a href="#"><img src="images/Clinets/AAEAAQAAAAAAAAhSAAAAJDc5YjczM2MxLTliODYtNGZhYi1hZTljLTk1MjU4Mjg4YmE3YQ.png" alt="" /></a>
               </div>
+
+              <!-- Client 3 -->
+              <div class="client-item item">
+                <a href="#"><img src="images/Clinets/A_ZVN78CQAAgf7o.jpg" alt="" /></a>
+              </div>
+
+              <!-- Client 4 -->
+              <div class="client-item item">
+                <a href="#"><img src="images/Clinets/download.png" alt="" /></a>
+              </div>
+
+              <!-- Client 5 -->
+              <div class="client-item item">
+                <a href="#"><img src="images/Clinets/images-46457.jpg" alt="" /></a>
+              </div>
+
+              <!-- Client 6 -->
+              <div class="client-item item">
+                <a href="#"><img src="images/Clinets/libyan-wings-logo.jpg" alt="" /></a>
+              </div>
+
+              <!-- Client 7 -->
+              <div class="client-item item">
+                <a href="#"><img src="images/Clinets/logo.png" alt="" /></a>
+              </div>
+
+              <!-- Client 8 -->
+              
+
+            </div>
+          </div>
+          <!-- End Clients Carousel -->
+        </div>
+        <!-- .row -->
+      </div>
+      <!-- .container -->
+    </div>
+    <!-- End Client/Partner Section -->
+    <div class="call-action call-action-boxed call-action-style1 no-descripton clearfix">
+ 
+<div class="button-side"><a href="https://docs.google.com/presentation/d/10RM0F_T3CHLvg2T9BwtEcgdGGTk9DSdiaAdkueLgGkY/edit?usp=sharing" class="btn-system border-btn btn-medium">Preview it Now</a></div>
+ 
+<h2 class="primary"><strong>ERAWIN</strong> 
+CLEANING AND INFECTION CONROL</h2>
+</div>
+
+<br>
+    <div class="partner">
+      <div class="container">
+        <div class="row">
+
+          <!-- Start Big Heading -->
+          <div class="big-title text-center">
+            <h1>Our<strong>Brands</strong></h1>
+            <p class="title-desc">Brands We Work With it</p>
+          </div>
+          <!-- End Big Heading -->
+
+          <!--Start Clients Carousel-->
+          <div class="our-clients">
+            <div class="clients-carousel custom-carousel touch-carousel navigation-3" data-appeared-items="5" data-navigation="true">
+
+              <!-- Client 1 -->
+              <div class="client-item item">
+                <a href="#"><img src="images/Screenshot from 2017-06-03 16-16-37.png" alt="" /></a>
+              </div>
+
+            
 
               <!-- Client 3 -->
               <div class="client-item item">
@@ -1357,8 +1438,6 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
       </div>
       <!-- .container -->
     </div>
-    <!-- End Client/Partner Section -->
-
 
     <!-- Start Footer Section -->
     <footer>
