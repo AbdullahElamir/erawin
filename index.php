@@ -392,64 +392,27 @@ height: 120px;
       <div class="container">
         <div class="row">
 
+          <div class="row">
+
           <!-- Start Service Icon 1 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="01">
+         
+
+              <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="07">
             <div class="service-icon">
-              <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+              <i class="fa fa-ambulance icon-large"></i>
             </div>
             <div class="service-content">
-             <!--  <h4>CLEANING</h4> -->
-              <!-- <p>HAS BEEN A WAY OF PROCESS IN  REMOVING DIRT FROM THE SURFACES AND MAKE THEM VISIBLY CLEAN.</p> -->
-              <h4>AVIATION SERVICES</h4>
-              <p>Erawin working team strive to have your aircraft in the decent and clean appearance,and safer to reduce the opportunities for the spread of diseases and infections through hygiene agenda proposed by cleansing World Health Organization Guide to Hygiene .....</p>
-            
+              <h4>HEALTHCARE SECTOR</h4>
+              <p>
+SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY AREA WHERE THE HEALTHCARE PERSONNEL PASS IS A POTENTIAL AREA OF CONTAMINATION AND NEEDS TO BE THOROUGHLY CLEANED IN A WAY THAT ONLY DRY STEAM CLEANING CAN PROVIDE.</p>
             </div>
           </div>
           <!-- End Service Icon 1 -->
 
           <!-- Start Service Icon 2 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="02">
-            <div class="service-icon">
-              <i class="fa fa-eraser icon-large"></i>
-            </div>
-            <div class="service-content">
-             <!--  <h4>SANITIZING</h4>
-              <p>IS A PROCESS WHICH AIMS AT DESTROYING THE PATHOGENIC GERMS AND OTHER MICRO-ORANISM.</p> -->
-            <h4>FACILITY MANAGEMENT</h4>
-            <p>We believe that time is money, and so is health. Without the good health of your employees, productivity can slow or stop for a period of time. For that reason, we have made it our mission to make sure your business is nothing less than pristine</p>
+        
 
-            </div>
-          </div>
-          <!-- End Service Icon 2 -->
-
-          <!-- Start Service Icon 3 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="03">
-            <div class="service-icon">
-              <i class="fa fa-eye icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>STEAM CLEANING TECHNOLOGY</h4>
-              <p>Erawin for Cleaning and Infection Control brings you an ecological method of deep cleaning and sanitizing as it removes chemicals, toxins, and dirt without using solvents. Saturated Dry Steam Technology is a system of Cleaning and Sanitizing using Dry Steam which ..</p>
-            </div>
-          </div>
-          <!-- End Service Icon 3 -->
-
-          <!-- Start Service Icon 4 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="04">
-            <div class="service-icon">
-              <i class="fa fa-fire icon-medium"></i>
-            </div>
-            <div class="service-content">
-              <!-- <h4>TEMPERATURE</h4> -->
-             <!--  <p>HIGH TEMPERATURE BREAKS THE LINKS BERWEEN THE DIRT AND THE TREATED SURFACE, KILLING BACTERIA AND MICRO-ORGANISMS BY MEANS OF A THERMAL SHOCK. MOREOVER, HIGH TEMPERATURE MAKES CHEMICAL REACTION EASIER BY DRASTICALLY REDUCING DETERGENTS QUANTITY AND ACTION TIME.</p> -->
-                   <h4>PEST CONTROL SERVICES</h4>
-                   <p>Erawin Company for cleaning and infection control is honored to offer its pest and rodents control services to you. Our company is specialized in this field since the year 2013. We have the ability to design and execute integrated control programs for any type of scourge in open and closed places. We use the latest scientific methods,</p>
-            </div>
-          </div>
-          <!-- End Service Icon 4 -->
-
-          <!-- Start Service Icon 5 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="05">
+             <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="05">
             <div class="service-icon">
               <i class="fa fa-tint  icon-large"></i>
             </div>
@@ -461,7 +424,70 @@ height: 120px;
      We will assess your schools needs and customize a school disinfection program specifically geared for your building and will provide you with a professional team of disinfection staff capable of undertaking all of your regular disinfection requirements.</p>
             </div>
           </div>
+          <!-- End Service Icon 2 -->
+
+            <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="04">
+            <div class="service-icon">
+              <i class="fa fa-fire icon-medium"></i>
+            </div>
+            <div class="service-content">
+              <!-- <h4>TEMPERATURE</h4> -->
+             <!--  <p>HIGH TEMPERATURE BREAKS THE LINKS BERWEEN THE DIRT AND THE TREATED SURFACE, KILLING BACTERIA AND MICRO-ORGANISMS BY MEANS OF A THERMAL SHOCK. MOREOVER, HIGH TEMPERATURE MAKES CHEMICAL REACTION EASIER BY DRASTICALLY REDUCING DETERGENTS QUANTITY AND ACTION TIME.</p> -->
+                   <h4>PEST CONTROL SERVICES</h4>
+                   <p>Erawin Company for cleaning and infection control is honored to offer its pest and rodents control services to you. Our company is specialized in this field since the year 2013. We have the ability to design and execute integrated control programs for any type of scourge in open and closed places. We use the latest scientific methods,</p>
+            </div>
+          </div>
+
+                    <!-- Start Service Icon 5 -->
+              <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="02">
+            <div class="service-icon">
+              <i class="fa fa-eraser icon-large"></i>
+            </div>
+            <div class="service-content">
+             <!--  <h4>SANITIZING</h4>
+              <p>IS A PROCESS WHICH AIMS AT DESTROYING THE PATHOGENIC GERMS AND OTHER MICRO-ORANISM.</p> -->
+            <h4>FACILITY MANAGEMENT</h4>
+            <p>We believe that time is money, and so is health. Without the good health of your employees, productivity can slow or stop for a period of time. For that reason, we have made it our mission to make sure your business is nothing less than pristine</p>
+
+            </div>
+          </div>
           <!-- End Service Icon 5 -->
+
+      
+          <!-- Start Service Icon 4 -->
+        
+        </div>
+        <div class="row">
+          <!-- End Service Icon 4 -->
+              <!-- Start Service Icon 3 -->
+          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="03">
+            <div class="service-icon">
+              <i class="fa fa-eye icon-large"></i>
+            </div>
+            <div class="service-content">
+              <h4>STEAM CLEANING TECHNOLOGY</h4>
+              <p>Erawin for Cleaning and Infection Control brings you an ecological method of deep cleaning and sanitizing as it removes chemicals, toxins, and dirt without using solvents. Saturated Dry Steam Technology is a system of Cleaning and Sanitizing using Dry Steam which ..</p>
+            </div>
+          </div>
+          <!-- End Service Icon 3 -->
+
+            <!-- Start Service Icon 7 -->
+             <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="01">
+            <div class="service-icon">
+              <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+            </div>
+            <div class="service-content">
+             <!--  <h4>CLEANING</h4> -->
+              <!-- <p>HAS BEEN A WAY OF PROCESS IN  REMOVING DIRT FROM THE SURFACES AND MAKE THEM VISIBLY CLEAN.</p> -->
+              <h4>AVIATION SERVICES</h4>
+              <p>Erawin working team strive to have your aircraft in the decent and clean appearance,and safer to reduce the opportunities for the spread of diseases and infections through hygiene agenda proposed by cleansing World Health Organization Guide to Hygiene .....</p>
+            
+            </div>
+          </div>
+          <!-- End Service Icon 7 -->
+
+
+
 
           <!-- Start Service Icon 6 -->
           <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="06">
@@ -469,24 +495,13 @@ height: 120px;
               <i class="fa fa-line-chart  icon-large"></i>
             </div>
             <div class="service-content">
-              <h4>PRESSURE</h4>
-              <p>DALTHOUGH, IN THIS CASE, PRESSURE DOES NOT PLAY A PRIMARY ROLE IN THE CLEANING FUNCTION IT PLAY A SYNERGIC ROLE WITH THE OTHER TWO FACTORS</p>
+              <h4>CLEANING</h4>
+              <p>HAS BEEN A WAY OF PROCESS IN  REMOVING DIRT FROM THE SURFACES AND MAKE THEM VISIBLY , CLEAN , WATER </p>
             </div>
           </div>
           <!-- End Service Icon 6 -->
 
-          <!-- Start Service Icon 7 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="07">
-            <div class="service-icon">
-              <i class="fa fa-ambulance icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>HEALTHCARE SECTOR</h4>
-              <p>
-SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY AREA WHERE THE HEALTHCARE PERSONNEL PASS IS A POTENTIAL AREA OF CONTAMINATION AND NEEDS TO BE THOROUGHLY CLEANED IN A WAY THAT ONLY DRY STEAM CLEANING CAN PROVIDE.</p>
-            </div>
-          </div>
-          <!-- End Service Icon 7 -->
+        
 
           <!-- Start Service Icon 8 -->
           <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="08">
@@ -499,7 +514,7 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
             </div>
           </div>
           <!-- End Service Icon 8 -->
-
+        </div>
         </div>
         <!-- .row -->
       </div>
