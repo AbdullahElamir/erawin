@@ -334,7 +334,7 @@ height: 120px;
           </div>
           <!--/ Carousel item end -->
           <div class="item">
-            <img class="img-responsive" src="images/slider/cleaning-the-aircraft3.jpg" alt="slider">
+            <img class="img-responsive" src="images/slider/cleaning-the-aircraftf3.jpg" alt="slider">
             <div class="slider-content">
               <div class="col-md-12 text-center">
                 <h2 class="animated4">
@@ -355,11 +355,11 @@ height: 120px;
           </div>
           <!--/ Carousel item end -->
           <div class="item">
-            <img class="img-responsive" src="images/slider/background3.jpg" alt="slider">
+            <img class="img-responsive" src="images/slider/backgroundd3.jpg" alt="slider">
             <div class="slider-content">
               <div class="col-md-12 text-center">
                 <h2 class="animated7 black">
-                                <span style="color:white">THE NEW WAY OF Room<strong>Disinfection</strong></span>
+                                <span style="color:black">THE NEW WAY OF Room<strong>Disinfection</strong></span>
                             </h2>
                 <h3 class="animated8 black">
                               <span>Why you are waiting</span>
