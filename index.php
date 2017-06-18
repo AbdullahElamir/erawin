@@ -419,9 +419,10 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
             <div class="service-content">
              <!--  <h4>HUMIDITY</h4>
               <p>WATER IS CALLED THE UNIVERSAL SOLVENT. EVEN MOUNTAIN ARE MELTED BY WAYER. “DRY STEAM” CONTAINS MICRO DROP OF WATER, WHICH DETACH THE DIRT FROM THE TREATED SURFACES, KEEP IT IN SUSPENSION AND AVOID LETTING IT INTO THE AIR</p> -->
-              <h4>SCHOOL SERVICES</h4>
-              <p>Erawin specialize in creating and maintaining clean working environments for staffs, students, parents and school visitors. We ensure a worry-free way for the school to maintain a healthy environment.
-     We will assess your schools needs and customize a school disinfection program specifically geared for your building and will provide you with a professional team of disinfection staff capable of undertaking all of your regular disinfection requirements.</p>
+            
+             <h4>AVIATION SERVICES</h4>
+              <p>Erawin working team strive to have your aircraft in the decent and clean appearance,and safer to reduce the opportunities for the spread of diseases and infections through hygiene agenda proposed by cleansing World Health Organization Guide to Hygiene .....</p>
+            
             </div>
           </div>
           <!-- End Service Icon 2 -->
@@ -479,8 +480,9 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
             <div class="service-content">
              <!--  <h4>CLEANING</h4> -->
               <!-- <p>HAS BEEN A WAY OF PROCESS IN  REMOVING DIRT FROM THE SURFACES AND MAKE THEM VISIBLY CLEAN.</p> -->
-              <h4>AVIATION SERVICES</h4>
-              <p>Erawin working team strive to have your aircraft in the decent and clean appearance,and safer to reduce the opportunities for the spread of diseases and infections through hygiene agenda proposed by cleansing World Health Organization Guide to Hygiene .....</p>
+               <h4>SCHOOL SERVICES</h4>
+              <p>Erawin specialize in creating and maintaining clean working environments for staffs, students, parents and school visitors. We ensure a worry-free way for the school to maintain a healthy environment.
+     We will assess your schools needs and customize a school disinfection program specifically geared for your building and will provide you with a professional team of disinfection staff capable of undertaking all of your regular disinfection requirements.</p>
             
             </div>
           </div>
@@ -1408,43 +1410,43 @@ CLEANING AND INFECTION CONROL</h2>
           <div class="our-clients">
             <div class="clients-carousel custom-carousel touch-carousel navigation-3" data-appeared-items="5" data-navigation="true">
 
-              <!-- Client 1 -->
-              <div class="client-item item">
-                <a href="#"><img src="images/Screenshot from 2017-06-03 16-16-37.png" alt="" /></a>
+        
+     <div class="client-item item">
+                <a href="#"><img src="images/c331.jpg" alt="" /></a>
               </div>
 
             
 
               <!-- Client 3 -->
-              <div class="client-item item">
+        <!--      <div class="client-item item">
                 <a href="#"><img src="images/c3.png" alt="" /></a>
               </div>
 
-              <!-- Client 4 -->
+
               <div class="client-item item">
                 <a href="#"><img src="images/c4.png" alt="" /></a>
               </div>
 
-              <!-- Client 5 -->
+          
               <div class="client-item item">
                 <a href="#"><img src="images/c5.png" alt="" /></a>
               </div>
 
-              <!-- Client 6 -->
+           
               <div class="client-item item">
                 <a href="#"><img src="images/c6.png" alt="" /></a>
-              </div>
+              </div>-->
 
-              <!-- Client 7 -->
+              
               <div class="client-item item">
                 <a href="#"><img src="images/c7.png" alt="" /></a>
               </div>
 
-              <!-- Client 8 -->
+          <!--  
               <div class="client-item item">
                 <a href="#"><img src="images/c8.png" alt="" /></a>
               </div>
-
+-->
             </div>
           </div>
           <!-- End Clients Carousel -->
