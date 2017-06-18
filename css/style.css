@@ -830,6 +830,7 @@ ul.social-list li:last-child a i {
 
 #main-slide .item img{
 	width: 100%;
+	
 }
 
 #main-slide .item .slider-content {
@@ -839,6 +840,7 @@ ul.social-list li:last-child a i {
   -moz-transition: opacity 500ms;
   -o-transition: opacity 500ms;
   transition: opacity 500ms;
+ 
 }
 #main-slide .item.active .slider-content {
   z-index: 0;
