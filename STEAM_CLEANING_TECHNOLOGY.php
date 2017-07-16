@@ -472,65 +472,110 @@
 
           <!-- Start Team Members -->
            <div class="row">
-
-          <!-- Start Memebr 1 -->
-          <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="03">
-            <div class="team-member modern">
-              <!-- Memebr Photo, Name & Position -->
-              <div class="member-photo">
-                <img alt="" src="images/team/face_1.png" />
-                <div class="member-name">Osama Rihan <span>G.Manager</span>
+             <!-- Start Memebr 4 -->
+            <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn"  data-animation-delay="03">
+              <div class="team-member modern">
+                <!-- Memebr Photo, Name & Position -->
+                <div class="member-photo">
+                  <img alt="" src="images/team/face_4.png" width="221px" />
+                  <div class="member-name">Salahadean A. Jadaa <span>Board Chairman</span>
+                  </div>
                 </div>
-              </div>
-              <!-- Memebr Words -->
-              <div class="member-info">
-                <p>General Manager at Erawin for Cleaning and Infection Control .</p>
-              </div>
-              <!-- Start Progress Bar 1 -->
-              <div class="progress-label">Engineering</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="96%" data-appear-animation-delay="400">
-                  <span class="percentage">96%</span>
+                <!-- Memebr Words -->
+                <div class="member-info">
+                  <p><font face="verdana" color="black" size="3">board chairman at Erawin for Cleaning and Infection Control .</font></p>
                 </div>
-              </div>
-              <!-- Start Progress Bar 2 -->
-              <div class="progress-label">Writer</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="88%" data-appear-animation-delay="800">
-                  <span class="percentage">88%</span>
+                <!-- Start Progress Bar 1 -->
+                <div class="progress-label">Photoshop</div>
+                <div class="progress">
+                  <div class="progress-bar progress-bar-primary" data-progress-animation="96%" data-appear-animation-delay="400">
+                    <span class="percentage">96%</span>
+                  </div>
                 </div>
-              </div>
-              <!-- Start Progress Bar 3 -->
-              <div class="progress-label">programming</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
-                  <span class="percentage">100%</span>
+                <!-- Start Progress Bar 2 -->
+                <div class="progress-label">Logo Design</div>
+                <div class="progress">
+                  <div class="progress-bar progress-bar-primary" data-progress-animation="85%" data-appear-animation-delay="800">
+                    <span class="percentage">85%</span>
+                  </div>
                 </div>
-              </div>
-              <!-- Memebr Social Links -->
-              <div class="member-socail">
-                <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-                <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-                <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+                <!-- Start Progress Bar 3 -->
+                <div class="progress-label">Vectors Design</div>
+                <div class="progress">
+                  <div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
+                    <span class="percentage">100%</span>
+                  </div>
+                </div>
+                <!-- Memebr Social Links -->
+                <div class="member-socail">
+                  <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+                  <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
+                  <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                  <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
+                  <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+                </div>
               </div>
             </div>
-          </div>
+          <!-- End Memebr 4 -->
+
+          <!-- Start Memebr 1 -->
+              <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="04">
+                <div class="team-member modern">
+                  <!-- Memebr Photo, Name & Position -->
+                  <div class="member-photo">
+                    <img alt="" src="images/team/face_1.png" />
+                    <div class="member-name">Osama Rihan <span>G.Manager</span>
+                    </div>
+                  </div>
+                  <!-- Memebr Words -->
+                  <div class="member-info">
+                    <p><font face="verdana" color="black" size="3">General Manager at Erawin for Cleaning and Infection Control .</font></p>
+                  </div>
+                  <!-- Start Progress Bar 1 -->
+                  <div class="progress-label">Engineering</div>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-progress-animation="96%" data-appear-animation-delay="400">
+                      <span class="percentage">96%</span>
+                    </div>
+                  </div>
+                  <!-- Start Progress Bar 2 -->
+                  <div class="progress-label">Writer</div>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-progress-animation="88%" data-appear-animation-delay="800">
+                      <span class="percentage">88%</span>
+                    </div>
+                  </div>
+                  <!-- Start Progress Bar 3 -->
+                  <div class="progress-label">programming</div>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
+                      <span class="percentage">100%</span>
+                    </div>
+                  </div>
+                  <!-- Memebr Social Links -->
+                  <div class="member-socail">
+                    <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+                    <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
+                    <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                    <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
+                    <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+                  </div>
+                </div>
+              </div>
           <!-- End Memebr 1 -->
 
           <!-- Start Memebr 2 -->
-          <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="04">
+          <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="05">
             <div class="team-member modern">
               <!-- Memebr Photo, Name & Position -->
               <div class="member-photo">
                 <img alt="" src="images/team/face_2.png" />
-                <div class="member-name">Ashraf Rihan <span>Developer</span>
+                <div class="member-name">Ashraf Rihan <span>Marketing </span>
                 </div>
               </div>
               <!-- Memebr Words -->
-              <div class="member-info">
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat.</p>
+                <div class="member-info">
+                <p><font face="verdana" color="black" size="3">Marketing Director at Erawin for Cleaning and Infection Control .</font></p>
               </div>
               <!-- Start Progress Bar 1 -->
               <div class="progress-label">Photoshop</div>
@@ -566,17 +611,17 @@
           <!-- End Memebr 2 -->
 
           <!-- Start Memebr 3 -->
-          <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="05">
+          <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="06">
             <div class="team-member modern">
               <!-- Memebr Photo, Name & Position -->
               <div class="member-photo">
-                <img alt="" src="images/team/face_3.png" />
-                <div class="member-name">Abdulmonum Rihan <span>Developer</span>
+                <img alt="" src="images/team/face_3.png" width="225px" />
+                <div class="member-name">Milad F. Ben Noba <span>Technical Manager</span>
                 </div>
               </div>
               <!-- Memebr Words -->
-              <div class="member-info">
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat.</p>
+                 <div class="member-info">
+                <p><font face="verdana" color="black" size="3">Technical Manager at Erawin for Cleaning and Infection Control .</font></p>
               </div>
               <!-- Start Progress Bar 1 -->
               <div class="progress-label">Photoshop</div>
@@ -611,53 +656,9 @@
           </div>
           <!-- End Memebr 3 -->
 
-          <!-- Start Memebr 4 -->
-          <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="06">
-            <div class="team-member modern">
-              <!-- Memebr Photo, Name & Position -->
-              <div class="member-photo">
-                <img alt="" src="images/team/face_4.png" />
-                <div class="member-name">Abdo Elamir <span>Developer</span>
-                </div>
-              </div>
-              <!-- Memebr Words -->
-              <div class="member-info">
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat.</p>
-              </div>
-              <!-- Start Progress Bar 1 -->
-              <div class="progress-label">Photoshop</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="96%" data-appear-animation-delay="400">
-                  <span class="percentage">96%</span>
-                </div>
-              </div>
-              <!-- Start Progress Bar 2 -->
-              <div class="progress-label">Logo Design</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="85%" data-appear-animation-delay="800">
-                  <span class="percentage">85%</span>
-                </div>
-              </div>
-              <!-- Start Progress Bar 3 -->
-              <div class="progress-label">Vectors Design</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
-                  <span class="percentage">100%</span>
-                </div>
-              </div>
-              <!-- Memebr Social Links -->
-              <div class="member-socail">
-                <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-                <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-                <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
-              </div>
-            </div>
-          </div>
-          <!-- End Memebr 4 -->
+     
 
-        </div>
+    </div>
           <!-- End Team Members -->
 
           <!-- Divider -->
