@@ -625,6 +625,7 @@ of Form</SPAN></FONT></FONT></P>
 
           <!-- Start Team Members -->
            <div class="row">
+
              <!-- Start Memebr 4 -->
             <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn"  data-animation-delay="03">
               <div class="team-member modern">
@@ -719,16 +720,19 @@ of Form</SPAN></FONT></FONT></P>
 
           <!-- Start Memebr 2 -->
           <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="05">
+
             <div class="team-member modern">
               <!-- Memebr Photo, Name & Position -->
               <div class="member-photo">
                 <img alt="" src="images/team/face_2.png" />
+
                 <div class="member-name">Ashraf Rihan <span>Marketing </span>
                 </div>
               </div>
               <!-- Memebr Words -->
                 <div class="member-info">
                 <p><font face="verdana" color="black" size="3">Marketing Director at Erawin for Cleaning and Infection Control .</font></p>
+
               </div>
               <!-- Start Progress Bar 1 -->
               <div class="progress-label">Photoshop</div>
@@ -764,6 +768,7 @@ of Form</SPAN></FONT></FONT></P>
           <!-- End Memebr 2 -->
 
           <!-- Start Memebr 3 -->
+
           <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="06">
             <div class="team-member modern">
               <!-- Memebr Photo, Name & Position -->
@@ -775,6 +780,7 @@ of Form</SPAN></FONT></FONT></P>
               <!-- Memebr Words -->
                  <div class="member-info">
                 <p><font face="verdana" color="black" size="3">Technical Manager at Erawin for Cleaning and Infection Control .</font></p>
+
               </div>
               <!-- Start Progress Bar 1 -->
               <div class="progress-label">Photoshop</div>
@@ -812,7 +818,7 @@ of Form</SPAN></FONT></FONT></P>
      
 
     </div>
-          <!-- End Team Members -->
+<!-- End Team Members -->
 
           <!-- Divider -->
           <div class="hr1" style="margin-bottom:50px;"></div>

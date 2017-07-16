@@ -857,95 +857,95 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
         
         <div class="row">
              <!-- Start Memebr 4 -->
-          <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="03">
-            <div class="team-member modern">
-              <!-- Memebr Photo, Name & Position -->
-              <div class="member-photo">
-                <img alt="" src="images/team/face_4.png" width="221px" />
-                <div class="member-name">Salahadean A. Jadaa <span>Board Chairman</span>
+            <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn"  data-animation-delay="03">
+              <div class="team-member modern">
+                <!-- Memebr Photo, Name & Position -->
+                <div class="member-photo">
+                  <img alt="" src="images/team/face_4.png" width="221px" />
+                  <div class="member-name">Salahadean A. Jadaa <span>Board Chairman</span>
+                  </div>
                 </div>
-              </div>
-              <!-- Memebr Words -->
-              <div class="member-info">
-                <p><font face="verdana" color="black" size="3">board chairman at Erawin for Cleaning and Infection Control .</font></p>
-              </div>
-              <!-- Start Progress Bar 1 -->
-              <div class="progress-label">Photoshop</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="96%" data-appear-animation-delay="400">
-                  <span class="percentage">96%</span>
+                <!-- Memebr Words -->
+                <div class="member-info">
+                  <p><font face="verdana" color="black" size="3">board chairman at Erawin for Cleaning and Infection Control .</font></p>
                 </div>
-              </div>
-              <!-- Start Progress Bar 2 -->
-              <div class="progress-label">Logo Design</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="85%" data-appear-animation-delay="800">
-                  <span class="percentage">85%</span>
+                <!-- Start Progress Bar 1 -->
+                <div class="progress-label">Photoshop</div>
+                <div class="progress">
+                  <div class="progress-bar progress-bar-primary" data-progress-animation="96%" data-appear-animation-delay="400">
+                    <span class="percentage">96%</span>
+                  </div>
                 </div>
-              </div>
-              <!-- Start Progress Bar 3 -->
-              <div class="progress-label">Vectors Design</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
-                  <span class="percentage">100%</span>
+                <!-- Start Progress Bar 2 -->
+                <div class="progress-label">Logo Design</div>
+                <div class="progress">
+                  <div class="progress-bar progress-bar-primary" data-progress-animation="85%" data-appear-animation-delay="800">
+                    <span class="percentage">85%</span>
+                  </div>
                 </div>
-              </div>
-              <!-- Memebr Social Links -->
-              <div class="member-socail">
-                <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-                <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-                <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+                <!-- Start Progress Bar 3 -->
+                <div class="progress-label">Vectors Design</div>
+                <div class="progress">
+                  <div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
+                    <span class="percentage">100%</span>
+                  </div>
+                </div>
+                <!-- Memebr Social Links -->
+                <div class="member-socail">
+                  <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+                  <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
+                  <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                  <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
+                  <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+                </div>
               </div>
             </div>
-          </div>
           <!-- End Memebr 4 -->
 
           <!-- Start Memebr 1 -->
-          <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="04">
-            <div class="team-member modern">
-              <!-- Memebr Photo, Name & Position -->
-              <div class="member-photo">
-                <img alt="" src="images/team/face_1.png" />
-                <div class="member-name">Osama Rihan <span>G.Manager</span>
+              <div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="04">
+                <div class="team-member modern">
+                  <!-- Memebr Photo, Name & Position -->
+                  <div class="member-photo">
+                    <img alt="" src="images/team/face_1.png" />
+                    <div class="member-name">Osama Rihan <span>G.Manager</span>
+                    </div>
+                  </div>
+                  <!-- Memebr Words -->
+                  <div class="member-info">
+                    <p><font face="verdana" color="black" size="3">General Manager at Erawin for Cleaning and Infection Control .</font></p>
+                  </div>
+                  <!-- Start Progress Bar 1 -->
+                  <div class="progress-label">Engineering</div>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-progress-animation="96%" data-appear-animation-delay="400">
+                      <span class="percentage">96%</span>
+                    </div>
+                  </div>
+                  <!-- Start Progress Bar 2 -->
+                  <div class="progress-label">Writer</div>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-progress-animation="88%" data-appear-animation-delay="800">
+                      <span class="percentage">88%</span>
+                    </div>
+                  </div>
+                  <!-- Start Progress Bar 3 -->
+                  <div class="progress-label">programming</div>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
+                      <span class="percentage">100%</span>
+                    </div>
+                  </div>
+                  <!-- Memebr Social Links -->
+                  <div class="member-socail">
+                    <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+                    <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
+                    <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                    <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
+                    <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
+                  </div>
                 </div>
               </div>
-              <!-- Memebr Words -->
-              <div class="member-info">
-                <p><font face="verdana" color="black" size="3">General Manager at Erawin for Cleaning and Infection Control .</font></p>
-              </div>
-              <!-- Start Progress Bar 1 -->
-              <div class="progress-label">Engineering</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="96%" data-appear-animation-delay="400">
-                  <span class="percentage">96%</span>
-                </div>
-              </div>
-              <!-- Start Progress Bar 2 -->
-              <div class="progress-label">Writer</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="88%" data-appear-animation-delay="800">
-                  <span class="percentage">88%</span>
-                </div>
-              </div>
-              <!-- Start Progress Bar 3 -->
-              <div class="progress-label">programming</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
-                  <span class="percentage">100%</span>
-                </div>
-              </div>
-              <!-- Memebr Social Links -->
-              <div class="member-socail">
-                <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-                <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-                <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                <a class="mail" href="#"><i class="fa fa-envelope"></i></a>
-              </div>
-            </div>
-          </div>
           <!-- End Memebr 1 -->
 
           <!-- Start Memebr 2 -->
@@ -1042,7 +1042,7 @@ SANITIZING THE ENVIRONMENT CANNOT BE LIMITED ONLY TO THE OPERATING ROOM. EVERY A
 
      
 
-        </div>
+    </div>
         <!-- End Team Members -->
 
       </div>
